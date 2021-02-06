@@ -13,6 +13,8 @@ that were used in the research reported on in the paper
 
 ## Cite
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4512367.svg)](https://doi.org/10.5281/zenodo.4512367)
+
 To cite this software, please cite the [On the Cluster-aware Supervised Learning (CluSL): Frameworks, Convergent Algorithms, and Applications](https://doi.org/10.1287/ijoc.2020.1053) using its DOI and the software itself, using the DOI.
 
 Below is the BibTex for citing this version of the code.
