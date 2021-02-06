@@ -25,7 +25,7 @@ Below is the BibTex for citing this version of the code.
   publisher =     {INFORMS Journal on Computing},
   title =         {{CluSL} Version v2020.1053},
   year =          {2020},
-  doi =           {10.1287/zenodo.4512366},
+  doi =           {10.5281/zenodo.4512367},
   url =           {https://github.com/INFORMSJoC/2020.1053},
 }  
 ```
