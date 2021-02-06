@@ -1,0 +1,31 @@
+iteration:1
+iteration:1, computational time when k=4,weight=0.000000: 1.112027
+iteration:2
+iteration:2, computational time when k=4,weight=0.000000: 0.997333
+iteration:3
+iteration:3, computational time when k=4,weight=0.000000: 1.283567
+iteration:4
+iteration:4, computational time when k=4,weight=0.000000: 1.297233
+iteration:5
+iteration:5, computational time when k=4,weight=0.000000: 1.183467
+iteration:1
+iteration:1, computational time when k=4,weight=0.100000: 1.085098
+iteration:2
+iteration:2, computational time when k=4,weight=0.100000: 0.575461
+iteration:3
+iteration:3, computational time when k=4,weight=0.100000: 1.186826
+iteration:4
+iteration:4, computational time when k=4,weight=0.100000: 0.851722
+iteration:5
+iteration:5, computational time when k=4,weight=0.100000: 1.387290
+iteration:1
+iteration:1, computational time when k=4,weight=0.050000: 0.518614
+iteration:2
+iteration:2, computational time when k=4,weight=0.050000: 0.978383
+iteration:3
+iteration:3, computational time when k=4,weight=0.050000: 1.552848
+iteration:4
+iteration:4, computational time when k=4,weight=0.050000: 0.525595
+iteration:5
+iteration:5, computational time when k=4,weight=0.050000: 0.735035
+

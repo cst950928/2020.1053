@@ -1,0 +1,93 @@
+*****iteration:1*****
+*****kernal=rfb,tolerance:0.100000,penalty=1*****
+total error=0.5783356266046049
+*****kernal=rfb,tolerance:0.100000,penalty=10*****
+total error=0.7092568659102946
+*****kernal=rfb,tolerance:0.100000,penalty=20*****
+total error=0.7702658604907362
+*****kernal=rfb,tolerance:0.100000,penalty=30*****
+total error=0.8297572493235695
+*****kernal=rfb,tolerance:0.100000,penalty=40*****
+total error=0.8860269659751233
+*****kernal=rfb,tolerance:0.001000,penalty=1*****
+total error=0.577977885956812
+*****kernal=rfb,tolerance:0.001000,penalty=10*****
+total error=0.7116354527799377
+*****kernal=rfb,tolerance:0.001000,penalty=20*****
+total error=0.7746129021006022
+*****kernal=rfb,tolerance:0.001000,penalty=30*****
+total error=0.830998703712775
+*****kernal=rfb,tolerance:0.001000,penalty=40*****
+total error=0.887046525619311
+*****kernal=rfb,tolerance:0.000010,penalty=1*****
+total error=0.577916158475892
+*****kernal=rfb,tolerance:0.000010,penalty=10*****
+total error=0.711647790323763
+*****kernal=rfb,tolerance:0.000010,penalty=20*****
+total error=0.7746880072362643
+*****kernal=rfb,tolerance:0.000010,penalty=30*****
+total error=0.8310102717099372
+*****kernal=rfb,tolerance:0.000010,penalty=40*****
+total error=0.8870085292083215
+*****iteration:1*****
+*****kernal=linear,tolerance:0.100000,penalty=1*****
+total error=0.6801828137159145
+*****kernal=linear,tolerance:0.100000,penalty=10*****
+total error=0.684730876234954
+*****kernal=linear,tolerance:0.100000,penalty=20*****
+total error=0.6826535475509982
+*****kernal=linear,tolerance:0.100000,penalty=30*****
+total error=0.680342514146086
+*****kernal=linear,tolerance:0.100000,penalty=40*****
+total error=0.6798915304748133
+*****kernal=linear,tolerance:0.001000,penalty=1*****
+total error=0.6751530273010424
+*****kernal=linear,tolerance:0.001000,penalty=10*****
+total error=0.6756319939342438
+*****kernal=linear,tolerance:0.001000,penalty=20*****
+total error=0.6756233853414957
+*****kernal=linear,tolerance:0.001000,penalty=30*****
+total error=0.6756473515250989
+*****kernal=linear,tolerance:0.001000,penalty=40*****
+total error=0.6756597642826974
+*****kernal=linear,tolerance:0.000010,penalty=1*****
+total error=0.6753801295256141
+*****kernal=linear,tolerance:0.000010,penalty=10*****
+total error=0.6752707322252155
+*****kernal=linear,tolerance:0.000010,penalty=20*****
+total error=0.6752769861518507
+*****kernal=linear,tolerance:0.000010,penalty=30*****
+total error=0.6753124624719341
+*****kernal=linear,tolerance:0.000010,penalty=40*****
+total error=0.6753430235942149
+*****iteration:1*****
+*****kernal=poly,tolerance:0.100000,penalty=1*****
+total error=0.8914751060692074
+*****kernal=poly,tolerance:0.100000,penalty=10*****
+total error=1.019366467196901
+*****kernal=poly,tolerance:0.100000,penalty=20*****
+total error=1.0463538174003402
+*****kernal=poly,tolerance:0.100000,penalty=30*****
+total error=1.056484704327049
+*****kernal=poly,tolerance:0.100000,penalty=40*****
+total error=1.0608105330993733
+*****kernal=poly,tolerance:0.001000,penalty=1*****
+total error=0.872489004704258
+*****kernal=poly,tolerance:0.001000,penalty=10*****
+total error=1.0205914546884989
+*****kernal=poly,tolerance:0.001000,penalty=20*****
+total error=1.0287090739171088
+*****kernal=poly,tolerance:0.001000,penalty=30*****
+total error=1.043534415519133
+*****kernal=poly,tolerance:0.001000,penalty=40*****
+total error=1.0528147080628099
+*****kernal=poly,tolerance:0.000010,penalty=1*****
+total error=0.8726410111845408
+*****kernal=poly,tolerance:0.000010,penalty=10*****
+total error=1.020852376324841
+*****kernal=poly,tolerance:0.000010,penalty=20*****
+total error=1.0281739645911914
+*****kernal=poly,tolerance:0.000010,penalty=30*****
+total error=1.0442612618569589
+*****kernal=poly,tolerance:0.000010,penalty=40*****
+total error=1.0528375983153182

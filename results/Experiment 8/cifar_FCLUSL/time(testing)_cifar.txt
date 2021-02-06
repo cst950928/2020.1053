@@ -1,0 +1,210 @@
+iteration = 1, testing time when k = 50, rho = 0.010000: 0.023962
+iteration = 1, testing time when k = 50, rho = 0.100000: 0.015601
+iteration = 1, testing time when k = 50, rho = 0.300000: 0.016254
+iteration = 1, testing time when k = 50, rho = 0.500000: 0.016159
+iteration = 1, testing time when k = 50, rho = 0.700000: 0.015983
+iteration = 1, testing time when k = 50, rho = 0.900000: 0.015617
+iteration = 1, testing time when k = 100, rho = 0.010000: 0.027383
+iteration = 1, testing time when k = 100, rho = 0.100000: 0.026546
+iteration = 1, testing time when k = 100, rho = 0.300000: 0.025370
+iteration = 1, testing time when k = 100, rho = 0.500000: 0.024789
+iteration = 1, testing time when k = 100, rho = 0.700000: 0.028053
+iteration = 1, testing time when k = 100, rho = 0.900000: 0.023705
+iteration = 1, testing time when k = 200, rho = 0.010000: 0.050247
+iteration = 1, testing time when k = 200, rho = 0.100000: 0.044935
+iteration = 1, testing time when k = 200, rho = 0.300000: 0.046564
+iteration = 1, testing time when k = 200, rho = 0.500000: 0.047175
+iteration = 1, testing time when k = 200, rho = 0.700000: 0.046387
+iteration = 1, testing time when k = 200, rho = 0.900000: 0.048040
+iteration = 1, testing time when k = 300, rho = 0.010000: 0.072816
+iteration = 1, testing time when k = 300, rho = 0.100000: 0.073090
+iteration = 1, testing time when k = 300, rho = 0.300000: 0.064636
+iteration = 1, testing time when k = 300, rho = 0.500000: 0.062701
+iteration = 1, testing time when k = 300, rho = 0.700000: 0.063646
+iteration = 1, testing time when k = 300, rho = 0.900000: 0.082788
+iteration = 1, testing time when k = 500, rho = 0.010000: 0.119896
+iteration = 1, testing time when k = 500, rho = 0.100000: 0.099616
+iteration = 1, testing time when k = 500, rho = 0.300000: 0.107674
+iteration = 1, testing time when k = 500, rho = 0.500000: 0.099893
+iteration = 1, testing time when k = 500, rho = 0.700000: 0.103821
+iteration = 1, testing time when k = 500, rho = 0.900000: 0.108027
+iteration = 2, testing time when k = 50, rho = 0.010000: 0.019760
+iteration = 2, testing time when k = 50, rho = 0.100000: 0.016315
+iteration = 2, testing time when k = 50, rho = 0.300000: 0.015954
+iteration = 2, testing time when k = 50, rho = 0.500000: 0.017016
+iteration = 2, testing time when k = 50, rho = 0.700000: 0.016265
+iteration = 2, testing time when k = 50, rho = 0.900000: 0.016102
+iteration = 2, testing time when k = 100, rho = 0.010000: 0.028114
+iteration = 2, testing time when k = 100, rho = 0.100000: 0.024677
+iteration = 2, testing time when k = 100, rho = 0.300000: 0.024941
+iteration = 2, testing time when k = 100, rho = 0.500000: 0.024717
+iteration = 2, testing time when k = 100, rho = 0.700000: 0.025117
+iteration = 2, testing time when k = 100, rho = 0.900000: 0.024783
+iteration = 2, testing time when k = 200, rho = 0.010000: 0.064812
+iteration = 2, testing time when k = 200, rho = 0.100000: 0.045660
+iteration = 2, testing time when k = 200, rho = 0.300000: 0.045293
+iteration = 2, testing time when k = 200, rho = 0.500000: 0.046404
+iteration = 2, testing time when k = 200, rho = 0.700000: 0.047330
+iteration = 2, testing time when k = 200, rho = 0.900000: 0.046531
+iteration = 2, testing time when k = 300, rho = 0.010000: 0.074487
+iteration = 2, testing time when k = 300, rho = 0.100000: 0.064166
+iteration = 2, testing time when k = 300, rho = 0.300000: 0.064517
+iteration = 2, testing time when k = 300, rho = 0.500000: 0.069030
+iteration = 2, testing time when k = 300, rho = 0.700000: 0.063320
+iteration = 2, testing time when k = 300, rho = 0.900000: 0.062370
+iteration = 2, testing time when k = 500, rho = 0.010000: 0.126517
+iteration = 2, testing time when k = 500, rho = 0.100000: 0.102242
+iteration = 2, testing time when k = 500, rho = 0.300000: 0.101490
+iteration = 2, testing time when k = 500, rho = 0.500000: 0.110555
+iteration = 2, testing time when k = 500, rho = 0.700000: 0.102336
+iteration = 2, testing time when k = 500, rho = 0.900000: 0.102179
+iteration = 3, testing time when k = 50, rho = 0.010000: 0.020098
+iteration = 3, testing time when k = 50, rho = 0.100000: 0.016104
+iteration = 3, testing time when k = 50, rho = 0.300000: 0.015892
+iteration = 3, testing time when k = 50, rho = 0.500000: 0.016456
+iteration = 3, testing time when k = 50, rho = 0.700000: 0.015547
+iteration = 3, testing time when k = 50, rho = 0.900000: 0.016167
+iteration = 3, testing time when k = 100, rho = 0.010000: 0.026379
+iteration = 3, testing time when k = 100, rho = 0.100000: 0.024585
+iteration = 3, testing time when k = 100, rho = 0.300000: 0.023798
+iteration = 3, testing time when k = 100, rho = 0.500000: 0.024288
+iteration = 3, testing time when k = 100, rho = 0.700000: 0.023936
+iteration = 3, testing time when k = 100, rho = 0.900000: 0.023890
+iteration = 3, testing time when k = 200, rho = 0.010000: 0.051515
+iteration = 3, testing time when k = 200, rho = 0.100000: 0.047889
+iteration = 3, testing time when k = 200, rho = 0.300000: 0.044058
+iteration = 3, testing time when k = 200, rho = 0.500000: 0.044578
+iteration = 3, testing time when k = 200, rho = 0.700000: 0.044469
+iteration = 3, testing time when k = 200, rho = 0.900000: 0.043917
+iteration = 3, testing time when k = 300, rho = 0.010000: 0.071180
+iteration = 3, testing time when k = 300, rho = 0.100000: 0.062394
+iteration = 3, testing time when k = 300, rho = 0.300000: 0.063622
+iteration = 3, testing time when k = 300, rho = 0.500000: 0.064628
+iteration = 3, testing time when k = 300, rho = 0.700000: 0.062707
+iteration = 3, testing time when k = 300, rho = 0.900000: 0.062795
+iteration = 3, testing time when k = 500, rho = 0.010000: 0.119302
+iteration = 3, testing time when k = 500, rho = 0.100000: 0.109809
+iteration = 3, testing time when k = 500, rho = 0.300000: 0.103263
+iteration = 3, testing time when k = 500, rho = 0.500000: 0.104876
+iteration = 3, testing time when k = 500, rho = 0.700000: 0.110267
+iteration = 3, testing time when k = 500, rho = 0.900000: 0.100361
+iteration = 4, testing time when k = 50, rho = 0.010000: 0.019758
+iteration = 4, testing time when k = 50, rho = 0.100000: 0.015942
+iteration = 4, testing time when k = 50, rho = 0.300000: 0.016217
+iteration = 4, testing time when k = 50, rho = 0.500000: 0.015888
+iteration = 4, testing time when k = 50, rho = 0.700000: 0.015929
+iteration = 4, testing time when k = 50, rho = 0.900000: 0.016543
+iteration = 4, testing time when k = 100, rho = 0.010000: 0.026559
+iteration = 4, testing time when k = 100, rho = 0.100000: 0.024119
+iteration = 4, testing time when k = 100, rho = 0.300000: 0.023975
+iteration = 4, testing time when k = 100, rho = 0.500000: 0.024318
+iteration = 4, testing time when k = 100, rho = 0.700000: 0.024692
+iteration = 4, testing time when k = 100, rho = 0.900000: 0.024850
+iteration = 4, testing time when k = 200, rho = 0.010000: 0.051093
+iteration = 4, testing time when k = 200, rho = 0.100000: 0.046283
+iteration = 4, testing time when k = 200, rho = 0.300000: 0.044076
+iteration = 4, testing time when k = 200, rho = 0.500000: 0.046131
+iteration = 4, testing time when k = 200, rho = 0.700000: 0.047259
+iteration = 4, testing time when k = 200, rho = 0.900000: 0.047051
+iteration = 4, testing time when k = 300, rho = 0.010000: 0.074278
+iteration = 4, testing time when k = 300, rho = 0.100000: 0.062317
+iteration = 4, testing time when k = 300, rho = 0.300000: 0.063071
+iteration = 4, testing time when k = 300, rho = 0.500000: 0.063253
+iteration = 4, testing time when k = 300, rho = 0.700000: 0.063621
+iteration = 4, testing time when k = 300, rho = 0.900000: 0.063297
+iteration = 4, testing time when k = 500, rho = 0.010000: 0.123827
+iteration = 4, testing time when k = 500, rho = 0.100000: 0.102489
+iteration = 4, testing time when k = 500, rho = 0.300000: 0.110630
+iteration = 4, testing time when k = 500, rho = 0.500000: 0.100992
+iteration = 4, testing time when k = 500, rho = 0.700000: 0.102603
+iteration = 4, testing time when k = 500, rho = 0.900000: 0.108876
+iteration = 5, testing time when k = 50, rho = 0.010000: 0.019528
+iteration = 5, testing time when k = 50, rho = 0.100000: 0.015965
+iteration = 5, testing time when k = 50, rho = 0.300000: 0.016115
+iteration = 5, testing time when k = 50, rho = 0.500000: 0.016308
+iteration = 5, testing time when k = 50, rho = 0.700000: 0.016098
+iteration = 5, testing time when k = 50, rho = 0.900000: 0.016540
+iteration = 5, testing time when k = 100, rho = 0.010000: 0.033945
+iteration = 5, testing time when k = 100, rho = 0.100000: 0.024810
+iteration = 5, testing time when k = 100, rho = 0.300000: 0.025068
+iteration = 5, testing time when k = 100, rho = 0.500000: 0.023844
+iteration = 5, testing time when k = 100, rho = 0.700000: 0.024781
+iteration = 5, testing time when k = 100, rho = 0.900000: 0.024134
+iteration = 5, testing time when k = 200, rho = 0.010000: 0.049785
+iteration = 5, testing time when k = 200, rho = 0.100000: 0.044628
+iteration = 5, testing time when k = 200, rho = 0.300000: 0.044800
+iteration = 5, testing time when k = 200, rho = 0.500000: 0.044302
+iteration = 5, testing time when k = 200, rho = 0.700000: 0.045461
+iteration = 5, testing time when k = 200, rho = 0.900000: 0.044699
+iteration = 5, testing time when k = 300, rho = 0.010000: 0.071683
+iteration = 5, testing time when k = 300, rho = 0.100000: 0.062702
+iteration = 5, testing time when k = 300, rho = 0.300000: 0.063769
+iteration = 5, testing time when k = 300, rho = 0.500000: 0.063283
+iteration = 5, testing time when k = 300, rho = 0.700000: 0.064102
+iteration = 5, testing time when k = 300, rho = 0.900000: 0.063317
+iteration = 5, testing time when k = 500, rho = 0.010000: 0.130325
+iteration = 5, testing time when k = 500, rho = 0.100000: 0.112153
+iteration = 5, testing time when k = 500, rho = 0.300000: 0.106484
+iteration = 5, testing time when k = 500, rho = 0.500000: 0.108644
+iteration = 5, testing time when k = 500, rho = 0.700000: 0.109303
+iteration = 5, testing time when k = 500, rho = 0.900000: 0.102842
+k = 50, rho = 0.010000, avg_testing_time : 0.020621 
+k = 50, rho = 0.100000, avg_testing_time : 0.015985 
+k = 50, rho = 0.300000, avg_testing_time : 0.016086 
+k = 50, rho = 0.500000, avg_testing_time : 0.016365 
+k = 50, rho = 0.700000, avg_testing_time : 0.015964 
+k = 50, rho = 0.900000, avg_testing_time : 0.016194 
+k = 100, rho = 0.010000, avg_testing_time : 0.028476 
+k = 100, rho = 0.100000, avg_testing_time : 0.024947 
+k = 100, rho = 0.300000, avg_testing_time : 0.024630 
+k = 100, rho = 0.500000, avg_testing_time : 0.024391 
+k = 100, rho = 0.700000, avg_testing_time : 0.025316 
+k = 100, rho = 0.900000, avg_testing_time : 0.024272 
+k = 200, rho = 0.010000, avg_testing_time : 0.053490 
+k = 200, rho = 0.100000, avg_testing_time : 0.045879 
+k = 200, rho = 0.300000, avg_testing_time : 0.044958 
+k = 200, rho = 0.500000, avg_testing_time : 0.045718 
+k = 200, rho = 0.700000, avg_testing_time : 0.046181 
+k = 200, rho = 0.900000, avg_testing_time : 0.046048 
+k = 300, rho = 0.010000, avg_testing_time : 0.072889 
+k = 300, rho = 0.100000, avg_testing_time : 0.064934 
+k = 300, rho = 0.300000, avg_testing_time : 0.063923 
+k = 300, rho = 0.500000, avg_testing_time : 0.064579 
+k = 300, rho = 0.700000, avg_testing_time : 0.063479 
+k = 300, rho = 0.900000, avg_testing_time : 0.066913 
+k = 500, rho = 0.010000, avg_testing_time : 0.123973 
+k = 500, rho = 0.100000, avg_testing_time : 0.105262 
+k = 500, rho = 0.300000, avg_testing_time : 0.105908 
+k = 500, rho = 0.500000, avg_testing_time : 0.104992 
+k = 500, rho = 0.700000, avg_testing_time : 0.105666 
+k = 500, rho = 0.900000, avg_testing_time : 0.104457 
+k = 50, rho = 0.010000, testing_time(maxacc): 0.019760 
+k = 50, rho = 0.100000, testing_time(maxacc): 0.016315 
+k = 50, rho = 0.300000, testing_time(maxacc): 0.015954 
+k = 50, rho = 0.500000, testing_time(maxacc): 0.017016 
+k = 50, rho = 0.700000, testing_time(maxacc): 0.016265 
+k = 50, rho = 0.900000, testing_time(maxacc): 0.016102 
+k = 100, rho = 0.010000, testing_time(maxacc): 0.028114 
+k = 100, rho = 0.100000, testing_time(maxacc): 0.024677 
+k = 100, rho = 0.300000, testing_time(maxacc): 0.023975 
+k = 100, rho = 0.500000, testing_time(maxacc): 0.024318 
+k = 100, rho = 0.700000, testing_time(maxacc): 0.028053 
+k = 100, rho = 0.900000, testing_time(maxacc): 0.023705 
+k = 200, rho = 0.010000, testing_time(maxacc): 0.049785 
+k = 200, rho = 0.100000, testing_time(maxacc): 0.044628 
+k = 200, rho = 0.300000, testing_time(maxacc): 0.044800 
+k = 200, rho = 0.500000, testing_time(maxacc): 0.044302 
+k = 200, rho = 0.700000, testing_time(maxacc): 0.045461 
+k = 200, rho = 0.900000, testing_time(maxacc): 0.044699 
+k = 300, rho = 0.010000, testing_time(maxacc): 0.072816 
+k = 300, rho = 0.100000, testing_time(maxacc): 0.073090 
+k = 300, rho = 0.300000, testing_time(maxacc): 0.063769 
+k = 300, rho = 0.500000, testing_time(maxacc): 0.063283 
+k = 300, rho = 0.700000, testing_time(maxacc): 0.063320 
+k = 300, rho = 0.900000, testing_time(maxacc): 0.082788 
+k = 500, rho = 0.010000, testing_time(maxacc): 0.119302 
+k = 500, rho = 0.100000, testing_time(maxacc): 0.112153 
+k = 500, rho = 0.300000, testing_time(maxacc): 0.106484 
+k = 500, rho = 0.500000, testing_time(maxacc): 0.100992 
+k = 500, rho = 0.700000, testing_time(maxacc): 0.102603 
+k = 500, rho = 0.900000, testing_time(maxacc): 0.108876 

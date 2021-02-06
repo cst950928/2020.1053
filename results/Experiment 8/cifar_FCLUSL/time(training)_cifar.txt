@@ -1,0 +1,210 @@
+iteration = 1, training time when k = 50, rho = 0.010000: 37.518470
+iteration = 1, training time when k = 50, rho = 0.100000: 39.008729
+iteration = 1, training time when k = 50, rho = 0.300000: 40.288896
+iteration = 1, training time when k = 50, rho = 0.500000: 40.646963
+iteration = 1, training time when k = 50, rho = 0.700000: 39.255909
+iteration = 1, training time when k = 50, rho = 0.900000: 41.265498
+iteration = 1, training time when k = 100, rho = 0.010000: 71.757388
+iteration = 1, training time when k = 100, rho = 0.100000: 75.163904
+iteration = 1, training time when k = 100, rho = 0.300000: 82.843471
+iteration = 1, training time when k = 100, rho = 0.500000: 83.403424
+iteration = 1, training time when k = 100, rho = 0.700000: 69.736873
+iteration = 1, training time when k = 100, rho = 0.900000: 83.659396
+iteration = 1, training time when k = 200, rho = 0.010000: 150.515385
+iteration = 1, training time when k = 200, rho = 0.100000: 171.648095
+iteration = 1, training time when k = 200, rho = 0.300000: 171.493872
+iteration = 1, training time when k = 200, rho = 0.500000: 170.272885
+iteration = 1, training time when k = 200, rho = 0.700000: 171.383208
+iteration = 1, training time when k = 200, rho = 0.900000: 166.968456
+iteration = 1, training time when k = 300, rho = 0.010000: 277.269412
+iteration = 1, training time when k = 300, rho = 0.100000: 275.293113
+iteration = 1, training time when k = 300, rho = 0.300000: 272.623337
+iteration = 1, training time when k = 300, rho = 0.500000: 257.450218
+iteration = 1, training time when k = 300, rho = 0.700000: 250.367035
+iteration = 1, training time when k = 300, rho = 0.900000: 269.331109
+iteration = 1, training time when k = 500, rho = 0.010000: 532.686392
+iteration = 1, training time when k = 500, rho = 0.100000: 497.524828
+iteration = 1, training time when k = 500, rho = 0.300000: 521.609812
+iteration = 1, training time when k = 500, rho = 0.500000: 498.358124
+iteration = 1, training time when k = 500, rho = 0.700000: 519.128642
+iteration = 1, training time when k = 500, rho = 0.900000: 421.752244
+iteration = 2, training time when k = 50, rho = 0.010000: 41.712541
+iteration = 2, training time when k = 50, rho = 0.100000: 40.222034
+iteration = 2, training time when k = 50, rho = 0.300000: 37.390156
+iteration = 2, training time when k = 50, rho = 0.500000: 41.740541
+iteration = 2, training time when k = 50, rho = 0.700000: 42.357020
+iteration = 2, training time when k = 50, rho = 0.900000: 42.508694
+iteration = 2, training time when k = 100, rho = 0.010000: 82.365513
+iteration = 2, training time when k = 100, rho = 0.100000: 82.066866
+iteration = 2, training time when k = 100, rho = 0.300000: 82.534912
+iteration = 2, training time when k = 100, rho = 0.500000: 82.876851
+iteration = 2, training time when k = 100, rho = 0.700000: 79.893358
+iteration = 2, training time when k = 100, rho = 0.900000: 83.795344
+iteration = 2, training time when k = 200, rho = 0.010000: 170.388880
+iteration = 2, training time when k = 200, rho = 0.100000: 172.210954
+iteration = 2, training time when k = 200, rho = 0.300000: 171.936240
+iteration = 2, training time when k = 200, rho = 0.500000: 172.088080
+iteration = 2, training time when k = 200, rho = 0.700000: 165.399819
+iteration = 2, training time when k = 200, rho = 0.900000: 172.453141
+iteration = 2, training time when k = 300, rho = 0.010000: 278.813977
+iteration = 2, training time when k = 300, rho = 0.100000: 279.293310
+iteration = 2, training time when k = 300, rho = 0.300000: 278.999573
+iteration = 2, training time when k = 300, rho = 0.500000: 265.739730
+iteration = 2, training time when k = 300, rho = 0.700000: 275.538733
+iteration = 2, training time when k = 300, rho = 0.900000: 242.275726
+iteration = 2, training time when k = 500, rho = 0.010000: 502.394239
+iteration = 2, training time when k = 500, rho = 0.100000: 515.549001
+iteration = 2, training time when k = 500, rho = 0.300000: 541.214094
+iteration = 2, training time when k = 500, rho = 0.500000: 501.305724
+iteration = 2, training time when k = 500, rho = 0.700000: 517.811636
+iteration = 2, training time when k = 500, rho = 0.900000: 519.336450
+iteration = 3, training time when k = 50, rho = 0.010000: 40.854239
+iteration = 3, training time when k = 50, rho = 0.100000: 41.479995
+iteration = 3, training time when k = 50, rho = 0.300000: 41.223121
+iteration = 3, training time when k = 50, rho = 0.500000: 41.118187
+iteration = 3, training time when k = 50, rho = 0.700000: 41.531594
+iteration = 3, training time when k = 50, rho = 0.900000: 41.425973
+iteration = 3, training time when k = 100, rho = 0.010000: 71.825858
+iteration = 3, training time when k = 100, rho = 0.100000: 68.076801
+iteration = 3, training time when k = 100, rho = 0.300000: 67.950822
+iteration = 3, training time when k = 100, rho = 0.500000: 74.310473
+iteration = 3, training time when k = 100, rho = 0.700000: 82.150992
+iteration = 3, training time when k = 100, rho = 0.900000: 82.820356
+iteration = 3, training time when k = 200, rho = 0.010000: 171.119315
+iteration = 3, training time when k = 200, rho = 0.100000: 158.132847
+iteration = 3, training time when k = 200, rho = 0.300000: 160.906785
+iteration = 3, training time when k = 200, rho = 0.500000: 157.859137
+iteration = 3, training time when k = 200, rho = 0.700000: 169.403017
+iteration = 3, training time when k = 200, rho = 0.900000: 169.352341
+iteration = 3, training time when k = 300, rho = 0.010000: 281.311531
+iteration = 3, training time when k = 300, rho = 0.100000: 257.750179
+iteration = 3, training time when k = 300, rho = 0.300000: 274.375319
+iteration = 3, training time when k = 300, rho = 0.500000: 271.903274
+iteration = 3, training time when k = 300, rho = 0.700000: 276.891007
+iteration = 3, training time when k = 300, rho = 0.900000: 251.640444
+iteration = 3, training time when k = 500, rho = 0.010000: 537.575508
+iteration = 3, training time when k = 500, rho = 0.100000: 542.108878
+iteration = 3, training time when k = 500, rho = 0.300000: 475.506233
+iteration = 3, training time when k = 500, rho = 0.500000: 515.519789
+iteration = 3, training time when k = 500, rho = 0.700000: 437.438018
+iteration = 3, training time when k = 500, rho = 0.900000: 463.146732
+iteration = 4, training time when k = 50, rho = 0.010000: 41.169272
+iteration = 4, training time when k = 50, rho = 0.100000: 40.979362
+iteration = 4, training time when k = 50, rho = 0.300000: 41.219009
+iteration = 4, training time when k = 50, rho = 0.500000: 41.191964
+iteration = 4, training time when k = 50, rho = 0.700000: 41.736265
+iteration = 4, training time when k = 50, rho = 0.900000: 42.080946
+iteration = 4, training time when k = 100, rho = 0.010000: 81.458246
+iteration = 4, training time when k = 100, rho = 0.100000: 81.785794
+iteration = 4, training time when k = 100, rho = 0.300000: 82.371508
+iteration = 4, training time when k = 100, rho = 0.500000: 82.500173
+iteration = 4, training time when k = 100, rho = 0.700000: 83.163625
+iteration = 4, training time when k = 100, rho = 0.900000: 83.587481
+iteration = 4, training time when k = 200, rho = 0.010000: 172.065058
+iteration = 4, training time when k = 200, rho = 0.100000: 158.675194
+iteration = 4, training time when k = 200, rho = 0.300000: 165.634472
+iteration = 4, training time when k = 200, rho = 0.500000: 172.184284
+iteration = 4, training time when k = 200, rho = 0.700000: 172.137635
+iteration = 4, training time when k = 200, rho = 0.900000: 157.306347
+iteration = 4, training time when k = 300, rho = 0.010000: 277.740683
+iteration = 4, training time when k = 300, rho = 0.100000: 274.484873
+iteration = 4, training time when k = 300, rho = 0.300000: 277.867571
+iteration = 4, training time when k = 300, rho = 0.500000: 235.997631
+iteration = 4, training time when k = 300, rho = 0.700000: 280.183520
+iteration = 4, training time when k = 300, rho = 0.900000: 279.402277
+iteration = 4, training time when k = 500, rho = 0.010000: 550.652709
+iteration = 4, training time when k = 500, rho = 0.100000: 544.336833
+iteration = 4, training time when k = 500, rho = 0.300000: 430.288505
+iteration = 4, training time when k = 500, rho = 0.500000: 519.865423
+iteration = 4, training time when k = 500, rho = 0.700000: 518.190468
+iteration = 4, training time when k = 500, rho = 0.900000: 519.792313
+iteration = 5, training time when k = 50, rho = 0.010000: 40.854572
+iteration = 5, training time when k = 50, rho = 0.100000: 40.527233
+iteration = 5, training time when k = 50, rho = 0.300000: 40.889936
+iteration = 5, training time when k = 50, rho = 0.500000: 41.133511
+iteration = 5, training time when k = 50, rho = 0.700000: 41.523726
+iteration = 5, training time when k = 50, rho = 0.900000: 40.813571
+iteration = 5, training time when k = 100, rho = 0.010000: 81.769450
+iteration = 5, training time when k = 100, rho = 0.100000: 82.209764
+iteration = 5, training time when k = 100, rho = 0.300000: 82.294956
+iteration = 5, training time when k = 100, rho = 0.500000: 82.484096
+iteration = 5, training time when k = 100, rho = 0.700000: 82.648428
+iteration = 5, training time when k = 100, rho = 0.900000: 83.267935
+iteration = 5, training time when k = 200, rho = 0.010000: 171.507462
+iteration = 5, training time when k = 200, rho = 0.100000: 171.721316
+iteration = 5, training time when k = 200, rho = 0.300000: 154.385421
+iteration = 5, training time when k = 200, rho = 0.500000: 172.116840
+iteration = 5, training time when k = 200, rho = 0.700000: 173.008129
+iteration = 5, training time when k = 200, rho = 0.900000: 163.690085
+iteration = 5, training time when k = 300, rho = 0.010000: 239.831180
+iteration = 5, training time when k = 300, rho = 0.100000: 279.150942
+iteration = 5, training time when k = 300, rho = 0.300000: 273.214227
+iteration = 5, training time when k = 300, rho = 0.500000: 280.459327
+iteration = 5, training time when k = 300, rho = 0.700000: 279.517608
+iteration = 5, training time when k = 300, rho = 0.900000: 279.885924
+iteration = 5, training time when k = 500, rho = 0.010000: 403.266304
+iteration = 5, training time when k = 500, rho = 0.100000: 421.265183
+iteration = 5, training time when k = 500, rho = 0.300000: 491.576275
+iteration = 5, training time when k = 500, rho = 0.500000: 517.782977
+iteration = 5, training time when k = 500, rho = 0.700000: 481.054482
+iteration = 5, training time when k = 500, rho = 0.900000: 516.682726
+k = 50, rho = 0.010000, avg_training_time : 40.421819 
+k = 50, rho = 0.100000, avg_training_time : 40.443471 
+k = 50, rho = 0.300000, avg_training_time : 40.202224 
+k = 50, rho = 0.500000, avg_training_time : 41.166233 
+k = 50, rho = 0.700000, avg_training_time : 41.280903 
+k = 50, rho = 0.900000, avg_training_time : 41.618936 
+k = 100, rho = 0.010000, avg_training_time : 77.835291 
+k = 100, rho = 0.100000, avg_training_time : 77.860626 
+k = 100, rho = 0.300000, avg_training_time : 79.599134 
+k = 100, rho = 0.500000, avg_training_time : 81.115003 
+k = 100, rho = 0.700000, avg_training_time : 79.518655 
+k = 100, rho = 0.900000, avg_training_time : 83.426102 
+k = 200, rho = 0.010000, avg_training_time : 167.119220 
+k = 200, rho = 0.100000, avg_training_time : 166.477681 
+k = 200, rho = 0.300000, avg_training_time : 164.871358 
+k = 200, rho = 0.500000, avg_training_time : 168.904245 
+k = 200, rho = 0.700000, avg_training_time : 170.266362 
+k = 200, rho = 0.900000, avg_training_time : 165.954074 
+k = 300, rho = 0.010000, avg_training_time : 270.993357 
+k = 300, rho = 0.100000, avg_training_time : 273.194483 
+k = 300, rho = 0.300000, avg_training_time : 275.416005 
+k = 300, rho = 0.500000, avg_training_time : 262.310036 
+k = 300, rho = 0.700000, avg_training_time : 272.499581 
+k = 300, rho = 0.900000, avg_training_time : 264.507096 
+k = 500, rho = 0.010000, avg_training_time : 505.315030 
+k = 500, rho = 0.100000, avg_training_time : 504.156945 
+k = 500, rho = 0.300000, avg_training_time : 492.038984 
+k = 500, rho = 0.500000, avg_training_time : 510.566407 
+k = 500, rho = 0.700000, avg_training_time : 494.724649 
+k = 500, rho = 0.900000, avg_training_time : 488.142093 
+k = 50, rho = 0.010000, training_time(maxacc): 41.712541 
+k = 50, rho = 0.100000, training_time(maxacc): 40.222034 
+k = 50, rho = 0.300000, training_time(maxacc): 37.390156 
+k = 50, rho = 0.500000, training_time(maxacc): 41.740541 
+k = 50, rho = 0.700000, training_time(maxacc): 42.357020 
+k = 50, rho = 0.900000, training_time(maxacc): 42.508694 
+k = 100, rho = 0.010000, training_time(maxacc): 82.365513 
+k = 100, rho = 0.100000, training_time(maxacc): 82.066866 
+k = 100, rho = 0.300000, training_time(maxacc): 82.371508 
+k = 100, rho = 0.500000, training_time(maxacc): 82.500173 
+k = 100, rho = 0.700000, training_time(maxacc): 69.736873 
+k = 100, rho = 0.900000, training_time(maxacc): 83.659396 
+k = 200, rho = 0.010000, training_time(maxacc): 171.507462 
+k = 200, rho = 0.100000, training_time(maxacc): 171.721316 
+k = 200, rho = 0.300000, training_time(maxacc): 154.385421 
+k = 200, rho = 0.500000, training_time(maxacc): 172.116840 
+k = 200, rho = 0.700000, training_time(maxacc): 173.008129 
+k = 200, rho = 0.900000, training_time(maxacc): 163.690085 
+k = 300, rho = 0.010000, training_time(maxacc): 277.269412 
+k = 300, rho = 0.100000, training_time(maxacc): 275.293113 
+k = 300, rho = 0.300000, training_time(maxacc): 273.214227 
+k = 300, rho = 0.500000, training_time(maxacc): 280.459327 
+k = 300, rho = 0.700000, training_time(maxacc): 275.538733 
+k = 300, rho = 0.900000, training_time(maxacc): 269.331109 
+k = 500, rho = 0.010000, training_time(maxacc): 537.575508 
+k = 500, rho = 0.100000, training_time(maxacc): 421.265183 
+k = 500, rho = 0.300000, training_time(maxacc): 491.576275 
+k = 500, rho = 0.500000, training_time(maxacc): 519.865423 
+k = 500, rho = 0.700000, training_time(maxacc): 518.190468 
+k = 500, rho = 0.900000, training_time(maxacc): 519.792313 

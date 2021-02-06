@@ -1,0 +1,1 @@
+iteration=4, prediction time when K=5,weight=0.100000: 2.185158

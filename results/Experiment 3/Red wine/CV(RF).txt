@@ -1,0 +1,528 @@
+*** total features=1, nestimator=100.000000***
+total error=0.5809226009484648
+*** total features=1, nestimator=110.000000***
+total error=0.5816054297068954
+*** total features=1, nestimator=120.000000***
+total error=0.5818963267216841
+*** total features=1, nestimator=130.000000***
+total error=0.5809132777563548
+*** total features=1, nestimator=140.000000***
+total error=0.58012951241754
+*** total features=1, nestimator=150.000000***
+total error=0.5798132925078335
+*** total features=1, nestimator=160.000000***
+total error=0.5788454416784871
+*** total features=1, nestimator=170.000000***
+total error=0.57775190705935
+*** total features=1, nestimator=180.000000***
+total error=0.5778027976109839
+*** total features=1, nestimator=190.000000***
+total error=0.5766677565422756
+*** total features=1, nestimator=200.000000***
+total error=0.5745009878527998
+*** total features=1, nestimator=210.000000***
+total error=0.5733717890364279
+*** total features=1, nestimator=220.000000***
+total error=0.5728593194872795
+*** total features=1, nestimator=230.000000***
+total error=0.5718172643050378
+*** total features=1, nestimator=240.000000***
+total error=0.5703669557286889
+*** total features=1, nestimator=250.000000***
+total error=0.5702610421329538
+*** total features=2, nestimator=100.000000***
+total error=0.5718202576844637
+*** total features=2, nestimator=110.000000***
+total error=0.5702283086483265
+*** total features=2, nestimator=120.000000***
+total error=0.5678309070896663
+*** total features=2, nestimator=130.000000***
+total error=0.5676601543907139
+*** total features=2, nestimator=140.000000***
+total error=0.566480026416605
+*** total features=2, nestimator=150.000000***
+total error=0.5669377743476538
+*** total features=2, nestimator=160.000000***
+total error=0.5673369626147404
+*** total features=2, nestimator=170.000000***
+total error=0.5675717666401302
+*** total features=2, nestimator=180.000000***
+total error=0.5682462026187768
+*** total features=2, nestimator=190.000000***
+total error=0.5688599156132917
+*** total features=2, nestimator=200.000000***
+total error=0.5683351390697156
+*** total features=2, nestimator=210.000000***
+total error=0.567259527245839
+*** total features=2, nestimator=220.000000***
+total error=0.5670711671019655
+*** total features=2, nestimator=230.000000***
+total error=0.5667168503175763
+*** total features=2, nestimator=240.000000***
+total error=0.567006447788439
+*** total features=2, nestimator=250.000000***
+total error=0.5688131872215366
+*** total features=3, nestimator=100.000000***
+total error=0.5806374309444714
+*** total features=3, nestimator=110.000000***
+total error=0.5823302600096122
+*** total features=3, nestimator=120.000000***
+total error=0.5813196939455127
+*** total features=3, nestimator=130.000000***
+total error=0.582672884381198
+*** total features=3, nestimator=140.000000***
+total error=0.5832178007834793
+*** total features=3, nestimator=150.000000***
+total error=0.58157199313603
+*** total features=3, nestimator=160.000000***
+total error=0.5808339412321537
+*** total features=3, nestimator=170.000000***
+total error=0.5815819449816287
+*** total features=3, nestimator=180.000000***
+total error=0.5802777174260275
+*** total features=3, nestimator=190.000000***
+total error=0.5781522777737537
+*** total features=3, nestimator=200.000000***
+total error=0.578915686929473
+*** total features=3, nestimator=210.000000***
+total error=0.5789106341431722
+*** total features=3, nestimator=220.000000***
+total error=0.5786371132638666
+*** total features=3, nestimator=230.000000***
+total error=0.5789845379136248
+*** total features=3, nestimator=240.000000***
+total error=0.5788731709954992
+*** total features=3, nestimator=250.000000***
+total error=0.5791835752246055
+*** total features=4, nestimator=100.000000***
+total error=0.5758447397688745
+*** total features=4, nestimator=110.000000***
+total error=0.576293658577294
+*** total features=4, nestimator=120.000000***
+total error=0.5761040255896722
+*** total features=4, nestimator=130.000000***
+total error=0.5767190579334701
+*** total features=4, nestimator=140.000000***
+total error=0.5766998745252928
+*** total features=4, nestimator=150.000000***
+total error=0.5755617043326007
+*** total features=4, nestimator=160.000000***
+total error=0.5754172069759077
+*** total features=4, nestimator=170.000000***
+total error=0.5761708338759088
+*** total features=4, nestimator=180.000000***
+total error=0.5750543403398292
+*** total features=4, nestimator=190.000000***
+total error=0.5748325982067815
+*** total features=4, nestimator=200.000000***
+total error=0.5732844557768094
+*** total features=4, nestimator=210.000000***
+total error=0.5733017326486901
+*** total features=4, nestimator=220.000000***
+total error=0.5732741985127919
+*** total features=4, nestimator=230.000000***
+total error=0.5735352588106382
+*** total features=4, nestimator=240.000000***
+total error=0.5744315779578847
+*** total features=4, nestimator=250.000000***
+total error=0.5759995799092129
+*** total features=5, nestimator=100.000000***
+total error=0.5898787110728206
+*** total features=5, nestimator=110.000000***
+total error=0.5856496115278174
+*** total features=5, nestimator=120.000000***
+total error=0.5827851426565537
+*** total features=5, nestimator=130.000000***
+total error=0.5824328523504598
+*** total features=5, nestimator=140.000000***
+total error=0.5801352969154204
+*** total features=5, nestimator=150.000000***
+total error=0.5795166810800942
+*** total features=5, nestimator=160.000000***
+total error=0.578066707813878
+*** total features=5, nestimator=170.000000***
+total error=0.5763955617870143
+*** total features=5, nestimator=180.000000***
+total error=0.5776538209560532
+*** total features=5, nestimator=190.000000***
+total error=0.5775745448156577
+*** total features=5, nestimator=200.000000***
+total error=0.5766824156409105
+*** total features=5, nestimator=210.000000***
+total error=0.5772687355426288
+*** total features=5, nestimator=220.000000***
+total error=0.5761299917836643
+*** total features=5, nestimator=230.000000***
+total error=0.576556001637849
+*** total features=5, nestimator=240.000000***
+total error=0.5756366846154908
+*** total features=5, nestimator=250.000000***
+total error=0.5765542630879841
+*** total features=6, nestimator=100.000000***
+total error=0.5993565180765867
+*** total features=6, nestimator=110.000000***
+total error=0.5983951942512483
+*** total features=6, nestimator=120.000000***
+total error=0.5960945447227786
+*** total features=6, nestimator=130.000000***
+total error=0.5973408223581048
+*** total features=6, nestimator=140.000000***
+total error=0.5952589205955827
+*** total features=6, nestimator=150.000000***
+total error=0.5928088172107221
+*** total features=6, nestimator=160.000000***
+total error=0.5912147412278234
+*** total features=6, nestimator=170.000000***
+total error=0.5903220494386376
+*** total features=6, nestimator=180.000000***
+total error=0.589193545773868
+*** total features=6, nestimator=190.000000***
+total error=0.5883043451222183
+*** total features=6, nestimator=200.000000***
+total error=0.587607526485076
+*** total features=6, nestimator=210.000000***
+total error=0.587038819649013
+*** total features=6, nestimator=220.000000***
+total error=0.5866789763837436
+*** total features=6, nestimator=230.000000***
+total error=0.5866437585943531
+*** total features=6, nestimator=240.000000***
+total error=0.5873119226973538
+*** total features=6, nestimator=250.000000***
+total error=0.5874322585010743
+*** total features=7, nestimator=100.000000***
+total error=0.5979744016364114
+*** total features=7, nestimator=110.000000***
+total error=0.597134481114523
+*** total features=7, nestimator=120.000000***
+total error=0.5959008881908582
+*** total features=7, nestimator=130.000000***
+total error=0.5913908056961462
+*** total features=7, nestimator=140.000000***
+total error=0.5880614341754441
+*** total features=7, nestimator=150.000000***
+total error=0.5883014802421284
+*** total features=7, nestimator=160.000000***
+total error=0.5865262081437705
+*** total features=7, nestimator=170.000000***
+total error=0.5864508436469168
+*** total features=7, nestimator=180.000000***
+total error=0.5860213716055547
+*** total features=7, nestimator=190.000000***
+total error=0.5860261189011818
+*** total features=7, nestimator=200.000000***
+total error=0.5849699015076782
+*** total features=7, nestimator=210.000000***
+total error=0.5850475023218383
+*** total features=7, nestimator=220.000000***
+total error=0.5843343258727727
+*** total features=7, nestimator=230.000000***
+total error=0.5847869789059547
+*** total features=7, nestimator=240.000000***
+total error=0.5853818533881183
+*** total features=7, nestimator=250.000000***
+total error=0.5857465294556238
+*** total features=8, nestimator=100.000000***
+total error=0.6073299613472946
+*** total features=8, nestimator=110.000000***
+total error=0.6077740929197993
+*** total features=8, nestimator=120.000000***
+total error=0.6059944594500947
+*** total features=8, nestimator=130.000000***
+total error=0.606387432326893
+*** total features=8, nestimator=140.000000***
+total error=0.6054288981497756
+*** total features=8, nestimator=150.000000***
+total error=0.6034219264670914
+*** total features=8, nestimator=160.000000***
+total error=0.6021129166962165
+*** total features=8, nestimator=170.000000***
+total error=0.601711173139122
+*** total features=8, nestimator=180.000000***
+total error=0.5984909669026454
+*** total features=8, nestimator=190.000000***
+total error=0.5961730447228822
+*** total features=8, nestimator=200.000000***
+total error=0.5944465691578595
+*** total features=8, nestimator=210.000000***
+total error=0.5931512391373349
+*** total features=8, nestimator=220.000000***
+total error=0.5931269576308197
+*** total features=8, nestimator=230.000000***
+total error=0.5944527549404603
+*** total features=8, nestimator=240.000000***
+total error=0.595063671028625
+*** total features=8, nestimator=250.000000***
+total error=0.5958172503603077
+*** total features=9, nestimator=100.000000***
+total error=0.6017445513178341
+*** total features=9, nestimator=110.000000***
+total error=0.6013138083822563
+*** total features=9, nestimator=120.000000***
+total error=0.598625271935916
+*** total features=9, nestimator=130.000000***
+total error=0.5957849463268198
+*** total features=9, nestimator=140.000000***
+total error=0.5972323225948063
+*** total features=9, nestimator=150.000000***
+total error=0.5990536507798904
+*** total features=9, nestimator=160.000000***
+total error=0.6014222695498271
+*** total features=9, nestimator=170.000000***
+total error=0.6000045118963109
+*** total features=9, nestimator=180.000000***
+total error=0.5992808998707048
+*** total features=9, nestimator=190.000000***
+total error=0.5997150197060932
+*** total features=9, nestimator=200.000000***
+total error=0.5972566508823564
+*** total features=9, nestimator=210.000000***
+total error=0.5965169524003668
+*** total features=9, nestimator=220.000000***
+total error=0.5956114382951841
+*** total features=9, nestimator=230.000000***
+total error=0.5965994341737889
+*** total features=9, nestimator=240.000000***
+total error=0.5960213573200552
+*** total features=9, nestimator=250.000000***
+total error=0.5965785035150982
+*** total features=10, nestimator=100.000000***
+total error=0.6090923872773442
+*** total features=10, nestimator=110.000000***
+total error=0.607864042837689
+*** total features=10, nestimator=120.000000***
+total error=0.6086074369753363
+*** total features=10, nestimator=130.000000***
+total error=0.6058830411443035
+*** total features=10, nestimator=140.000000***
+total error=0.6049491049858376
+*** total features=10, nestimator=150.000000***
+total error=0.6022562571980102
+*** total features=10, nestimator=160.000000***
+total error=0.6000656956761043
+*** total features=10, nestimator=170.000000***
+total error=0.5976484016954616
+*** total features=10, nestimator=180.000000***
+total error=0.5991587504048119
+*** total features=10, nestimator=190.000000***
+total error=0.6004306010555679
+*** total features=10, nestimator=200.000000***
+total error=0.6003445580288593
+*** total features=10, nestimator=210.000000***
+total error=0.6002464851505136
+*** total features=10, nestimator=220.000000***
+total error=0.5982686798965486
+*** total features=10, nestimator=230.000000***
+total error=0.5988537888324089
+*** total features=10, nestimator=240.000000***
+total error=0.5990079480070355
+*** total features=10, nestimator=250.000000***
+total error=0.5988583681445231
+*** total features=11, nestimator=100.000000***
+total error=0.603501439903868
+*** total features=11, nestimator=110.000000***
+total error=0.6004901664220568
+*** total features=11, nestimator=120.000000***
+total error=0.6010240862068855
+*** total features=11, nestimator=130.000000***
+total error=0.5971054408570132
+*** total features=11, nestimator=140.000000***
+total error=0.5954520172252804
+*** total features=11, nestimator=150.000000***
+total error=0.5952657674524912
+*** total features=11, nestimator=160.000000***
+total error=0.5970480690998149
+*** total features=11, nestimator=170.000000***
+total error=0.595298367404864
+*** total features=11, nestimator=180.000000***
+total error=0.5952046177364143
+*** total features=11, nestimator=190.000000***
+total error=0.5964178541464971
+*** total features=11, nestimator=200.000000***
+total error=0.5952185775661712
+*** total features=11, nestimator=210.000000***
+total error=0.5957635931979671
+*** total features=11, nestimator=220.000000***
+total error=0.5958655975127941
+*** total features=11, nestimator=230.000000***
+total error=0.5968171134270954
+*** total features=11, nestimator=240.000000***
+total error=0.596633699568003
+*** total features=11, nestimator=250.000000***
+total error=0.5972111204832093
+loss when features=1,nestimator=100 is 0.580923
+loss when features=1,nestimator=110 is 0.581605
+loss when features=1,nestimator=120 is 0.581896
+loss when features=1,nestimator=130 is 0.580913
+loss when features=1,nestimator=140 is 0.580130
+loss when features=1,nestimator=150 is 0.579813
+loss when features=1,nestimator=160 is 0.578845
+loss when features=1,nestimator=170 is 0.577752
+loss when features=1,nestimator=180 is 0.577803
+loss when features=1,nestimator=190 is 0.576668
+loss when features=1,nestimator=200 is 0.574501
+loss when features=1,nestimator=210 is 0.573372
+loss when features=1,nestimator=220 is 0.572859
+loss when features=1,nestimator=230 is 0.571817
+loss when features=1,nestimator=240 is 0.570367
+loss when features=1,nestimator=250 is 0.570261
+loss when features=2,nestimator=100 is 0.571820
+loss when features=2,nestimator=110 is 0.570228
+loss when features=2,nestimator=120 is 0.567831
+loss when features=2,nestimator=130 is 0.567660
+loss when features=2,nestimator=140 is 0.566480
+loss when features=2,nestimator=150 is 0.566938
+loss when features=2,nestimator=160 is 0.567337
+loss when features=2,nestimator=170 is 0.567572
+loss when features=2,nestimator=180 is 0.568246
+loss when features=2,nestimator=190 is 0.568860
+loss when features=2,nestimator=200 is 0.568335
+loss when features=2,nestimator=210 is 0.567260
+loss when features=2,nestimator=220 is 0.567071
+loss when features=2,nestimator=230 is 0.566717
+loss when features=2,nestimator=240 is 0.567006
+loss when features=2,nestimator=250 is 0.568813
+loss when features=3,nestimator=100 is 0.580637
+loss when features=3,nestimator=110 is 0.582330
+loss when features=3,nestimator=120 is 0.581320
+loss when features=3,nestimator=130 is 0.582673
+loss when features=3,nestimator=140 is 0.583218
+loss when features=3,nestimator=150 is 0.581572
+loss when features=3,nestimator=160 is 0.580834
+loss when features=3,nestimator=170 is 0.581582
+loss when features=3,nestimator=180 is 0.580278
+loss when features=3,nestimator=190 is 0.578152
+loss when features=3,nestimator=200 is 0.578916
+loss when features=3,nestimator=210 is 0.578911
+loss when features=3,nestimator=220 is 0.578637
+loss when features=3,nestimator=230 is 0.578985
+loss when features=3,nestimator=240 is 0.578873
+loss when features=3,nestimator=250 is 0.579184
+loss when features=4,nestimator=100 is 0.575845
+loss when features=4,nestimator=110 is 0.576294
+loss when features=4,nestimator=120 is 0.576104
+loss when features=4,nestimator=130 is 0.576719
+loss when features=4,nestimator=140 is 0.576700
+loss when features=4,nestimator=150 is 0.575562
+loss when features=4,nestimator=160 is 0.575417
+loss when features=4,nestimator=170 is 0.576171
+loss when features=4,nestimator=180 is 0.575054
+loss when features=4,nestimator=190 is 0.574833
+loss when features=4,nestimator=200 is 0.573284
+loss when features=4,nestimator=210 is 0.573302
+loss when features=4,nestimator=220 is 0.573274
+loss when features=4,nestimator=230 is 0.573535
+loss when features=4,nestimator=240 is 0.574432
+loss when features=4,nestimator=250 is 0.576000
+loss when features=5,nestimator=100 is 0.589879
+loss when features=5,nestimator=110 is 0.585650
+loss when features=5,nestimator=120 is 0.582785
+loss when features=5,nestimator=130 is 0.582433
+loss when features=5,nestimator=140 is 0.580135
+loss when features=5,nestimator=150 is 0.579517
+loss when features=5,nestimator=160 is 0.578067
+loss when features=5,nestimator=170 is 0.576396
+loss when features=5,nestimator=180 is 0.577654
+loss when features=5,nestimator=190 is 0.577575
+loss when features=5,nestimator=200 is 0.576682
+loss when features=5,nestimator=210 is 0.577269
+loss when features=5,nestimator=220 is 0.576130
+loss when features=5,nestimator=230 is 0.576556
+loss when features=5,nestimator=240 is 0.575637
+loss when features=5,nestimator=250 is 0.576554
+loss when features=6,nestimator=100 is 0.599357
+loss when features=6,nestimator=110 is 0.598395
+loss when features=6,nestimator=120 is 0.596095
+loss when features=6,nestimator=130 is 0.597341
+loss when features=6,nestimator=140 is 0.595259
+loss when features=6,nestimator=150 is 0.592809
+loss when features=6,nestimator=160 is 0.591215
+loss when features=6,nestimator=170 is 0.590322
+loss when features=6,nestimator=180 is 0.589194
+loss when features=6,nestimator=190 is 0.588304
+loss when features=6,nestimator=200 is 0.587608
+loss when features=6,nestimator=210 is 0.587039
+loss when features=6,nestimator=220 is 0.586679
+loss when features=6,nestimator=230 is 0.586644
+loss when features=6,nestimator=240 is 0.587312
+loss when features=6,nestimator=250 is 0.587432
+loss when features=7,nestimator=100 is 0.597974
+loss when features=7,nestimator=110 is 0.597134
+loss when features=7,nestimator=120 is 0.595901
+loss when features=7,nestimator=130 is 0.591391
+loss when features=7,nestimator=140 is 0.588061
+loss when features=7,nestimator=150 is 0.588301
+loss when features=7,nestimator=160 is 0.586526
+loss when features=7,nestimator=170 is 0.586451
+loss when features=7,nestimator=180 is 0.586021
+loss when features=7,nestimator=190 is 0.586026
+loss when features=7,nestimator=200 is 0.584970
+loss when features=7,nestimator=210 is 0.585048
+loss when features=7,nestimator=220 is 0.584334
+loss when features=7,nestimator=230 is 0.584787
+loss when features=7,nestimator=240 is 0.585382
+loss when features=7,nestimator=250 is 0.585747
+loss when features=8,nestimator=100 is 0.607330
+loss when features=8,nestimator=110 is 0.607774
+loss when features=8,nestimator=120 is 0.605994
+loss when features=8,nestimator=130 is 0.606387
+loss when features=8,nestimator=140 is 0.605429
+loss when features=8,nestimator=150 is 0.603422
+loss when features=8,nestimator=160 is 0.602113
+loss when features=8,nestimator=170 is 0.601711
+loss when features=8,nestimator=180 is 0.598491
+loss when features=8,nestimator=190 is 0.596173
+loss when features=8,nestimator=200 is 0.594447
+loss when features=8,nestimator=210 is 0.593151
+loss when features=8,nestimator=220 is 0.593127
+loss when features=8,nestimator=230 is 0.594453
+loss when features=8,nestimator=240 is 0.595064
+loss when features=8,nestimator=250 is 0.595817
+loss when features=9,nestimator=100 is 0.601745
+loss when features=9,nestimator=110 is 0.601314
+loss when features=9,nestimator=120 is 0.598625
+loss when features=9,nestimator=130 is 0.595785
+loss when features=9,nestimator=140 is 0.597232
+loss when features=9,nestimator=150 is 0.599054
+loss when features=9,nestimator=160 is 0.601422
+loss when features=9,nestimator=170 is 0.600005
+loss when features=9,nestimator=180 is 0.599281
+loss when features=9,nestimator=190 is 0.599715
+loss when features=9,nestimator=200 is 0.597257
+loss when features=9,nestimator=210 is 0.596517
+loss when features=9,nestimator=220 is 0.595611
+loss when features=9,nestimator=230 is 0.596599
+loss when features=9,nestimator=240 is 0.596021
+loss when features=9,nestimator=250 is 0.596579
+loss when features=10,nestimator=100 is 0.609092
+loss when features=10,nestimator=110 is 0.607864
+loss when features=10,nestimator=120 is 0.608607
+loss when features=10,nestimator=130 is 0.605883
+loss when features=10,nestimator=140 is 0.604949
+loss when features=10,nestimator=150 is 0.602256
+loss when features=10,nestimator=160 is 0.600066
+loss when features=10,nestimator=170 is 0.597648
+loss when features=10,nestimator=180 is 0.599159
+loss when features=10,nestimator=190 is 0.600431
+loss when features=10,nestimator=200 is 0.600345
+loss when features=10,nestimator=210 is 0.600246
+loss when features=10,nestimator=220 is 0.598269
+loss when features=10,nestimator=230 is 0.598854
+loss when features=10,nestimator=240 is 0.599008
+loss when features=10,nestimator=250 is 0.598858
+loss when features=11,nestimator=100 is 0.603501
+loss when features=11,nestimator=110 is 0.600490
+loss when features=11,nestimator=120 is 0.601024
+loss when features=11,nestimator=130 is 0.597105
+loss when features=11,nestimator=140 is 0.595452
+loss when features=11,nestimator=150 is 0.595266
+loss when features=11,nestimator=160 is 0.597048
+loss when features=11,nestimator=170 is 0.595298
+loss when features=11,nestimator=180 is 0.595205
+loss when features=11,nestimator=190 is 0.596418
+loss when features=11,nestimator=200 is 0.595219
+loss when features=11,nestimator=210 is 0.595764
+loss when features=11,nestimator=220 is 0.595866
+loss when features=11,nestimator=230 is 0.596817
+loss when features=11,nestimator=240 is 0.596634
+loss when features=11,nestimator=250 is 0.597211

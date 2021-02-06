@@ -1,0 +1,1875 @@
+iteration = 1, k = 2, rho = 0.100000, obj = 250931.84970956744, training accuracy = 1.000000
+iteration = 1, k = 2, rho = 0.100000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 2, rho = 0.300000, obj = 250628.57074195138, training accuracy = 1.000000
+iteration = 1, k = 2, rho = 0.300000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 2, rho = 0.500000, obj = 250511.47565411188, training accuracy = 1.000000
+iteration = 1, k = 2, rho = 0.500000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 2, rho = 0.700000, obj = 250518.61768910894, training accuracy = 1.000000
+iteration = 1, k = 2, rho = 0.700000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 2, rho = 0.900000, obj = 250508.60866345995, training accuracy = 1.000000
+iteration = 1, k = 2, rho = 0.900000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 3, rho = 0.100000, obj = 236909.37958032865, training accuracy = 1.000000
+iteration = 1, k = 3, rho = 0.100000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 3, rho = 0.300000, obj = 236632.5402837822, training accuracy = 1.000000
+iteration = 1, k = 3, rho = 0.300000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 3, rho = 0.500000, obj = 236550.19107264682, training accuracy = 1.000000
+iteration = 1, k = 3, rho = 0.500000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 3, rho = 0.700000, obj = 236520.01549542678, training accuracy = 1.000000
+iteration = 1, k = 3, rho = 0.700000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 3, rho = 0.900000, obj = 236510.99079204252, training accuracy = 1.000000
+iteration = 1, k = 3, rho = 0.900000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 4, rho = 0.100000, obj = 230862.6210423527, training accuracy = 0.999600
+iteration = 1, k = 4, rho = 0.100000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 480 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 4, rho = 0.300000, obj = 230327.74832238234, training accuracy = 1.000000
+iteration = 1, k = 4, rho = 0.300000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 4, rho = 0.500000, obj = 230196.02012448886, training accuracy = 1.000000
+iteration = 1, k = 4, rho = 0.500000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 4, rho = 0.700000, obj = 230233.52554118415, training accuracy = 1.000000
+iteration = 1, k = 4, rho = 0.700000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 4, rho = 0.900000, obj = 230278.95581236648, training accuracy = 1.000000
+iteration = 1, k = 4, rho = 0.900000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+k = 2, rho = 0.100000, maximum_training_acc = 0.0002
+k = 2, rho = 0.300000, maximum_training_acc = 0.0002
+k = 2, rho = 0.500000, maximum_training_acc = 0.0002
+k = 2, rho = 0.700000, maximum_training_acc = 0.0002
+k = 2, rho = 0.900000, maximum_training_acc = 0.0002
+k = 3, rho = 0.100000, maximum_training_acc = 0.0002
+k = 3, rho = 0.300000, maximum_training_acc = 0.0002
+k = 3, rho = 0.500000, maximum_training_acc = 0.0002
+k = 3, rho = 0.700000, maximum_training_acc = 0.0002
+k = 3, rho = 0.900000, maximum_training_acc = 0.0002
+k = 4, rho = 0.100000, maximum_training_acc = 0.0002
+k = 4, rho = 0.300000, maximum_training_acc = 0.0002
+k = 4, rho = 0.500000, maximum_training_acc = 0.0002
+k = 4, rho = 0.700000, maximum_training_acc = 0.0002
+k = 4, rho = 0.900000, maximum_training_acc = 0.0002
+k = 2, rho = 0.100000, avg_training_acc = 1.0
+k = 2, rho = 0.300000, avg_training_acc = 1.0
+k = 2, rho = 0.500000, avg_training_acc = 1.0
+k = 2, rho = 0.700000, avg_training_acc = 1.0
+k = 2, rho = 0.900000, avg_training_acc = 1.0
+k = 3, rho = 0.100000, avg_training_acc = 1.0
+k = 3, rho = 0.300000, avg_training_acc = 1.0
+k = 3, rho = 0.500000, avg_training_acc = 1.0
+k = 3, rho = 0.700000, avg_training_acc = 1.0
+k = 3, rho = 0.900000, avg_training_acc = 1.0
+k = 4, rho = 0.100000, avg_training_acc = 1.0
+k = 4, rho = 0.300000, avg_training_acc = 1.0
+k = 4, rho = 0.500000, avg_training_acc = 1.0
+k = 4, rho = 0.700000, avg_training_acc = 1.0
+k = 4, rho = 0.900000, avg_training_acc = 1.0
+k = 2, rho = 0.100000, class = 1, maximum correct number: 522.000000
+k = 2, rho = 0.100000, class = 2, maximum correct number: 564.000000
+k = 2, rho = 0.100000, class = 3, maximum correct number: 503.000000
+k = 2, rho = 0.100000, class = 4, maximum correct number: 539.000000
+k = 2, rho = 0.100000, class = 5, maximum correct number: 445.000000
+k = 2, rho = 0.100000, class = 6, maximum correct number: 429.000000
+k = 2, rho = 0.100000, class = 7, maximum correct number: 513.000000
+k = 2, rho = 0.100000, class = 8, maximum correct number: 520.000000
+k = 2, rho = 0.100000, class = 9, maximum correct number: 482.000000
+k = 2, rho = 0.100000, class = 10, maximum correct number: 483.000000
+k = 2, rho = 0.300000, class = 1, maximum correct number: 522.000000
+k = 2, rho = 0.300000, class = 2, maximum correct number: 564.000000
+k = 2, rho = 0.300000, class = 3, maximum correct number: 503.000000
+k = 2, rho = 0.300000, class = 4, maximum correct number: 539.000000
+k = 2, rho = 0.300000, class = 5, maximum correct number: 445.000000
+k = 2, rho = 0.300000, class = 6, maximum correct number: 429.000000
+k = 2, rho = 0.300000, class = 7, maximum correct number: 513.000000
+k = 2, rho = 0.300000, class = 8, maximum correct number: 520.000000
+k = 2, rho = 0.300000, class = 9, maximum correct number: 482.000000
+k = 2, rho = 0.300000, class = 10, maximum correct number: 483.000000
+k = 2, rho = 0.500000, class = 1, maximum correct number: 522.000000
+k = 2, rho = 0.500000, class = 2, maximum correct number: 564.000000
+k = 2, rho = 0.500000, class = 3, maximum correct number: 503.000000
+k = 2, rho = 0.500000, class = 4, maximum correct number: 539.000000
+k = 2, rho = 0.500000, class = 5, maximum correct number: 445.000000
+k = 2, rho = 0.500000, class = 6, maximum correct number: 429.000000
+k = 2, rho = 0.500000, class = 7, maximum correct number: 513.000000
+k = 2, rho = 0.500000, class = 8, maximum correct number: 520.000000
+k = 2, rho = 0.500000, class = 9, maximum correct number: 482.000000
+k = 2, rho = 0.500000, class = 10, maximum correct number: 483.000000
+k = 2, rho = 0.700000, class = 1, maximum correct number: 522.000000
+k = 2, rho = 0.700000, class = 2, maximum correct number: 564.000000
+k = 2, rho = 0.700000, class = 3, maximum correct number: 503.000000
+k = 2, rho = 0.700000, class = 4, maximum correct number: 539.000000
+k = 2, rho = 0.700000, class = 5, maximum correct number: 445.000000
+k = 2, rho = 0.700000, class = 6, maximum correct number: 429.000000
+k = 2, rho = 0.700000, class = 7, maximum correct number: 513.000000
+k = 2, rho = 0.700000, class = 8, maximum correct number: 520.000000
+k = 2, rho = 0.700000, class = 9, maximum correct number: 482.000000
+k = 2, rho = 0.700000, class = 10, maximum correct number: 483.000000
+k = 2, rho = 0.900000, class = 1, maximum correct number: 522.000000
+k = 2, rho = 0.900000, class = 2, maximum correct number: 564.000000
+k = 2, rho = 0.900000, class = 3, maximum correct number: 503.000000
+k = 2, rho = 0.900000, class = 4, maximum correct number: 539.000000
+k = 2, rho = 0.900000, class = 5, maximum correct number: 445.000000
+k = 2, rho = 0.900000, class = 6, maximum correct number: 429.000000
+k = 2, rho = 0.900000, class = 7, maximum correct number: 513.000000
+k = 2, rho = 0.900000, class = 8, maximum correct number: 520.000000
+k = 2, rho = 0.900000, class = 9, maximum correct number: 482.000000
+k = 2, rho = 0.900000, class = 10, maximum correct number: 483.000000
+k = 3, rho = 0.100000, class = 1, maximum correct number: 522.000000
+k = 3, rho = 0.100000, class = 2, maximum correct number: 564.000000
+k = 3, rho = 0.100000, class = 3, maximum correct number: 503.000000
+k = 3, rho = 0.100000, class = 4, maximum correct number: 539.000000
+k = 3, rho = 0.100000, class = 5, maximum correct number: 445.000000
+k = 3, rho = 0.100000, class = 6, maximum correct number: 429.000000
+k = 3, rho = 0.100000, class = 7, maximum correct number: 513.000000
+k = 3, rho = 0.100000, class = 8, maximum correct number: 520.000000
+k = 3, rho = 0.100000, class = 9, maximum correct number: 482.000000
+k = 3, rho = 0.100000, class = 10, maximum correct number: 483.000000
+k = 3, rho = 0.300000, class = 1, maximum correct number: 522.000000
+k = 3, rho = 0.300000, class = 2, maximum correct number: 564.000000
+k = 3, rho = 0.300000, class = 3, maximum correct number: 503.000000
+k = 3, rho = 0.300000, class = 4, maximum correct number: 539.000000
+k = 3, rho = 0.300000, class = 5, maximum correct number: 445.000000
+k = 3, rho = 0.300000, class = 6, maximum correct number: 429.000000
+k = 3, rho = 0.300000, class = 7, maximum correct number: 513.000000
+k = 3, rho = 0.300000, class = 8, maximum correct number: 520.000000
+k = 3, rho = 0.300000, class = 9, maximum correct number: 482.000000
+k = 3, rho = 0.300000, class = 10, maximum correct number: 483.000000
+k = 3, rho = 0.500000, class = 1, maximum correct number: 522.000000
+k = 3, rho = 0.500000, class = 2, maximum correct number: 564.000000
+k = 3, rho = 0.500000, class = 3, maximum correct number: 503.000000
+k = 3, rho = 0.500000, class = 4, maximum correct number: 539.000000
+k = 3, rho = 0.500000, class = 5, maximum correct number: 445.000000
+k = 3, rho = 0.500000, class = 6, maximum correct number: 429.000000
+k = 3, rho = 0.500000, class = 7, maximum correct number: 513.000000
+k = 3, rho = 0.500000, class = 8, maximum correct number: 520.000000
+k = 3, rho = 0.500000, class = 9, maximum correct number: 482.000000
+k = 3, rho = 0.500000, class = 10, maximum correct number: 483.000000
+k = 3, rho = 0.700000, class = 1, maximum correct number: 522.000000
+k = 3, rho = 0.700000, class = 2, maximum correct number: 564.000000
+k = 3, rho = 0.700000, class = 3, maximum correct number: 503.000000
+k = 3, rho = 0.700000, class = 4, maximum correct number: 539.000000
+k = 3, rho = 0.700000, class = 5, maximum correct number: 445.000000
+k = 3, rho = 0.700000, class = 6, maximum correct number: 429.000000
+k = 3, rho = 0.700000, class = 7, maximum correct number: 513.000000
+k = 3, rho = 0.700000, class = 8, maximum correct number: 520.000000
+k = 3, rho = 0.700000, class = 9, maximum correct number: 482.000000
+k = 3, rho = 0.700000, class = 10, maximum correct number: 483.000000
+k = 3, rho = 0.900000, class = 1, maximum correct number: 522.000000
+k = 3, rho = 0.900000, class = 2, maximum correct number: 564.000000
+k = 3, rho = 0.900000, class = 3, maximum correct number: 503.000000
+k = 3, rho = 0.900000, class = 4, maximum correct number: 539.000000
+k = 3, rho = 0.900000, class = 5, maximum correct number: 445.000000
+k = 3, rho = 0.900000, class = 6, maximum correct number: 429.000000
+k = 3, rho = 0.900000, class = 7, maximum correct number: 513.000000
+k = 3, rho = 0.900000, class = 8, maximum correct number: 520.000000
+k = 3, rho = 0.900000, class = 9, maximum correct number: 482.000000
+k = 3, rho = 0.900000, class = 10, maximum correct number: 483.000000
+k = 4, rho = 0.100000, class = 1, maximum correct number: 522.000000
+k = 4, rho = 0.100000, class = 2, maximum correct number: 564.000000
+k = 4, rho = 0.100000, class = 3, maximum correct number: 503.000000
+k = 4, rho = 0.100000, class = 4, maximum correct number: 539.000000
+k = 4, rho = 0.100000, class = 5, maximum correct number: 445.000000
+k = 4, rho = 0.100000, class = 6, maximum correct number: 429.000000
+k = 4, rho = 0.100000, class = 7, maximum correct number: 513.000000
+k = 4, rho = 0.100000, class = 8, maximum correct number: 520.000000
+k = 4, rho = 0.100000, class = 9, maximum correct number: 482.000000
+k = 4, rho = 0.100000, class = 10, maximum correct number: 483.000000
+k = 4, rho = 0.300000, class = 1, maximum correct number: 522.000000
+k = 4, rho = 0.300000, class = 2, maximum correct number: 564.000000
+k = 4, rho = 0.300000, class = 3, maximum correct number: 503.000000
+k = 4, rho = 0.300000, class = 4, maximum correct number: 539.000000
+k = 4, rho = 0.300000, class = 5, maximum correct number: 445.000000
+k = 4, rho = 0.300000, class = 6, maximum correct number: 429.000000
+k = 4, rho = 0.300000, class = 7, maximum correct number: 513.000000
+k = 4, rho = 0.300000, class = 8, maximum correct number: 520.000000
+k = 4, rho = 0.300000, class = 9, maximum correct number: 482.000000
+k = 4, rho = 0.300000, class = 10, maximum correct number: 483.000000
+k = 4, rho = 0.500000, class = 1, maximum correct number: 522.000000
+k = 4, rho = 0.500000, class = 2, maximum correct number: 564.000000
+k = 4, rho = 0.500000, class = 3, maximum correct number: 503.000000
+k = 4, rho = 0.500000, class = 4, maximum correct number: 539.000000
+k = 4, rho = 0.500000, class = 5, maximum correct number: 445.000000
+k = 4, rho = 0.500000, class = 6, maximum correct number: 429.000000
+k = 4, rho = 0.500000, class = 7, maximum correct number: 513.000000
+k = 4, rho = 0.500000, class = 8, maximum correct number: 520.000000
+k = 4, rho = 0.500000, class = 9, maximum correct number: 482.000000
+k = 4, rho = 0.500000, class = 10, maximum correct number: 483.000000
+k = 4, rho = 0.700000, class = 1, maximum correct number: 522.000000
+k = 4, rho = 0.700000, class = 2, maximum correct number: 564.000000
+k = 4, rho = 0.700000, class = 3, maximum correct number: 503.000000
+k = 4, rho = 0.700000, class = 4, maximum correct number: 539.000000
+k = 4, rho = 0.700000, class = 5, maximum correct number: 445.000000
+k = 4, rho = 0.700000, class = 6, maximum correct number: 429.000000
+k = 4, rho = 0.700000, class = 7, maximum correct number: 513.000000
+k = 4, rho = 0.700000, class = 8, maximum correct number: 520.000000
+k = 4, rho = 0.700000, class = 9, maximum correct number: 482.000000
+k = 4, rho = 0.700000, class = 10, maximum correct number: 483.000000
+k = 4, rho = 0.900000, class = 1, maximum correct number: 522.000000
+k = 4, rho = 0.900000, class = 2, maximum correct number: 564.000000
+k = 4, rho = 0.900000, class = 3, maximum correct number: 503.000000
+k = 4, rho = 0.900000, class = 4, maximum correct number: 539.000000
+k = 4, rho = 0.900000, class = 5, maximum correct number: 445.000000
+k = 4, rho = 0.900000, class = 6, maximum correct number: 429.000000
+k = 4, rho = 0.900000, class = 7, maximum correct number: 513.000000
+k = 4, rho = 0.900000, class = 8, maximum correct number: 520.000000
+k = 4, rho = 0.900000, class = 9, maximum correct number: 482.000000
+k = 4, rho = 0.900000, class = 10, maximum correct number: 483.000000
+iteration = 1, k = 2, rho = 0.100000, obj = 250613.28727997973, training accuracy = 1.000000
+iteration = 1, k = 2, rho = 0.100000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 2, rho = 0.300000, obj = 250316.2428204288, training accuracy = 1.000000
+iteration = 1, k = 2, rho = 0.300000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 2, rho = 0.500000, obj = 250288.23217338388, training accuracy = 1.000000
+iteration = 1, k = 2, rho = 0.500000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 2, rho = 0.700000, obj = 250266.0669282434, training accuracy = 1.000000
+iteration = 1, k = 2, rho = 0.700000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 2, rho = 0.900000, obj = 250299.2860194569, training accuracy = 1.000000
+iteration = 1, k = 2, rho = 0.900000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 3, rho = 0.100000, obj = 239218.54538800268, training accuracy = 1.000000
+iteration = 1, k = 3, rho = 0.100000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 3, rho = 0.300000, obj = 238958.85279083689, training accuracy = 1.000000
+iteration = 1, k = 3, rho = 0.300000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 3, rho = 0.500000, obj = 238917.40963339424, training accuracy = 1.000000
+iteration = 1, k = 3, rho = 0.500000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 3, rho = 0.700000, obj = 238956.63942651483, training accuracy = 1.000000
+iteration = 1, k = 3, rho = 0.700000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 3, rho = 0.900000, obj = 238942.78955602803, training accuracy = 0.999800
+iteration = 1, k = 3, rho = 0.900000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 563 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 4, rho = 0.100000, obj = 236629.02766922425, training accuracy = 0.999800
+iteration = 1, k = 4, rho = 0.100000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 512 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 4, rho = 0.300000, obj = 236215.2853429471, training accuracy = 1.000000
+iteration = 1, k = 4, rho = 0.300000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 4, rho = 0.500000, obj = 235911.8128010583, training accuracy = 1.000000
+iteration = 1, k = 4, rho = 0.500000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 4, rho = 0.700000, obj = 235861.78685738632, training accuracy = 1.000000
+iteration = 1, k = 4, rho = 0.700000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 4, rho = 0.900000, obj = 235986.9684998411, training accuracy = 1.000000
+iteration = 1, k = 4, rho = 0.900000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+k = 2, rho = 0.100000, maximum_training_acc = 0.0002
+k = 2, rho = 0.300000, maximum_training_acc = 0.0002
+k = 2, rho = 0.500000, maximum_training_acc = 0.0002
+k = 2, rho = 0.700000, maximum_training_acc = 0.0002
+k = 2, rho = 0.900000, maximum_training_acc = 0.0002
+k = 3, rho = 0.100000, maximum_training_acc = 0.00019996
+k = 3, rho = 0.300000, maximum_training_acc = 0.00019996
+k = 3, rho = 0.500000, maximum_training_acc = 0.00019996
+k = 3, rho = 0.700000, maximum_training_acc = 0.00019996
+k = 3, rho = 0.900000, maximum_training_acc = 0.00019996
+k = 4, rho = 0.100000, maximum_training_acc = 0.0002
+k = 4, rho = 0.300000, maximum_training_acc = 0.0002
+k = 4, rho = 0.500000, maximum_training_acc = 0.0002
+k = 4, rho = 0.700000, maximum_training_acc = 0.0002
+k = 4, rho = 0.900000, maximum_training_acc = 0.0002
+k = 2, rho = 0.100000, avg_training_acc = 1.0
+k = 2, rho = 0.300000, avg_training_acc = 1.0
+k = 2, rho = 0.500000, avg_training_acc = 1.0
+k = 2, rho = 0.700000, avg_training_acc = 1.0
+k = 2, rho = 0.900000, avg_training_acc = 1.0
+k = 3, rho = 0.100000, avg_training_acc = 0.9998
+k = 3, rho = 0.300000, avg_training_acc = 0.9998
+k = 3, rho = 0.500000, avg_training_acc = 0.9998
+k = 3, rho = 0.700000, avg_training_acc = 0.9998
+k = 3, rho = 0.900000, avg_training_acc = 0.9998
+k = 4, rho = 0.100000, avg_training_acc = 1.0
+k = 4, rho = 0.300000, avg_training_acc = 1.0
+k = 4, rho = 0.500000, avg_training_acc = 1.0
+k = 4, rho = 0.700000, avg_training_acc = 1.0
+k = 4, rho = 0.900000, avg_training_acc = 1.0
+k = 2, rho = 0.100000, class = 1, maximum correct number: 522.000000
+k = 2, rho = 0.100000, class = 2, maximum correct number: 564.000000
+k = 2, rho = 0.100000, class = 3, maximum correct number: 503.000000
+k = 2, rho = 0.100000, class = 4, maximum correct number: 539.000000
+k = 2, rho = 0.100000, class = 5, maximum correct number: 445.000000
+k = 2, rho = 0.100000, class = 6, maximum correct number: 429.000000
+k = 2, rho = 0.100000, class = 7, maximum correct number: 513.000000
+k = 2, rho = 0.100000, class = 8, maximum correct number: 520.000000
+k = 2, rho = 0.100000, class = 9, maximum correct number: 482.000000
+k = 2, rho = 0.100000, class = 10, maximum correct number: 483.000000
+k = 2, rho = 0.300000, class = 1, maximum correct number: 522.000000
+k = 2, rho = 0.300000, class = 2, maximum correct number: 564.000000
+k = 2, rho = 0.300000, class = 3, maximum correct number: 503.000000
+k = 2, rho = 0.300000, class = 4, maximum correct number: 539.000000
+k = 2, rho = 0.300000, class = 5, maximum correct number: 445.000000
+k = 2, rho = 0.300000, class = 6, maximum correct number: 429.000000
+k = 2, rho = 0.300000, class = 7, maximum correct number: 513.000000
+k = 2, rho = 0.300000, class = 8, maximum correct number: 520.000000
+k = 2, rho = 0.300000, class = 9, maximum correct number: 482.000000
+k = 2, rho = 0.300000, class = 10, maximum correct number: 483.000000
+k = 2, rho = 0.500000, class = 1, maximum correct number: 522.000000
+k = 2, rho = 0.500000, class = 2, maximum correct number: 564.000000
+k = 2, rho = 0.500000, class = 3, maximum correct number: 503.000000
+k = 2, rho = 0.500000, class = 4, maximum correct number: 539.000000
+k = 2, rho = 0.500000, class = 5, maximum correct number: 445.000000
+k = 2, rho = 0.500000, class = 6, maximum correct number: 429.000000
+k = 2, rho = 0.500000, class = 7, maximum correct number: 513.000000
+k = 2, rho = 0.500000, class = 8, maximum correct number: 520.000000
+k = 2, rho = 0.500000, class = 9, maximum correct number: 482.000000
+k = 2, rho = 0.500000, class = 10, maximum correct number: 483.000000
+k = 2, rho = 0.700000, class = 1, maximum correct number: 522.000000
+k = 2, rho = 0.700000, class = 2, maximum correct number: 564.000000
+k = 2, rho = 0.700000, class = 3, maximum correct number: 503.000000
+k = 2, rho = 0.700000, class = 4, maximum correct number: 539.000000
+k = 2, rho = 0.700000, class = 5, maximum correct number: 445.000000
+k = 2, rho = 0.700000, class = 6, maximum correct number: 429.000000
+k = 2, rho = 0.700000, class = 7, maximum correct number: 513.000000
+k = 2, rho = 0.700000, class = 8, maximum correct number: 520.000000
+k = 2, rho = 0.700000, class = 9, maximum correct number: 482.000000
+k = 2, rho = 0.700000, class = 10, maximum correct number: 483.000000
+k = 2, rho = 0.900000, class = 1, maximum correct number: 522.000000
+k = 2, rho = 0.900000, class = 2, maximum correct number: 564.000000
+k = 2, rho = 0.900000, class = 3, maximum correct number: 503.000000
+k = 2, rho = 0.900000, class = 4, maximum correct number: 539.000000
+k = 2, rho = 0.900000, class = 5, maximum correct number: 445.000000
+k = 2, rho = 0.900000, class = 6, maximum correct number: 429.000000
+k = 2, rho = 0.900000, class = 7, maximum correct number: 513.000000
+k = 2, rho = 0.900000, class = 8, maximum correct number: 520.000000
+k = 2, rho = 0.900000, class = 9, maximum correct number: 482.000000
+k = 2, rho = 0.900000, class = 10, maximum correct number: 483.000000
+k = 3, rho = 0.100000, class = 1, maximum correct number: 522.000000
+k = 3, rho = 0.100000, class = 2, maximum correct number: 563.000000
+k = 3, rho = 0.100000, class = 3, maximum correct number: 503.000000
+k = 3, rho = 0.100000, class = 4, maximum correct number: 539.000000
+k = 3, rho = 0.100000, class = 5, maximum correct number: 445.000000
+k = 3, rho = 0.100000, class = 6, maximum correct number: 429.000000
+k = 3, rho = 0.100000, class = 7, maximum correct number: 513.000000
+k = 3, rho = 0.100000, class = 8, maximum correct number: 520.000000
+k = 3, rho = 0.100000, class = 9, maximum correct number: 482.000000
+k = 3, rho = 0.100000, class = 10, maximum correct number: 483.000000
+k = 3, rho = 0.300000, class = 1, maximum correct number: 522.000000
+k = 3, rho = 0.300000, class = 2, maximum correct number: 563.000000
+k = 3, rho = 0.300000, class = 3, maximum correct number: 503.000000
+k = 3, rho = 0.300000, class = 4, maximum correct number: 539.000000
+k = 3, rho = 0.300000, class = 5, maximum correct number: 445.000000
+k = 3, rho = 0.300000, class = 6, maximum correct number: 429.000000
+k = 3, rho = 0.300000, class = 7, maximum correct number: 513.000000
+k = 3, rho = 0.300000, class = 8, maximum correct number: 520.000000
+k = 3, rho = 0.300000, class = 9, maximum correct number: 482.000000
+k = 3, rho = 0.300000, class = 10, maximum correct number: 483.000000
+k = 3, rho = 0.500000, class = 1, maximum correct number: 522.000000
+k = 3, rho = 0.500000, class = 2, maximum correct number: 563.000000
+k = 3, rho = 0.500000, class = 3, maximum correct number: 503.000000
+k = 3, rho = 0.500000, class = 4, maximum correct number: 539.000000
+k = 3, rho = 0.500000, class = 5, maximum correct number: 445.000000
+k = 3, rho = 0.500000, class = 6, maximum correct number: 429.000000
+k = 3, rho = 0.500000, class = 7, maximum correct number: 513.000000
+k = 3, rho = 0.500000, class = 8, maximum correct number: 520.000000
+k = 3, rho = 0.500000, class = 9, maximum correct number: 482.000000
+k = 3, rho = 0.500000, class = 10, maximum correct number: 483.000000
+k = 3, rho = 0.700000, class = 1, maximum correct number: 522.000000
+k = 3, rho = 0.700000, class = 2, maximum correct number: 563.000000
+k = 3, rho = 0.700000, class = 3, maximum correct number: 503.000000
+k = 3, rho = 0.700000, class = 4, maximum correct number: 539.000000
+k = 3, rho = 0.700000, class = 5, maximum correct number: 445.000000
+k = 3, rho = 0.700000, class = 6, maximum correct number: 429.000000
+k = 3, rho = 0.700000, class = 7, maximum correct number: 513.000000
+k = 3, rho = 0.700000, class = 8, maximum correct number: 520.000000
+k = 3, rho = 0.700000, class = 9, maximum correct number: 482.000000
+k = 3, rho = 0.700000, class = 10, maximum correct number: 483.000000
+k = 3, rho = 0.900000, class = 1, maximum correct number: 522.000000
+k = 3, rho = 0.900000, class = 2, maximum correct number: 563.000000
+k = 3, rho = 0.900000, class = 3, maximum correct number: 503.000000
+k = 3, rho = 0.900000, class = 4, maximum correct number: 539.000000
+k = 3, rho = 0.900000, class = 5, maximum correct number: 445.000000
+k = 3, rho = 0.900000, class = 6, maximum correct number: 429.000000
+k = 3, rho = 0.900000, class = 7, maximum correct number: 513.000000
+k = 3, rho = 0.900000, class = 8, maximum correct number: 520.000000
+k = 3, rho = 0.900000, class = 9, maximum correct number: 482.000000
+k = 3, rho = 0.900000, class = 10, maximum correct number: 483.000000
+k = 4, rho = 0.100000, class = 1, maximum correct number: 522.000000
+k = 4, rho = 0.100000, class = 2, maximum correct number: 564.000000
+k = 4, rho = 0.100000, class = 3, maximum correct number: 503.000000
+k = 4, rho = 0.100000, class = 4, maximum correct number: 539.000000
+k = 4, rho = 0.100000, class = 5, maximum correct number: 445.000000
+k = 4, rho = 0.100000, class = 6, maximum correct number: 429.000000
+k = 4, rho = 0.100000, class = 7, maximum correct number: 513.000000
+k = 4, rho = 0.100000, class = 8, maximum correct number: 520.000000
+k = 4, rho = 0.100000, class = 9, maximum correct number: 482.000000
+k = 4, rho = 0.100000, class = 10, maximum correct number: 483.000000
+k = 4, rho = 0.300000, class = 1, maximum correct number: 522.000000
+k = 4, rho = 0.300000, class = 2, maximum correct number: 564.000000
+k = 4, rho = 0.300000, class = 3, maximum correct number: 503.000000
+k = 4, rho = 0.300000, class = 4, maximum correct number: 539.000000
+k = 4, rho = 0.300000, class = 5, maximum correct number: 445.000000
+k = 4, rho = 0.300000, class = 6, maximum correct number: 429.000000
+k = 4, rho = 0.300000, class = 7, maximum correct number: 513.000000
+k = 4, rho = 0.300000, class = 8, maximum correct number: 520.000000
+k = 4, rho = 0.300000, class = 9, maximum correct number: 482.000000
+k = 4, rho = 0.300000, class = 10, maximum correct number: 483.000000
+k = 4, rho = 0.500000, class = 1, maximum correct number: 522.000000
+k = 4, rho = 0.500000, class = 2, maximum correct number: 564.000000
+k = 4, rho = 0.500000, class = 3, maximum correct number: 503.000000
+k = 4, rho = 0.500000, class = 4, maximum correct number: 539.000000
+k = 4, rho = 0.500000, class = 5, maximum correct number: 445.000000
+k = 4, rho = 0.500000, class = 6, maximum correct number: 429.000000
+k = 4, rho = 0.500000, class = 7, maximum correct number: 513.000000
+k = 4, rho = 0.500000, class = 8, maximum correct number: 520.000000
+k = 4, rho = 0.500000, class = 9, maximum correct number: 482.000000
+k = 4, rho = 0.500000, class = 10, maximum correct number: 483.000000
+k = 4, rho = 0.700000, class = 1, maximum correct number: 522.000000
+k = 4, rho = 0.700000, class = 2, maximum correct number: 564.000000
+k = 4, rho = 0.700000, class = 3, maximum correct number: 503.000000
+k = 4, rho = 0.700000, class = 4, maximum correct number: 539.000000
+k = 4, rho = 0.700000, class = 5, maximum correct number: 445.000000
+k = 4, rho = 0.700000, class = 6, maximum correct number: 429.000000
+k = 4, rho = 0.700000, class = 7, maximum correct number: 513.000000
+k = 4, rho = 0.700000, class = 8, maximum correct number: 520.000000
+k = 4, rho = 0.700000, class = 9, maximum correct number: 482.000000
+k = 4, rho = 0.700000, class = 10, maximum correct number: 483.000000
+k = 4, rho = 0.900000, class = 1, maximum correct number: 522.000000
+k = 4, rho = 0.900000, class = 2, maximum correct number: 564.000000
+k = 4, rho = 0.900000, class = 3, maximum correct number: 503.000000
+k = 4, rho = 0.900000, class = 4, maximum correct number: 539.000000
+k = 4, rho = 0.900000, class = 5, maximum correct number: 445.000000
+k = 4, rho = 0.900000, class = 6, maximum correct number: 429.000000
+k = 4, rho = 0.900000, class = 7, maximum correct number: 513.000000
+k = 4, rho = 0.900000, class = 8, maximum correct number: 520.000000
+k = 4, rho = 0.900000, class = 9, maximum correct number: 482.000000
+k = 4, rho = 0.900000, class = 10, maximum correct number: 483.000000
+iteration = 1, k = 2, rho = 0.100000, obj = 248268.06256729714, training accuracy = 1.000000
+iteration = 1, k = 2, rho = 0.100000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 2, rho = 0.300000, obj = 247830.61972403075, training accuracy = 1.000000
+iteration = 1, k = 2, rho = 0.300000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 2, rho = 0.500000, obj = 247809.27455190025, training accuracy = 1.000000
+iteration = 1, k = 2, rho = 0.500000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 2, rho = 0.700000, obj = 247773.0918198706, training accuracy = 1.000000
+iteration = 1, k = 2, rho = 0.700000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 2, rho = 0.900000, obj = 247753.0410322053, training accuracy = 1.000000
+iteration = 1, k = 2, rho = 0.900000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 3, rho = 0.100000, obj = 244541.75161964385, training accuracy = 1.000000
+iteration = 1, k = 3, rho = 0.100000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 3, rho = 0.300000, obj = 244150.2166820461, training accuracy = 1.000000
+iteration = 1, k = 3, rho = 0.300000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 3, rho = 0.500000, obj = 244037.89888365334, training accuracy = 1.000000
+iteration = 1, k = 3, rho = 0.500000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 3, rho = 0.700000, obj = 244031.2716450337, training accuracy = 1.000000
+iteration = 1, k = 3, rho = 0.700000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 3, rho = 0.900000, obj = 243986.99503946255, training accuracy = 1.000000
+iteration = 1, k = 3, rho = 0.900000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 4, rho = 0.100000, obj = 236120.91779354497, training accuracy = 1.000000
+iteration = 1, k = 4, rho = 0.100000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 4, rho = 0.300000, obj = 235771.69038815884, training accuracy = 1.000000
+iteration = 1, k = 4, rho = 0.300000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 4, rho = 0.500000, obj = 235629.3936632815, training accuracy = 1.000000
+iteration = 1, k = 4, rho = 0.500000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 4, rho = 0.700000, obj = 235651.6543412589, training accuracy = 1.000000
+iteration = 1, k = 4, rho = 0.700000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 4, rho = 0.900000, obj = 235544.49722571825, training accuracy = 1.000000
+iteration = 1, k = 4, rho = 0.900000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+k = 2, rho = 0.100000, maximum_training_acc = 0.0002
+k = 2, rho = 0.300000, maximum_training_acc = 0.0002
+k = 2, rho = 0.500000, maximum_training_acc = 0.0002
+k = 2, rho = 0.700000, maximum_training_acc = 0.0002
+k = 2, rho = 0.900000, maximum_training_acc = 0.0002
+k = 3, rho = 0.100000, maximum_training_acc = 0.0002
+k = 3, rho = 0.300000, maximum_training_acc = 0.0002
+k = 3, rho = 0.500000, maximum_training_acc = 0.0002
+k = 3, rho = 0.700000, maximum_training_acc = 0.0002
+k = 3, rho = 0.900000, maximum_training_acc = 0.0002
+k = 4, rho = 0.100000, maximum_training_acc = 0.0002
+k = 4, rho = 0.300000, maximum_training_acc = 0.0002
+k = 4, rho = 0.500000, maximum_training_acc = 0.0002
+k = 4, rho = 0.700000, maximum_training_acc = 0.0002
+k = 4, rho = 0.900000, maximum_training_acc = 0.0002
+k = 2, rho = 0.100000, avg_training_acc = 1.0
+k = 2, rho = 0.300000, avg_training_acc = 1.0
+k = 2, rho = 0.500000, avg_training_acc = 1.0
+k = 2, rho = 0.700000, avg_training_acc = 1.0
+k = 2, rho = 0.900000, avg_training_acc = 1.0
+k = 3, rho = 0.100000, avg_training_acc = 1.0
+k = 3, rho = 0.300000, avg_training_acc = 1.0
+k = 3, rho = 0.500000, avg_training_acc = 1.0
+k = 3, rho = 0.700000, avg_training_acc = 1.0
+k = 3, rho = 0.900000, avg_training_acc = 1.0
+k = 4, rho = 0.100000, avg_training_acc = 1.0
+k = 4, rho = 0.300000, avg_training_acc = 1.0
+k = 4, rho = 0.500000, avg_training_acc = 1.0
+k = 4, rho = 0.700000, avg_training_acc = 1.0
+k = 4, rho = 0.900000, avg_training_acc = 1.0
+k = 2, rho = 0.100000, class = 1, maximum correct number: 522.000000
+k = 2, rho = 0.100000, class = 2, maximum correct number: 564.000000
+k = 2, rho = 0.100000, class = 3, maximum correct number: 503.000000
+k = 2, rho = 0.100000, class = 4, maximum correct number: 539.000000
+k = 2, rho = 0.100000, class = 5, maximum correct number: 445.000000
+k = 2, rho = 0.100000, class = 6, maximum correct number: 429.000000
+k = 2, rho = 0.100000, class = 7, maximum correct number: 513.000000
+k = 2, rho = 0.100000, class = 8, maximum correct number: 520.000000
+k = 2, rho = 0.100000, class = 9, maximum correct number: 482.000000
+k = 2, rho = 0.100000, class = 10, maximum correct number: 483.000000
+k = 2, rho = 0.300000, class = 1, maximum correct number: 522.000000
+k = 2, rho = 0.300000, class = 2, maximum correct number: 564.000000
+k = 2, rho = 0.300000, class = 3, maximum correct number: 503.000000
+k = 2, rho = 0.300000, class = 4, maximum correct number: 539.000000
+k = 2, rho = 0.300000, class = 5, maximum correct number: 445.000000
+k = 2, rho = 0.300000, class = 6, maximum correct number: 429.000000
+k = 2, rho = 0.300000, class = 7, maximum correct number: 513.000000
+k = 2, rho = 0.300000, class = 8, maximum correct number: 520.000000
+k = 2, rho = 0.300000, class = 9, maximum correct number: 482.000000
+k = 2, rho = 0.300000, class = 10, maximum correct number: 483.000000
+k = 2, rho = 0.500000, class = 1, maximum correct number: 522.000000
+k = 2, rho = 0.500000, class = 2, maximum correct number: 564.000000
+k = 2, rho = 0.500000, class = 3, maximum correct number: 503.000000
+k = 2, rho = 0.500000, class = 4, maximum correct number: 539.000000
+k = 2, rho = 0.500000, class = 5, maximum correct number: 445.000000
+k = 2, rho = 0.500000, class = 6, maximum correct number: 429.000000
+k = 2, rho = 0.500000, class = 7, maximum correct number: 513.000000
+k = 2, rho = 0.500000, class = 8, maximum correct number: 520.000000
+k = 2, rho = 0.500000, class = 9, maximum correct number: 482.000000
+k = 2, rho = 0.500000, class = 10, maximum correct number: 483.000000
+k = 2, rho = 0.700000, class = 1, maximum correct number: 522.000000
+k = 2, rho = 0.700000, class = 2, maximum correct number: 564.000000
+k = 2, rho = 0.700000, class = 3, maximum correct number: 503.000000
+k = 2, rho = 0.700000, class = 4, maximum correct number: 539.000000
+k = 2, rho = 0.700000, class = 5, maximum correct number: 445.000000
+k = 2, rho = 0.700000, class = 6, maximum correct number: 429.000000
+k = 2, rho = 0.700000, class = 7, maximum correct number: 513.000000
+k = 2, rho = 0.700000, class = 8, maximum correct number: 520.000000
+k = 2, rho = 0.700000, class = 9, maximum correct number: 482.000000
+k = 2, rho = 0.700000, class = 10, maximum correct number: 483.000000
+k = 2, rho = 0.900000, class = 1, maximum correct number: 522.000000
+k = 2, rho = 0.900000, class = 2, maximum correct number: 564.000000
+k = 2, rho = 0.900000, class = 3, maximum correct number: 503.000000
+k = 2, rho = 0.900000, class = 4, maximum correct number: 539.000000
+k = 2, rho = 0.900000, class = 5, maximum correct number: 445.000000
+k = 2, rho = 0.900000, class = 6, maximum correct number: 429.000000
+k = 2, rho = 0.900000, class = 7, maximum correct number: 513.000000
+k = 2, rho = 0.900000, class = 8, maximum correct number: 520.000000
+k = 2, rho = 0.900000, class = 9, maximum correct number: 482.000000
+k = 2, rho = 0.900000, class = 10, maximum correct number: 483.000000
+k = 3, rho = 0.100000, class = 1, maximum correct number: 522.000000
+k = 3, rho = 0.100000, class = 2, maximum correct number: 564.000000
+k = 3, rho = 0.100000, class = 3, maximum correct number: 503.000000
+k = 3, rho = 0.100000, class = 4, maximum correct number: 539.000000
+k = 3, rho = 0.100000, class = 5, maximum correct number: 445.000000
+k = 3, rho = 0.100000, class = 6, maximum correct number: 429.000000
+k = 3, rho = 0.100000, class = 7, maximum correct number: 513.000000
+k = 3, rho = 0.100000, class = 8, maximum correct number: 520.000000
+k = 3, rho = 0.100000, class = 9, maximum correct number: 482.000000
+k = 3, rho = 0.100000, class = 10, maximum correct number: 483.000000
+k = 3, rho = 0.300000, class = 1, maximum correct number: 522.000000
+k = 3, rho = 0.300000, class = 2, maximum correct number: 564.000000
+k = 3, rho = 0.300000, class = 3, maximum correct number: 503.000000
+k = 3, rho = 0.300000, class = 4, maximum correct number: 539.000000
+k = 3, rho = 0.300000, class = 5, maximum correct number: 445.000000
+k = 3, rho = 0.300000, class = 6, maximum correct number: 429.000000
+k = 3, rho = 0.300000, class = 7, maximum correct number: 513.000000
+k = 3, rho = 0.300000, class = 8, maximum correct number: 520.000000
+k = 3, rho = 0.300000, class = 9, maximum correct number: 482.000000
+k = 3, rho = 0.300000, class = 10, maximum correct number: 483.000000
+k = 3, rho = 0.500000, class = 1, maximum correct number: 522.000000
+k = 3, rho = 0.500000, class = 2, maximum correct number: 564.000000
+k = 3, rho = 0.500000, class = 3, maximum correct number: 503.000000
+k = 3, rho = 0.500000, class = 4, maximum correct number: 539.000000
+k = 3, rho = 0.500000, class = 5, maximum correct number: 445.000000
+k = 3, rho = 0.500000, class = 6, maximum correct number: 429.000000
+k = 3, rho = 0.500000, class = 7, maximum correct number: 513.000000
+k = 3, rho = 0.500000, class = 8, maximum correct number: 520.000000
+k = 3, rho = 0.500000, class = 9, maximum correct number: 482.000000
+k = 3, rho = 0.500000, class = 10, maximum correct number: 483.000000
+k = 3, rho = 0.700000, class = 1, maximum correct number: 522.000000
+k = 3, rho = 0.700000, class = 2, maximum correct number: 564.000000
+k = 3, rho = 0.700000, class = 3, maximum correct number: 503.000000
+k = 3, rho = 0.700000, class = 4, maximum correct number: 539.000000
+k = 3, rho = 0.700000, class = 5, maximum correct number: 445.000000
+k = 3, rho = 0.700000, class = 6, maximum correct number: 429.000000
+k = 3, rho = 0.700000, class = 7, maximum correct number: 513.000000
+k = 3, rho = 0.700000, class = 8, maximum correct number: 520.000000
+k = 3, rho = 0.700000, class = 9, maximum correct number: 482.000000
+k = 3, rho = 0.700000, class = 10, maximum correct number: 483.000000
+k = 3, rho = 0.900000, class = 1, maximum correct number: 522.000000
+k = 3, rho = 0.900000, class = 2, maximum correct number: 564.000000
+k = 3, rho = 0.900000, class = 3, maximum correct number: 503.000000
+k = 3, rho = 0.900000, class = 4, maximum correct number: 539.000000
+k = 3, rho = 0.900000, class = 5, maximum correct number: 445.000000
+k = 3, rho = 0.900000, class = 6, maximum correct number: 429.000000
+k = 3, rho = 0.900000, class = 7, maximum correct number: 513.000000
+k = 3, rho = 0.900000, class = 8, maximum correct number: 520.000000
+k = 3, rho = 0.900000, class = 9, maximum correct number: 482.000000
+k = 3, rho = 0.900000, class = 10, maximum correct number: 483.000000
+k = 4, rho = 0.100000, class = 1, maximum correct number: 522.000000
+k = 4, rho = 0.100000, class = 2, maximum correct number: 564.000000
+k = 4, rho = 0.100000, class = 3, maximum correct number: 503.000000
+k = 4, rho = 0.100000, class = 4, maximum correct number: 539.000000
+k = 4, rho = 0.100000, class = 5, maximum correct number: 445.000000
+k = 4, rho = 0.100000, class = 6, maximum correct number: 429.000000
+k = 4, rho = 0.100000, class = 7, maximum correct number: 513.000000
+k = 4, rho = 0.100000, class = 8, maximum correct number: 520.000000
+k = 4, rho = 0.100000, class = 9, maximum correct number: 482.000000
+k = 4, rho = 0.100000, class = 10, maximum correct number: 483.000000
+k = 4, rho = 0.300000, class = 1, maximum correct number: 522.000000
+k = 4, rho = 0.300000, class = 2, maximum correct number: 564.000000
+k = 4, rho = 0.300000, class = 3, maximum correct number: 503.000000
+k = 4, rho = 0.300000, class = 4, maximum correct number: 539.000000
+k = 4, rho = 0.300000, class = 5, maximum correct number: 445.000000
+k = 4, rho = 0.300000, class = 6, maximum correct number: 429.000000
+k = 4, rho = 0.300000, class = 7, maximum correct number: 513.000000
+k = 4, rho = 0.300000, class = 8, maximum correct number: 520.000000
+k = 4, rho = 0.300000, class = 9, maximum correct number: 482.000000
+k = 4, rho = 0.300000, class = 10, maximum correct number: 483.000000
+k = 4, rho = 0.500000, class = 1, maximum correct number: 522.000000
+k = 4, rho = 0.500000, class = 2, maximum correct number: 564.000000
+k = 4, rho = 0.500000, class = 3, maximum correct number: 503.000000
+k = 4, rho = 0.500000, class = 4, maximum correct number: 539.000000
+k = 4, rho = 0.500000, class = 5, maximum correct number: 445.000000
+k = 4, rho = 0.500000, class = 6, maximum correct number: 429.000000
+k = 4, rho = 0.500000, class = 7, maximum correct number: 513.000000
+k = 4, rho = 0.500000, class = 8, maximum correct number: 520.000000
+k = 4, rho = 0.500000, class = 9, maximum correct number: 482.000000
+k = 4, rho = 0.500000, class = 10, maximum correct number: 483.000000
+k = 4, rho = 0.700000, class = 1, maximum correct number: 522.000000
+k = 4, rho = 0.700000, class = 2, maximum correct number: 564.000000
+k = 4, rho = 0.700000, class = 3, maximum correct number: 503.000000
+k = 4, rho = 0.700000, class = 4, maximum correct number: 539.000000
+k = 4, rho = 0.700000, class = 5, maximum correct number: 445.000000
+k = 4, rho = 0.700000, class = 6, maximum correct number: 429.000000
+k = 4, rho = 0.700000, class = 7, maximum correct number: 513.000000
+k = 4, rho = 0.700000, class = 8, maximum correct number: 520.000000
+k = 4, rho = 0.700000, class = 9, maximum correct number: 482.000000
+k = 4, rho = 0.700000, class = 10, maximum correct number: 483.000000
+k = 4, rho = 0.900000, class = 1, maximum correct number: 522.000000
+k = 4, rho = 0.900000, class = 2, maximum correct number: 564.000000
+k = 4, rho = 0.900000, class = 3, maximum correct number: 503.000000
+k = 4, rho = 0.900000, class = 4, maximum correct number: 539.000000
+k = 4, rho = 0.900000, class = 5, maximum correct number: 445.000000
+k = 4, rho = 0.900000, class = 6, maximum correct number: 429.000000
+k = 4, rho = 0.900000, class = 7, maximum correct number: 513.000000
+k = 4, rho = 0.900000, class = 8, maximum correct number: 520.000000
+k = 4, rho = 0.900000, class = 9, maximum correct number: 482.000000
+k = 4, rho = 0.900000, class = 10, maximum correct number: 483.000000
+iteration = 1, k = 2, rho = 0.100000, obj = 247822.3877306557, training accuracy = 1.000000
+iteration = 1, k = 2, rho = 0.100000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 2, rho = 0.300000, obj = 247444.59694061396, training accuracy = 1.000000
+iteration = 1, k = 2, rho = 0.300000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 2, rho = 0.500000, obj = 247443.6728419752, training accuracy = 1.000000
+iteration = 1, k = 2, rho = 0.500000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 2, rho = 0.700000, obj = 247453.30031753343, training accuracy = 1.000000
+iteration = 1, k = 2, rho = 0.700000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 2, rho = 0.900000, obj = 247456.18563305246, training accuracy = 1.000000
+iteration = 1, k = 2, rho = 0.900000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 3, rho = 0.100000, obj = 238427.98979179992, training accuracy = 1.000000
+iteration = 1, k = 3, rho = 0.100000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 3, rho = 0.300000, obj = 238001.20779761104, training accuracy = 1.000000
+iteration = 1, k = 3, rho = 0.300000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 3, rho = 0.500000, obj = 238037.51338099476, training accuracy = 1.000000
+iteration = 1, k = 3, rho = 0.500000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 3, rho = 0.700000, obj = 238007.26943685647, training accuracy = 1.000000
+iteration = 1, k = 3, rho = 0.700000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 3, rho = 0.900000, obj = 237928.04237965535, training accuracy = 1.000000
+iteration = 1, k = 3, rho = 0.900000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 4, rho = 0.100000, obj = 229886.65641922993, training accuracy = 0.874800
+iteration = 1, k = 4, rho = 0.100000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 563 
+j = 3, correct training_num = 425 
+j = 4, correct training_num = 452 
+j = 5, correct training_num = 428 
+j = 6, correct training_num = 327 
+j = 7, correct training_num = 360 
+j = 8, correct training_num = 499 
+j = 9, correct training_num = 340 
+j = 10, correct training_num = 458 
+
+iteration = 1, k = 4, rho = 0.300000, obj = 229504.8778067797, training accuracy = 1.000000
+iteration = 1, k = 4, rho = 0.300000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 4, rho = 0.500000, obj = 229390.250505413, training accuracy = 1.000000
+iteration = 1, k = 4, rho = 0.500000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 4, rho = 0.700000, obj = 229368.66369724166, training accuracy = 1.000000
+iteration = 1, k = 4, rho = 0.700000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 4, rho = 0.900000, obj = 229380.8908300554, training accuracy = 1.000000
+iteration = 1, k = 4, rho = 0.900000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+k = 2, rho = 0.100000, maximum_training_acc = 0.0002
+k = 2, rho = 0.300000, maximum_training_acc = 0.0002
+k = 2, rho = 0.500000, maximum_training_acc = 0.0002
+k = 2, rho = 0.700000, maximum_training_acc = 0.0002
+k = 2, rho = 0.900000, maximum_training_acc = 0.0002
+k = 3, rho = 0.100000, maximum_training_acc = 0.0002
+k = 3, rho = 0.300000, maximum_training_acc = 0.0002
+k = 3, rho = 0.500000, maximum_training_acc = 0.0002
+k = 3, rho = 0.700000, maximum_training_acc = 0.0002
+k = 3, rho = 0.900000, maximum_training_acc = 0.0002
+k = 4, rho = 0.100000, maximum_training_acc = 0.0002
+k = 4, rho = 0.300000, maximum_training_acc = 0.0002
+k = 4, rho = 0.500000, maximum_training_acc = 0.0002
+k = 4, rho = 0.700000, maximum_training_acc = 0.0002
+k = 4, rho = 0.900000, maximum_training_acc = 0.0002
+k = 2, rho = 0.100000, avg_training_acc = 1.0
+k = 2, rho = 0.300000, avg_training_acc = 1.0
+k = 2, rho = 0.500000, avg_training_acc = 1.0
+k = 2, rho = 0.700000, avg_training_acc = 1.0
+k = 2, rho = 0.900000, avg_training_acc = 1.0
+k = 3, rho = 0.100000, avg_training_acc = 1.0
+k = 3, rho = 0.300000, avg_training_acc = 1.0
+k = 3, rho = 0.500000, avg_training_acc = 1.0
+k = 3, rho = 0.700000, avg_training_acc = 1.0
+k = 3, rho = 0.900000, avg_training_acc = 1.0
+k = 4, rho = 0.100000, avg_training_acc = 1.0
+k = 4, rho = 0.300000, avg_training_acc = 1.0
+k = 4, rho = 0.500000, avg_training_acc = 1.0
+k = 4, rho = 0.700000, avg_training_acc = 1.0
+k = 4, rho = 0.900000, avg_training_acc = 1.0
+k = 2, rho = 0.100000, class = 1, maximum correct number: 522.000000
+k = 2, rho = 0.100000, class = 2, maximum correct number: 564.000000
+k = 2, rho = 0.100000, class = 3, maximum correct number: 503.000000
+k = 2, rho = 0.100000, class = 4, maximum correct number: 539.000000
+k = 2, rho = 0.100000, class = 5, maximum correct number: 445.000000
+k = 2, rho = 0.100000, class = 6, maximum correct number: 429.000000
+k = 2, rho = 0.100000, class = 7, maximum correct number: 513.000000
+k = 2, rho = 0.100000, class = 8, maximum correct number: 520.000000
+k = 2, rho = 0.100000, class = 9, maximum correct number: 482.000000
+k = 2, rho = 0.100000, class = 10, maximum correct number: 483.000000
+k = 2, rho = 0.300000, class = 1, maximum correct number: 522.000000
+k = 2, rho = 0.300000, class = 2, maximum correct number: 564.000000
+k = 2, rho = 0.300000, class = 3, maximum correct number: 503.000000
+k = 2, rho = 0.300000, class = 4, maximum correct number: 539.000000
+k = 2, rho = 0.300000, class = 5, maximum correct number: 445.000000
+k = 2, rho = 0.300000, class = 6, maximum correct number: 429.000000
+k = 2, rho = 0.300000, class = 7, maximum correct number: 513.000000
+k = 2, rho = 0.300000, class = 8, maximum correct number: 520.000000
+k = 2, rho = 0.300000, class = 9, maximum correct number: 482.000000
+k = 2, rho = 0.300000, class = 10, maximum correct number: 483.000000
+k = 2, rho = 0.500000, class = 1, maximum correct number: 522.000000
+k = 2, rho = 0.500000, class = 2, maximum correct number: 564.000000
+k = 2, rho = 0.500000, class = 3, maximum correct number: 503.000000
+k = 2, rho = 0.500000, class = 4, maximum correct number: 539.000000
+k = 2, rho = 0.500000, class = 5, maximum correct number: 445.000000
+k = 2, rho = 0.500000, class = 6, maximum correct number: 429.000000
+k = 2, rho = 0.500000, class = 7, maximum correct number: 513.000000
+k = 2, rho = 0.500000, class = 8, maximum correct number: 520.000000
+k = 2, rho = 0.500000, class = 9, maximum correct number: 482.000000
+k = 2, rho = 0.500000, class = 10, maximum correct number: 483.000000
+k = 2, rho = 0.700000, class = 1, maximum correct number: 522.000000
+k = 2, rho = 0.700000, class = 2, maximum correct number: 564.000000
+k = 2, rho = 0.700000, class = 3, maximum correct number: 503.000000
+k = 2, rho = 0.700000, class = 4, maximum correct number: 539.000000
+k = 2, rho = 0.700000, class = 5, maximum correct number: 445.000000
+k = 2, rho = 0.700000, class = 6, maximum correct number: 429.000000
+k = 2, rho = 0.700000, class = 7, maximum correct number: 513.000000
+k = 2, rho = 0.700000, class = 8, maximum correct number: 520.000000
+k = 2, rho = 0.700000, class = 9, maximum correct number: 482.000000
+k = 2, rho = 0.700000, class = 10, maximum correct number: 483.000000
+k = 2, rho = 0.900000, class = 1, maximum correct number: 522.000000
+k = 2, rho = 0.900000, class = 2, maximum correct number: 564.000000
+k = 2, rho = 0.900000, class = 3, maximum correct number: 503.000000
+k = 2, rho = 0.900000, class = 4, maximum correct number: 539.000000
+k = 2, rho = 0.900000, class = 5, maximum correct number: 445.000000
+k = 2, rho = 0.900000, class = 6, maximum correct number: 429.000000
+k = 2, rho = 0.900000, class = 7, maximum correct number: 513.000000
+k = 2, rho = 0.900000, class = 8, maximum correct number: 520.000000
+k = 2, rho = 0.900000, class = 9, maximum correct number: 482.000000
+k = 2, rho = 0.900000, class = 10, maximum correct number: 483.000000
+k = 3, rho = 0.100000, class = 1, maximum correct number: 522.000000
+k = 3, rho = 0.100000, class = 2, maximum correct number: 564.000000
+k = 3, rho = 0.100000, class = 3, maximum correct number: 503.000000
+k = 3, rho = 0.100000, class = 4, maximum correct number: 539.000000
+k = 3, rho = 0.100000, class = 5, maximum correct number: 445.000000
+k = 3, rho = 0.100000, class = 6, maximum correct number: 429.000000
+k = 3, rho = 0.100000, class = 7, maximum correct number: 513.000000
+k = 3, rho = 0.100000, class = 8, maximum correct number: 520.000000
+k = 3, rho = 0.100000, class = 9, maximum correct number: 482.000000
+k = 3, rho = 0.100000, class = 10, maximum correct number: 483.000000
+k = 3, rho = 0.300000, class = 1, maximum correct number: 522.000000
+k = 3, rho = 0.300000, class = 2, maximum correct number: 564.000000
+k = 3, rho = 0.300000, class = 3, maximum correct number: 503.000000
+k = 3, rho = 0.300000, class = 4, maximum correct number: 539.000000
+k = 3, rho = 0.300000, class = 5, maximum correct number: 445.000000
+k = 3, rho = 0.300000, class = 6, maximum correct number: 429.000000
+k = 3, rho = 0.300000, class = 7, maximum correct number: 513.000000
+k = 3, rho = 0.300000, class = 8, maximum correct number: 520.000000
+k = 3, rho = 0.300000, class = 9, maximum correct number: 482.000000
+k = 3, rho = 0.300000, class = 10, maximum correct number: 483.000000
+k = 3, rho = 0.500000, class = 1, maximum correct number: 522.000000
+k = 3, rho = 0.500000, class = 2, maximum correct number: 564.000000
+k = 3, rho = 0.500000, class = 3, maximum correct number: 503.000000
+k = 3, rho = 0.500000, class = 4, maximum correct number: 539.000000
+k = 3, rho = 0.500000, class = 5, maximum correct number: 445.000000
+k = 3, rho = 0.500000, class = 6, maximum correct number: 429.000000
+k = 3, rho = 0.500000, class = 7, maximum correct number: 513.000000
+k = 3, rho = 0.500000, class = 8, maximum correct number: 520.000000
+k = 3, rho = 0.500000, class = 9, maximum correct number: 482.000000
+k = 3, rho = 0.500000, class = 10, maximum correct number: 483.000000
+k = 3, rho = 0.700000, class = 1, maximum correct number: 522.000000
+k = 3, rho = 0.700000, class = 2, maximum correct number: 564.000000
+k = 3, rho = 0.700000, class = 3, maximum correct number: 503.000000
+k = 3, rho = 0.700000, class = 4, maximum correct number: 539.000000
+k = 3, rho = 0.700000, class = 5, maximum correct number: 445.000000
+k = 3, rho = 0.700000, class = 6, maximum correct number: 429.000000
+k = 3, rho = 0.700000, class = 7, maximum correct number: 513.000000
+k = 3, rho = 0.700000, class = 8, maximum correct number: 520.000000
+k = 3, rho = 0.700000, class = 9, maximum correct number: 482.000000
+k = 3, rho = 0.700000, class = 10, maximum correct number: 483.000000
+k = 3, rho = 0.900000, class = 1, maximum correct number: 522.000000
+k = 3, rho = 0.900000, class = 2, maximum correct number: 564.000000
+k = 3, rho = 0.900000, class = 3, maximum correct number: 503.000000
+k = 3, rho = 0.900000, class = 4, maximum correct number: 539.000000
+k = 3, rho = 0.900000, class = 5, maximum correct number: 445.000000
+k = 3, rho = 0.900000, class = 6, maximum correct number: 429.000000
+k = 3, rho = 0.900000, class = 7, maximum correct number: 513.000000
+k = 3, rho = 0.900000, class = 8, maximum correct number: 520.000000
+k = 3, rho = 0.900000, class = 9, maximum correct number: 482.000000
+k = 3, rho = 0.900000, class = 10, maximum correct number: 483.000000
+k = 4, rho = 0.100000, class = 1, maximum correct number: 522.000000
+k = 4, rho = 0.100000, class = 2, maximum correct number: 564.000000
+k = 4, rho = 0.100000, class = 3, maximum correct number: 503.000000
+k = 4, rho = 0.100000, class = 4, maximum correct number: 539.000000
+k = 4, rho = 0.100000, class = 5, maximum correct number: 445.000000
+k = 4, rho = 0.100000, class = 6, maximum correct number: 429.000000
+k = 4, rho = 0.100000, class = 7, maximum correct number: 513.000000
+k = 4, rho = 0.100000, class = 8, maximum correct number: 520.000000
+k = 4, rho = 0.100000, class = 9, maximum correct number: 482.000000
+k = 4, rho = 0.100000, class = 10, maximum correct number: 483.000000
+k = 4, rho = 0.300000, class = 1, maximum correct number: 522.000000
+k = 4, rho = 0.300000, class = 2, maximum correct number: 564.000000
+k = 4, rho = 0.300000, class = 3, maximum correct number: 503.000000
+k = 4, rho = 0.300000, class = 4, maximum correct number: 539.000000
+k = 4, rho = 0.300000, class = 5, maximum correct number: 445.000000
+k = 4, rho = 0.300000, class = 6, maximum correct number: 429.000000
+k = 4, rho = 0.300000, class = 7, maximum correct number: 513.000000
+k = 4, rho = 0.300000, class = 8, maximum correct number: 520.000000
+k = 4, rho = 0.300000, class = 9, maximum correct number: 482.000000
+k = 4, rho = 0.300000, class = 10, maximum correct number: 483.000000
+k = 4, rho = 0.500000, class = 1, maximum correct number: 522.000000
+k = 4, rho = 0.500000, class = 2, maximum correct number: 564.000000
+k = 4, rho = 0.500000, class = 3, maximum correct number: 503.000000
+k = 4, rho = 0.500000, class = 4, maximum correct number: 539.000000
+k = 4, rho = 0.500000, class = 5, maximum correct number: 445.000000
+k = 4, rho = 0.500000, class = 6, maximum correct number: 429.000000
+k = 4, rho = 0.500000, class = 7, maximum correct number: 513.000000
+k = 4, rho = 0.500000, class = 8, maximum correct number: 520.000000
+k = 4, rho = 0.500000, class = 9, maximum correct number: 482.000000
+k = 4, rho = 0.500000, class = 10, maximum correct number: 483.000000
+k = 4, rho = 0.700000, class = 1, maximum correct number: 522.000000
+k = 4, rho = 0.700000, class = 2, maximum correct number: 564.000000
+k = 4, rho = 0.700000, class = 3, maximum correct number: 503.000000
+k = 4, rho = 0.700000, class = 4, maximum correct number: 539.000000
+k = 4, rho = 0.700000, class = 5, maximum correct number: 445.000000
+k = 4, rho = 0.700000, class = 6, maximum correct number: 429.000000
+k = 4, rho = 0.700000, class = 7, maximum correct number: 513.000000
+k = 4, rho = 0.700000, class = 8, maximum correct number: 520.000000
+k = 4, rho = 0.700000, class = 9, maximum correct number: 482.000000
+k = 4, rho = 0.700000, class = 10, maximum correct number: 483.000000
+k = 4, rho = 0.900000, class = 1, maximum correct number: 522.000000
+k = 4, rho = 0.900000, class = 2, maximum correct number: 564.000000
+k = 4, rho = 0.900000, class = 3, maximum correct number: 503.000000
+k = 4, rho = 0.900000, class = 4, maximum correct number: 539.000000
+k = 4, rho = 0.900000, class = 5, maximum correct number: 445.000000
+k = 4, rho = 0.900000, class = 6, maximum correct number: 429.000000
+k = 4, rho = 0.900000, class = 7, maximum correct number: 513.000000
+k = 4, rho = 0.900000, class = 8, maximum correct number: 520.000000
+k = 4, rho = 0.900000, class = 9, maximum correct number: 482.000000
+k = 4, rho = 0.900000, class = 10, maximum correct number: 483.000000
+iteration = 1, k = 2, rho = 0.100000, obj = 251769.4370247654, training accuracy = 1.000000
+iteration = 1, k = 2, rho = 0.100000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 2, rho = 0.300000, obj = 251598.45541017165, training accuracy = 1.000000
+iteration = 1, k = 2, rho = 0.300000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 2, rho = 0.500000, obj = 251560.94698386104, training accuracy = 1.000000
+iteration = 1, k = 2, rho = 0.500000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 2, rho = 0.700000, obj = 251545.57595115123, training accuracy = 1.000000
+iteration = 1, k = 2, rho = 0.700000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 2, rho = 0.900000, obj = 251538.56173745805, training accuracy = 1.000000
+iteration = 1, k = 2, rho = 0.900000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 3, rho = 0.100000, obj = 243529.63902873688, training accuracy = 1.000000
+iteration = 1, k = 3, rho = 0.100000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 3, rho = 0.300000, obj = 242899.780533048, training accuracy = 1.000000
+iteration = 1, k = 3, rho = 0.300000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 3, rho = 0.500000, obj = 242861.2505263284, training accuracy = 0.999800
+iteration = 1, k = 3, rho = 0.500000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 563 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 3, rho = 0.700000, obj = 242779.37873536148, training accuracy = 1.000000
+iteration = 1, k = 3, rho = 0.700000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 3, rho = 0.900000, obj = 242707.16401231493, training accuracy = 0.999800
+iteration = 1, k = 3, rho = 0.900000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 563 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 4, rho = 0.100000, obj = 233230.7334608444, training accuracy = 1.000000
+iteration = 1, k = 4, rho = 0.100000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 4, rho = 0.300000, obj = 232711.23623222733, training accuracy = 1.000000
+iteration = 1, k = 4, rho = 0.300000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 4, rho = 0.500000, obj = 232693.0510988711, training accuracy = 1.000000
+iteration = 1, k = 4, rho = 0.500000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 4, rho = 0.700000, obj = 232591.68935237205, training accuracy = 1.000000
+iteration = 1, k = 4, rho = 0.700000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 564 
+j = 3, correct training_num = 503 
+j = 4, correct training_num = 539 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 429 
+j = 7, correct training_num = 513 
+j = 8, correct training_num = 520 
+j = 9, correct training_num = 482 
+j = 10, correct training_num = 483 
+
+iteration = 1, k = 4, rho = 0.900000, obj = 232593.29742984983, training accuracy = 0.873200
+iteration = 1, k = 4, rho = 0.900000
+j = 1, correct training_num = 522 
+j = 2, correct training_num = 562 
+j = 3, correct training_num = 457 
+j = 4, correct training_num = 273 
+j = 5, correct training_num = 445 
+j = 6, correct training_num = 240 
+j = 7, correct training_num = 489 
+j = 8, correct training_num = 458 
+j = 9, correct training_num = 442 
+j = 10, correct training_num = 478 
+
+k = 2, rho = 0.100000, maximum_training_acc = 0.0002
+k = 2, rho = 0.300000, maximum_training_acc = 0.0002
+k = 2, rho = 0.500000, maximum_training_acc = 0.0002
+k = 2, rho = 0.700000, maximum_training_acc = 0.0002
+k = 2, rho = 0.900000, maximum_training_acc = 0.0002
+k = 3, rho = 0.100000, maximum_training_acc = 0.00019996
+k = 3, rho = 0.300000, maximum_training_acc = 0.00019996
+k = 3, rho = 0.500000, maximum_training_acc = 0.00019996
+k = 3, rho = 0.700000, maximum_training_acc = 0.00019996
+k = 3, rho = 0.900000, maximum_training_acc = 0.00019996
+k = 4, rho = 0.100000, maximum_training_acc = 0.00017464
+k = 4, rho = 0.300000, maximum_training_acc = 0.00017464
+k = 4, rho = 0.500000, maximum_training_acc = 0.00017464
+k = 4, rho = 0.700000, maximum_training_acc = 0.00017464
+k = 4, rho = 0.900000, maximum_training_acc = 0.00017464
+k = 2, rho = 0.100000, avg_training_acc = 1.0
+k = 2, rho = 0.300000, avg_training_acc = 1.0
+k = 2, rho = 0.500000, avg_training_acc = 1.0
+k = 2, rho = 0.700000, avg_training_acc = 1.0
+k = 2, rho = 0.900000, avg_training_acc = 1.0
+k = 3, rho = 0.100000, avg_training_acc = 0.9998
+k = 3, rho = 0.300000, avg_training_acc = 0.9998
+k = 3, rho = 0.500000, avg_training_acc = 0.9998
+k = 3, rho = 0.700000, avg_training_acc = 0.9998
+k = 3, rho = 0.900000, avg_training_acc = 0.9998
+k = 4, rho = 0.100000, avg_training_acc = 0.8732
+k = 4, rho = 0.300000, avg_training_acc = 0.8732
+k = 4, rho = 0.500000, avg_training_acc = 0.8732
+k = 4, rho = 0.700000, avg_training_acc = 0.8732
+k = 4, rho = 0.900000, avg_training_acc = 0.8732
+k = 2, rho = 0.100000, class = 1, maximum correct number: 522.000000
+k = 2, rho = 0.100000, class = 2, maximum correct number: 564.000000
+k = 2, rho = 0.100000, class = 3, maximum correct number: 503.000000
+k = 2, rho = 0.100000, class = 4, maximum correct number: 539.000000
+k = 2, rho = 0.100000, class = 5, maximum correct number: 445.000000
+k = 2, rho = 0.100000, class = 6, maximum correct number: 429.000000
+k = 2, rho = 0.100000, class = 7, maximum correct number: 513.000000
+k = 2, rho = 0.100000, class = 8, maximum correct number: 520.000000
+k = 2, rho = 0.100000, class = 9, maximum correct number: 482.000000
+k = 2, rho = 0.100000, class = 10, maximum correct number: 483.000000
+k = 2, rho = 0.300000, class = 1, maximum correct number: 522.000000
+k = 2, rho = 0.300000, class = 2, maximum correct number: 564.000000
+k = 2, rho = 0.300000, class = 3, maximum correct number: 503.000000
+k = 2, rho = 0.300000, class = 4, maximum correct number: 539.000000
+k = 2, rho = 0.300000, class = 5, maximum correct number: 445.000000
+k = 2, rho = 0.300000, class = 6, maximum correct number: 429.000000
+k = 2, rho = 0.300000, class = 7, maximum correct number: 513.000000
+k = 2, rho = 0.300000, class = 8, maximum correct number: 520.000000
+k = 2, rho = 0.300000, class = 9, maximum correct number: 482.000000
+k = 2, rho = 0.300000, class = 10, maximum correct number: 483.000000
+k = 2, rho = 0.500000, class = 1, maximum correct number: 522.000000
+k = 2, rho = 0.500000, class = 2, maximum correct number: 564.000000
+k = 2, rho = 0.500000, class = 3, maximum correct number: 503.000000
+k = 2, rho = 0.500000, class = 4, maximum correct number: 539.000000
+k = 2, rho = 0.500000, class = 5, maximum correct number: 445.000000
+k = 2, rho = 0.500000, class = 6, maximum correct number: 429.000000
+k = 2, rho = 0.500000, class = 7, maximum correct number: 513.000000
+k = 2, rho = 0.500000, class = 8, maximum correct number: 520.000000
+k = 2, rho = 0.500000, class = 9, maximum correct number: 482.000000
+k = 2, rho = 0.500000, class = 10, maximum correct number: 483.000000
+k = 2, rho = 0.700000, class = 1, maximum correct number: 522.000000
+k = 2, rho = 0.700000, class = 2, maximum correct number: 564.000000
+k = 2, rho = 0.700000, class = 3, maximum correct number: 503.000000
+k = 2, rho = 0.700000, class = 4, maximum correct number: 539.000000
+k = 2, rho = 0.700000, class = 5, maximum correct number: 445.000000
+k = 2, rho = 0.700000, class = 6, maximum correct number: 429.000000
+k = 2, rho = 0.700000, class = 7, maximum correct number: 513.000000
+k = 2, rho = 0.700000, class = 8, maximum correct number: 520.000000
+k = 2, rho = 0.700000, class = 9, maximum correct number: 482.000000
+k = 2, rho = 0.700000, class = 10, maximum correct number: 483.000000
+k = 2, rho = 0.900000, class = 1, maximum correct number: 522.000000
+k = 2, rho = 0.900000, class = 2, maximum correct number: 564.000000
+k = 2, rho = 0.900000, class = 3, maximum correct number: 503.000000
+k = 2, rho = 0.900000, class = 4, maximum correct number: 539.000000
+k = 2, rho = 0.900000, class = 5, maximum correct number: 445.000000
+k = 2, rho = 0.900000, class = 6, maximum correct number: 429.000000
+k = 2, rho = 0.900000, class = 7, maximum correct number: 513.000000
+k = 2, rho = 0.900000, class = 8, maximum correct number: 520.000000
+k = 2, rho = 0.900000, class = 9, maximum correct number: 482.000000
+k = 2, rho = 0.900000, class = 10, maximum correct number: 483.000000
+k = 3, rho = 0.100000, class = 1, maximum correct number: 522.000000
+k = 3, rho = 0.100000, class = 2, maximum correct number: 563.000000
+k = 3, rho = 0.100000, class = 3, maximum correct number: 503.000000
+k = 3, rho = 0.100000, class = 4, maximum correct number: 539.000000
+k = 3, rho = 0.100000, class = 5, maximum correct number: 445.000000
+k = 3, rho = 0.100000, class = 6, maximum correct number: 429.000000
+k = 3, rho = 0.100000, class = 7, maximum correct number: 513.000000
+k = 3, rho = 0.100000, class = 8, maximum correct number: 520.000000
+k = 3, rho = 0.100000, class = 9, maximum correct number: 482.000000
+k = 3, rho = 0.100000, class = 10, maximum correct number: 483.000000
+k = 3, rho = 0.300000, class = 1, maximum correct number: 522.000000
+k = 3, rho = 0.300000, class = 2, maximum correct number: 563.000000
+k = 3, rho = 0.300000, class = 3, maximum correct number: 503.000000
+k = 3, rho = 0.300000, class = 4, maximum correct number: 539.000000
+k = 3, rho = 0.300000, class = 5, maximum correct number: 445.000000
+k = 3, rho = 0.300000, class = 6, maximum correct number: 429.000000
+k = 3, rho = 0.300000, class = 7, maximum correct number: 513.000000
+k = 3, rho = 0.300000, class = 8, maximum correct number: 520.000000
+k = 3, rho = 0.300000, class = 9, maximum correct number: 482.000000
+k = 3, rho = 0.300000, class = 10, maximum correct number: 483.000000
+k = 3, rho = 0.500000, class = 1, maximum correct number: 522.000000
+k = 3, rho = 0.500000, class = 2, maximum correct number: 563.000000
+k = 3, rho = 0.500000, class = 3, maximum correct number: 503.000000
+k = 3, rho = 0.500000, class = 4, maximum correct number: 539.000000
+k = 3, rho = 0.500000, class = 5, maximum correct number: 445.000000
+k = 3, rho = 0.500000, class = 6, maximum correct number: 429.000000
+k = 3, rho = 0.500000, class = 7, maximum correct number: 513.000000
+k = 3, rho = 0.500000, class = 8, maximum correct number: 520.000000
+k = 3, rho = 0.500000, class = 9, maximum correct number: 482.000000
+k = 3, rho = 0.500000, class = 10, maximum correct number: 483.000000
+k = 3, rho = 0.700000, class = 1, maximum correct number: 522.000000
+k = 3, rho = 0.700000, class = 2, maximum correct number: 563.000000
+k = 3, rho = 0.700000, class = 3, maximum correct number: 503.000000
+k = 3, rho = 0.700000, class = 4, maximum correct number: 539.000000
+k = 3, rho = 0.700000, class = 5, maximum correct number: 445.000000
+k = 3, rho = 0.700000, class = 6, maximum correct number: 429.000000
+k = 3, rho = 0.700000, class = 7, maximum correct number: 513.000000
+k = 3, rho = 0.700000, class = 8, maximum correct number: 520.000000
+k = 3, rho = 0.700000, class = 9, maximum correct number: 482.000000
+k = 3, rho = 0.700000, class = 10, maximum correct number: 483.000000
+k = 3, rho = 0.900000, class = 1, maximum correct number: 522.000000
+k = 3, rho = 0.900000, class = 2, maximum correct number: 563.000000
+k = 3, rho = 0.900000, class = 3, maximum correct number: 503.000000
+k = 3, rho = 0.900000, class = 4, maximum correct number: 539.000000
+k = 3, rho = 0.900000, class = 5, maximum correct number: 445.000000
+k = 3, rho = 0.900000, class = 6, maximum correct number: 429.000000
+k = 3, rho = 0.900000, class = 7, maximum correct number: 513.000000
+k = 3, rho = 0.900000, class = 8, maximum correct number: 520.000000
+k = 3, rho = 0.900000, class = 9, maximum correct number: 482.000000
+k = 3, rho = 0.900000, class = 10, maximum correct number: 483.000000
+k = 4, rho = 0.100000, class = 1, maximum correct number: 522.000000
+k = 4, rho = 0.100000, class = 2, maximum correct number: 562.000000
+k = 4, rho = 0.100000, class = 3, maximum correct number: 457.000000
+k = 4, rho = 0.100000, class = 4, maximum correct number: 273.000000
+k = 4, rho = 0.100000, class = 5, maximum correct number: 445.000000
+k = 4, rho = 0.100000, class = 6, maximum correct number: 240.000000
+k = 4, rho = 0.100000, class = 7, maximum correct number: 489.000000
+k = 4, rho = 0.100000, class = 8, maximum correct number: 458.000000
+k = 4, rho = 0.100000, class = 9, maximum correct number: 442.000000
+k = 4, rho = 0.100000, class = 10, maximum correct number: 478.000000
+k = 4, rho = 0.300000, class = 1, maximum correct number: 522.000000
+k = 4, rho = 0.300000, class = 2, maximum correct number: 562.000000
+k = 4, rho = 0.300000, class = 3, maximum correct number: 457.000000
+k = 4, rho = 0.300000, class = 4, maximum correct number: 273.000000
+k = 4, rho = 0.300000, class = 5, maximum correct number: 445.000000
+k = 4, rho = 0.300000, class = 6, maximum correct number: 240.000000
+k = 4, rho = 0.300000, class = 7, maximum correct number: 489.000000
+k = 4, rho = 0.300000, class = 8, maximum correct number: 458.000000
+k = 4, rho = 0.300000, class = 9, maximum correct number: 442.000000
+k = 4, rho = 0.300000, class = 10, maximum correct number: 478.000000
+k = 4, rho = 0.500000, class = 1, maximum correct number: 522.000000
+k = 4, rho = 0.500000, class = 2, maximum correct number: 562.000000
+k = 4, rho = 0.500000, class = 3, maximum correct number: 457.000000
+k = 4, rho = 0.500000, class = 4, maximum correct number: 273.000000
+k = 4, rho = 0.500000, class = 5, maximum correct number: 445.000000
+k = 4, rho = 0.500000, class = 6, maximum correct number: 240.000000
+k = 4, rho = 0.500000, class = 7, maximum correct number: 489.000000
+k = 4, rho = 0.500000, class = 8, maximum correct number: 458.000000
+k = 4, rho = 0.500000, class = 9, maximum correct number: 442.000000
+k = 4, rho = 0.500000, class = 10, maximum correct number: 478.000000
+k = 4, rho = 0.700000, class = 1, maximum correct number: 522.000000
+k = 4, rho = 0.700000, class = 2, maximum correct number: 562.000000
+k = 4, rho = 0.700000, class = 3, maximum correct number: 457.000000
+k = 4, rho = 0.700000, class = 4, maximum correct number: 273.000000
+k = 4, rho = 0.700000, class = 5, maximum correct number: 445.000000
+k = 4, rho = 0.700000, class = 6, maximum correct number: 240.000000
+k = 4, rho = 0.700000, class = 7, maximum correct number: 489.000000
+k = 4, rho = 0.700000, class = 8, maximum correct number: 458.000000
+k = 4, rho = 0.700000, class = 9, maximum correct number: 442.000000
+k = 4, rho = 0.700000, class = 10, maximum correct number: 478.000000
+k = 4, rho = 0.900000, class = 1, maximum correct number: 522.000000
+k = 4, rho = 0.900000, class = 2, maximum correct number: 562.000000
+k = 4, rho = 0.900000, class = 3, maximum correct number: 457.000000
+k = 4, rho = 0.900000, class = 4, maximum correct number: 273.000000
+k = 4, rho = 0.900000, class = 5, maximum correct number: 445.000000
+k = 4, rho = 0.900000, class = 6, maximum correct number: 240.000000
+k = 4, rho = 0.900000, class = 7, maximum correct number: 489.000000
+k = 4, rho = 0.900000, class = 8, maximum correct number: 458.000000
+k = 4, rho = 0.900000, class = 9, maximum correct number: 442.000000
+k = 4, rho = 0.900000, class = 10, maximum correct number: 478.000000

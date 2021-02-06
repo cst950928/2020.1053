@@ -1,0 +1,225 @@
+iteration = 1, testing time when k = 2, rho = 0.100000: 4.578931
+iteration = 1, testing time when k = 2, rho = 0.300000: 4.795164
+iteration = 1, testing time when k = 2, rho = 0.500000: 5.064572
+iteration = 1, testing time when k = 2, rho = 0.700000: 5.447460
+iteration = 1, testing time when k = 2, rho = 0.900000: 6.239454
+iteration = 1, testing time when k = 3, rho = 0.100000: 8.329834
+iteration = 1, testing time when k = 3, rho = 0.300000: 9.214478
+iteration = 1, testing time when k = 3, rho = 0.500000: 10.087282
+iteration = 1, testing time when k = 3, rho = 0.700000: 11.514763
+iteration = 1, testing time when k = 3, rho = 0.900000: 11.829555
+iteration = 1, testing time when k = 4, rho = 0.100000: 16.157542
+iteration = 1, testing time when k = 4, rho = 0.300000: 18.080565
+iteration = 1, testing time when k = 4, rho = 0.500000: 19.685443
+iteration = 1, testing time when k = 4, rho = 0.700000: 21.499516
+iteration = 1, testing time when k = 4, rho = 0.900000: 27.345063
+k = 2, rho = 0.100000, avg_testing_time : 6.239454 
+k = 2, rho = 0.300000, avg_testing_time : 6.239454 
+k = 2, rho = 0.500000, avg_testing_time : 6.239454 
+k = 2, rho = 0.700000, avg_testing_time : 6.239454 
+k = 2, rho = 0.900000, avg_testing_time : 6.239454 
+k = 3, rho = 0.100000, avg_testing_time : 11.829555 
+k = 3, rho = 0.300000, avg_testing_time : 11.829555 
+k = 3, rho = 0.500000, avg_testing_time : 11.829555 
+k = 3, rho = 0.700000, avg_testing_time : 11.829555 
+k = 3, rho = 0.900000, avg_testing_time : 11.829555 
+k = 4, rho = 0.100000, avg_testing_time : 27.345063 
+k = 4, rho = 0.300000, avg_testing_time : 27.345063 
+k = 4, rho = 0.500000, avg_testing_time : 27.345063 
+k = 4, rho = 0.700000, avg_testing_time : 27.345063 
+k = 4, rho = 0.900000, avg_testing_time : 27.345063 
+k = 2, rho = 0.100000, testing_time(maxacc): 6.239454 
+k = 2, rho = 0.300000, testing_time(maxacc): 6.239454 
+k = 2, rho = 0.500000, testing_time(maxacc): 6.239454 
+k = 2, rho = 0.700000, testing_time(maxacc): 6.239454 
+k = 2, rho = 0.900000, testing_time(maxacc): 6.239454 
+k = 3, rho = 0.100000, testing_time(maxacc): 11.829555 
+k = 3, rho = 0.300000, testing_time(maxacc): 11.829555 
+k = 3, rho = 0.500000, testing_time(maxacc): 11.829555 
+k = 3, rho = 0.700000, testing_time(maxacc): 11.829555 
+k = 3, rho = 0.900000, testing_time(maxacc): 11.829555 
+k = 4, rho = 0.100000, testing_time(maxacc): 27.345063 
+k = 4, rho = 0.300000, testing_time(maxacc): 27.345063 
+k = 4, rho = 0.500000, testing_time(maxacc): 27.345063 
+k = 4, rho = 0.700000, testing_time(maxacc): 27.345063 
+k = 4, rho = 0.900000, testing_time(maxacc): 27.345063 
+iteration = 1, testing time when k = 2, rho = 0.100000: 4.516973
+iteration = 1, testing time when k = 2, rho = 0.300000: 4.823130
+iteration = 1, testing time when k = 2, rho = 0.500000: 5.031095
+iteration = 1, testing time when k = 2, rho = 0.700000: 5.330559
+iteration = 1, testing time when k = 2, rho = 0.900000: 5.786273
+iteration = 1, testing time when k = 3, rho = 0.100000: 8.494080
+iteration = 1, testing time when k = 3, rho = 0.300000: 8.835297
+iteration = 1, testing time when k = 3, rho = 0.500000: 10.016234
+iteration = 1, testing time when k = 3, rho = 0.700000: 11.404240
+iteration = 1, testing time when k = 3, rho = 0.900000: 11.888756
+iteration = 1, testing time when k = 4, rho = 0.100000: 16.234259
+iteration = 1, testing time when k = 4, rho = 0.300000: 18.315276
+iteration = 1, testing time when k = 4, rho = 0.500000: 19.865616
+iteration = 1, testing time when k = 4, rho = 0.700000: 21.377541
+iteration = 1, testing time when k = 4, rho = 0.900000: 23.032213
+k = 2, rho = 0.100000, avg_testing_time : 5.786273 
+k = 2, rho = 0.300000, avg_testing_time : 5.786273 
+k = 2, rho = 0.500000, avg_testing_time : 5.786273 
+k = 2, rho = 0.700000, avg_testing_time : 5.786273 
+k = 2, rho = 0.900000, avg_testing_time : 5.786273 
+k = 3, rho = 0.100000, avg_testing_time : 11.888756 
+k = 3, rho = 0.300000, avg_testing_time : 11.888756 
+k = 3, rho = 0.500000, avg_testing_time : 11.888756 
+k = 3, rho = 0.700000, avg_testing_time : 11.888756 
+k = 3, rho = 0.900000, avg_testing_time : 11.888756 
+k = 4, rho = 0.100000, avg_testing_time : 23.032213 
+k = 4, rho = 0.300000, avg_testing_time : 23.032213 
+k = 4, rho = 0.500000, avg_testing_time : 23.032213 
+k = 4, rho = 0.700000, avg_testing_time : 23.032213 
+k = 4, rho = 0.900000, avg_testing_time : 23.032213 
+k = 2, rho = 0.100000, testing_time(maxacc): 5.786273 
+k = 2, rho = 0.300000, testing_time(maxacc): 5.786273 
+k = 2, rho = 0.500000, testing_time(maxacc): 5.786273 
+k = 2, rho = 0.700000, testing_time(maxacc): 5.786273 
+k = 2, rho = 0.900000, testing_time(maxacc): 5.786273 
+k = 3, rho = 0.100000, testing_time(maxacc): 11.888756 
+k = 3, rho = 0.300000, testing_time(maxacc): 11.888756 
+k = 3, rho = 0.500000, testing_time(maxacc): 11.888756 
+k = 3, rho = 0.700000, testing_time(maxacc): 11.888756 
+k = 3, rho = 0.900000, testing_time(maxacc): 11.888756 
+k = 4, rho = 0.100000, testing_time(maxacc): 23.032213 
+k = 4, rho = 0.300000, testing_time(maxacc): 23.032213 
+k = 4, rho = 0.500000, testing_time(maxacc): 23.032213 
+k = 4, rho = 0.700000, testing_time(maxacc): 23.032213 
+k = 4, rho = 0.900000, testing_time(maxacc): 23.032213 
+iteration = 1, testing time when k = 2, rho = 0.100000: 4.384630
+iteration = 1, testing time when k = 2, rho = 0.300000: 4.632450
+iteration = 1, testing time when k = 2, rho = 0.500000: 4.936522
+iteration = 1, testing time when k = 2, rho = 0.700000: 5.397426
+iteration = 1, testing time when k = 2, rho = 0.900000: 5.925382
+iteration = 1, testing time when k = 3, rho = 0.100000: 8.233840
+iteration = 1, testing time when k = 3, rho = 0.300000: 9.108835
+iteration = 1, testing time when k = 3, rho = 0.500000: 9.993911
+iteration = 1, testing time when k = 3, rho = 0.700000: 11.416860
+iteration = 1, testing time when k = 3, rho = 0.900000: 11.801183
+iteration = 1, testing time when k = 4, rho = 0.100000: 16.539890
+iteration = 1, testing time when k = 4, rho = 0.300000: 17.967238
+iteration = 1, testing time when k = 4, rho = 0.500000: 20.483774
+iteration = 1, testing time when k = 4, rho = 0.700000: 22.334514
+iteration = 1, testing time when k = 4, rho = 0.900000: 25.553542
+k = 2, rho = 0.100000, avg_testing_time : 5.925382 
+k = 2, rho = 0.300000, avg_testing_time : 5.925382 
+k = 2, rho = 0.500000, avg_testing_time : 5.925382 
+k = 2, rho = 0.700000, avg_testing_time : 5.925382 
+k = 2, rho = 0.900000, avg_testing_time : 5.925382 
+k = 3, rho = 0.100000, avg_testing_time : 11.801183 
+k = 3, rho = 0.300000, avg_testing_time : 11.801183 
+k = 3, rho = 0.500000, avg_testing_time : 11.801183 
+k = 3, rho = 0.700000, avg_testing_time : 11.801183 
+k = 3, rho = 0.900000, avg_testing_time : 11.801183 
+k = 4, rho = 0.100000, avg_testing_time : 25.553542 
+k = 4, rho = 0.300000, avg_testing_time : 25.553542 
+k = 4, rho = 0.500000, avg_testing_time : 25.553542 
+k = 4, rho = 0.700000, avg_testing_time : 25.553542 
+k = 4, rho = 0.900000, avg_testing_time : 25.553542 
+k = 2, rho = 0.100000, testing_time(maxacc): 5.925382 
+k = 2, rho = 0.300000, testing_time(maxacc): 5.925382 
+k = 2, rho = 0.500000, testing_time(maxacc): 5.925382 
+k = 2, rho = 0.700000, testing_time(maxacc): 5.925382 
+k = 2, rho = 0.900000, testing_time(maxacc): 5.925382 
+k = 3, rho = 0.100000, testing_time(maxacc): 11.801183 
+k = 3, rho = 0.300000, testing_time(maxacc): 11.801183 
+k = 3, rho = 0.500000, testing_time(maxacc): 11.801183 
+k = 3, rho = 0.700000, testing_time(maxacc): 11.801183 
+k = 3, rho = 0.900000, testing_time(maxacc): 11.801183 
+k = 4, rho = 0.100000, testing_time(maxacc): 25.553542 
+k = 4, rho = 0.300000, testing_time(maxacc): 25.553542 
+k = 4, rho = 0.500000, testing_time(maxacc): 25.553542 
+k = 4, rho = 0.700000, testing_time(maxacc): 25.553542 
+k = 4, rho = 0.900000, testing_time(maxacc): 25.553542 
+iteration = 1, testing time when k = 2, rho = 0.100000: 4.469851
+iteration = 1, testing time when k = 2, rho = 0.300000: 4.764654
+iteration = 1, testing time when k = 2, rho = 0.500000: 5.051768
+iteration = 1, testing time when k = 2, rho = 0.700000: 5.523724
+iteration = 1, testing time when k = 2, rho = 0.900000: 6.229852
+iteration = 1, testing time when k = 3, rho = 0.100000: 8.507599
+iteration = 1, testing time when k = 3, rho = 0.300000: 9.391038
+iteration = 1, testing time when k = 3, rho = 0.500000: 10.292401
+iteration = 1, testing time when k = 3, rho = 0.700000: 11.743910
+iteration = 1, testing time when k = 3, rho = 0.900000: 12.252323
+iteration = 1, testing time when k = 4, rho = 0.100000: 16.798539
+iteration = 1, testing time when k = 4, rho = 0.300000: 18.689124
+iteration = 1, testing time when k = 4, rho = 0.500000: 20.554716
+iteration = 1, testing time when k = 4, rho = 0.700000: 22.540011
+iteration = 1, testing time when k = 4, rho = 0.900000: 25.206836
+k = 2, rho = 0.100000, avg_testing_time : 6.229852 
+k = 2, rho = 0.300000, avg_testing_time : 6.229852 
+k = 2, rho = 0.500000, avg_testing_time : 6.229852 
+k = 2, rho = 0.700000, avg_testing_time : 6.229852 
+k = 2, rho = 0.900000, avg_testing_time : 6.229852 
+k = 3, rho = 0.100000, avg_testing_time : 12.252323 
+k = 3, rho = 0.300000, avg_testing_time : 12.252323 
+k = 3, rho = 0.500000, avg_testing_time : 12.252323 
+k = 3, rho = 0.700000, avg_testing_time : 12.252323 
+k = 3, rho = 0.900000, avg_testing_time : 12.252323 
+k = 4, rho = 0.100000, avg_testing_time : 25.206836 
+k = 4, rho = 0.300000, avg_testing_time : 25.206836 
+k = 4, rho = 0.500000, avg_testing_time : 25.206836 
+k = 4, rho = 0.700000, avg_testing_time : 25.206836 
+k = 4, rho = 0.900000, avg_testing_time : 25.206836 
+k = 2, rho = 0.100000, testing_time(maxacc): 6.229852 
+k = 2, rho = 0.300000, testing_time(maxacc): 6.229852 
+k = 2, rho = 0.500000, testing_time(maxacc): 6.229852 
+k = 2, rho = 0.700000, testing_time(maxacc): 6.229852 
+k = 2, rho = 0.900000, testing_time(maxacc): 6.229852 
+k = 3, rho = 0.100000, testing_time(maxacc): 12.252323 
+k = 3, rho = 0.300000, testing_time(maxacc): 12.252323 
+k = 3, rho = 0.500000, testing_time(maxacc): 12.252323 
+k = 3, rho = 0.700000, testing_time(maxacc): 12.252323 
+k = 3, rho = 0.900000, testing_time(maxacc): 12.252323 
+k = 4, rho = 0.100000, testing_time(maxacc): 25.206836 
+k = 4, rho = 0.300000, testing_time(maxacc): 25.206836 
+k = 4, rho = 0.500000, testing_time(maxacc): 25.206836 
+k = 4, rho = 0.700000, testing_time(maxacc): 25.206836 
+k = 4, rho = 0.900000, testing_time(maxacc): 25.206836 
+iteration = 1, testing time when k = 2, rho = 0.100000: 4.372636
+iteration = 1, testing time when k = 2, rho = 0.300000: 4.692905
+iteration = 1, testing time when k = 2, rho = 0.500000: 5.186587
+iteration = 1, testing time when k = 2, rho = 0.700000: 5.641844
+iteration = 1, testing time when k = 2, rho = 0.900000: 6.340181
+iteration = 1, testing time when k = 3, rho = 0.100000: 8.519755
+iteration = 1, testing time when k = 3, rho = 0.300000: 9.334426
+iteration = 1, testing time when k = 3, rho = 0.500000: 10.340064
+iteration = 1, testing time when k = 3, rho = 0.700000: 11.769369
+iteration = 1, testing time when k = 3, rho = 0.900000: 12.264360
+iteration = 1, testing time when k = 4, rho = 0.100000: 16.791072
+iteration = 1, testing time when k = 4, rho = 0.300000: 18.502430
+iteration = 1, testing time when k = 4, rho = 0.500000: 20.215123
+iteration = 1, testing time when k = 4, rho = 0.700000: 22.139095
+iteration = 1, testing time when k = 4, rho = 0.900000: 25.441322
+k = 2, rho = 0.100000, avg_testing_time : 6.340181 
+k = 2, rho = 0.300000, avg_testing_time : 6.340181 
+k = 2, rho = 0.500000, avg_testing_time : 6.340181 
+k = 2, rho = 0.700000, avg_testing_time : 6.340181 
+k = 2, rho = 0.900000, avg_testing_time : 6.340181 
+k = 3, rho = 0.100000, avg_testing_time : 12.264360 
+k = 3, rho = 0.300000, avg_testing_time : 12.264360 
+k = 3, rho = 0.500000, avg_testing_time : 12.264360 
+k = 3, rho = 0.700000, avg_testing_time : 12.264360 
+k = 3, rho = 0.900000, avg_testing_time : 12.264360 
+k = 4, rho = 0.100000, avg_testing_time : 25.441322 
+k = 4, rho = 0.300000, avg_testing_time : 25.441322 
+k = 4, rho = 0.500000, avg_testing_time : 25.441322 
+k = 4, rho = 0.700000, avg_testing_time : 25.441322 
+k = 4, rho = 0.900000, avg_testing_time : 25.441322 
+k = 2, rho = 0.100000, testing_time(maxacc): 6.340181 
+k = 2, rho = 0.300000, testing_time(maxacc): 6.340181 
+k = 2, rho = 0.500000, testing_time(maxacc): 6.340181 
+k = 2, rho = 0.700000, testing_time(maxacc): 6.340181 
+k = 2, rho = 0.900000, testing_time(maxacc): 6.340181 
+k = 3, rho = 0.100000, testing_time(maxacc): 12.264360 
+k = 3, rho = 0.300000, testing_time(maxacc): 12.264360 
+k = 3, rho = 0.500000, testing_time(maxacc): 12.264360 
+k = 3, rho = 0.700000, testing_time(maxacc): 12.264360 
+k = 3, rho = 0.900000, testing_time(maxacc): 12.264360 
+k = 4, rho = 0.100000, testing_time(maxacc): 25.441322 
+k = 4, rho = 0.300000, testing_time(maxacc): 25.441322 
+k = 4, rho = 0.500000, testing_time(maxacc): 25.441322 
+k = 4, rho = 0.700000, testing_time(maxacc): 25.441322 
+k = 4, rho = 0.900000, testing_time(maxacc): 25.441322 

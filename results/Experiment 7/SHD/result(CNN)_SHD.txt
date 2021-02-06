@@ -1,0 +1,120 @@
+*****optimizer=rmsprop,kernel size:3,epoch:1,iteration:1 = 0.093274*****
+*****optimizer=rmsprop,kernel size:3,epoch:1,iteration:2 = 0.109417*****
+*****optimizer=rmsprop,kernel size:3,epoch:1,iteration:3 = 0.076233*****
+*****optimizer=rmsprop,kernel size:3,epoch:1,iteration:4 = 0.168610*****
+*****optimizer=rmsprop,kernel size:3,epoch:1,iteration:5 = 0.128251*****
+*****optimizer=rmsprop,kernel size:3,epoch:3,iteration:1 = 0.223318*****
+*****optimizer=rmsprop,kernel size:3,epoch:3,iteration:2 = 0.125561*****
+*****optimizer=rmsprop,kernel size:3,epoch:3,iteration:3 = 0.206278*****
+*****optimizer=rmsprop,kernel size:3,epoch:3,iteration:4 = 0.239462*****
+*****optimizer=rmsprop,kernel size:3,epoch:3,iteration:5 = 0.194619*****
+*****optimizer=rmsprop,kernel size:3,epoch:5,iteration:1 = 0.243049*****
+*****optimizer=rmsprop,kernel size:3,epoch:5,iteration:2 = 0.282511*****
+*****optimizer=rmsprop,kernel size:3,epoch:5,iteration:3 = 0.340807*****
+*****optimizer=rmsprop,kernel size:3,epoch:5,iteration:4 = 0.330942*****
+*****optimizer=rmsprop,kernel size:3,epoch:5,iteration:5 = 0.218834*****
+*****optimizer=rmsprop,kernel size:3,epoch:7,iteration:1 = 0.308520*****
+*****optimizer=rmsprop,kernel size:3,epoch:7,iteration:2 = 0.316592*****
+*****optimizer=rmsprop,kernel size:3,epoch:7,iteration:3 = 0.347982*****
+*****optimizer=rmsprop,kernel size:3,epoch:7,iteration:4 = 0.343498*****
+*****optimizer=rmsprop,kernel size:3,epoch:7,iteration:5 = 0.329148*****
+*****optimizer=rmsprop,kernel size:3,epoch:9,iteration:1 = 0.355157*****
+*****optimizer=rmsprop,kernel size:3,epoch:9,iteration:2 = 0.278027*****
+*****optimizer=rmsprop,kernel size:3,epoch:9,iteration:3 = 0.502242*****
+*****optimizer=rmsprop,kernel size:3,epoch:9,iteration:4 = 0.395516*****
+*****optimizer=rmsprop,kernel size:3,epoch:9,iteration:5 = 0.321076*****
+*****optimizer=rmsprop,kernel size:5,epoch:1,iteration:1 = 0.113901*****
+*****optimizer=rmsprop,kernel size:5,epoch:1,iteration:2 = 0.177578*****
+*****optimizer=rmsprop,kernel size:5,epoch:1,iteration:3 = 0.173991*****
+*****optimizer=rmsprop,kernel size:5,epoch:1,iteration:4 = 0.128251*****
+*****optimizer=rmsprop,kernel size:5,epoch:1,iteration:5 = 0.125561*****
+*****optimizer=rmsprop,kernel size:5,epoch:3,iteration:1 = 0.332735*****
+*****optimizer=rmsprop,kernel size:5,epoch:3,iteration:2 = 0.257399*****
+*****optimizer=rmsprop,kernel size:5,epoch:3,iteration:3 = 0.290583*****
+*****optimizer=rmsprop,kernel size:5,epoch:3,iteration:4 = 0.218834*****
+*****optimizer=rmsprop,kernel size:5,epoch:3,iteration:5 = 0.217040*****
+*****optimizer=rmsprop,kernel size:5,epoch:5,iteration:1 = 0.304933*****
+*****optimizer=rmsprop,kernel size:5,epoch:5,iteration:2 = 0.243946*****
+*****optimizer=rmsprop,kernel size:5,epoch:5,iteration:3 = 0.300448*****
+*****optimizer=rmsprop,kernel size:5,epoch:5,iteration:4 = 0.259193*****
+*****optimizer=rmsprop,kernel size:5,epoch:5,iteration:5 = 0.361435*****
+*****optimizer=rmsprop,kernel size:5,epoch:7,iteration:1 = 0.416144*****
+*****optimizer=rmsprop,kernel size:5,epoch:7,iteration:2 = 0.282511*****
+*****optimizer=rmsprop,kernel size:5,epoch:7,iteration:3 = 0.389238*****
+*****optimizer=rmsprop,kernel size:5,epoch:7,iteration:4 = 0.303139*****
+*****optimizer=rmsprop,kernel size:5,epoch:7,iteration:5 = 0.495067*****
+*****optimizer=rmsprop,kernel size:5,epoch:9,iteration:1 = 0.398206*****
+*****optimizer=rmsprop,kernel size:5,epoch:9,iteration:2 = 0.464574*****
+*****optimizer=rmsprop,kernel size:5,epoch:9,iteration:3 = 0.364126*****
+*****optimizer=rmsprop,kernel size:5,epoch:9,iteration:4 = 0.458296*****
+*****optimizer=rmsprop,kernel size:5,epoch:9,iteration:5 = 0.407175*****
+*****optimizer=rmsprop,kernel size:3,epoch:1,acc_train_avg= 0.115157, acc_train_max= 0.168610*****
+*****optimizer=rmsprop,kernel size:3,epoch:3,acc_train_avg= 0.197848, acc_train_max= 0.239462*****
+*****optimizer=rmsprop,kernel size:3,epoch:5,acc_train_avg= 0.283229, acc_train_max= 0.340807*****
+*****optimizer=rmsprop,kernel size:3,epoch:7,acc_train_avg= 0.329148, acc_train_max= 0.347982*****
+*****optimizer=rmsprop,kernel size:3,epoch:9,acc_train_avg= 0.370404, acc_train_max= 0.502242*****
+*****optimizer=rmsprop,kernel size:5,epoch:1,acc_train_avg= 0.143857, acc_train_max= 0.177578*****
+*****optimizer=rmsprop,kernel size:5,epoch:3,acc_train_avg= 0.263318, acc_train_max= 0.332735*****
+*****optimizer=rmsprop,kernel size:5,epoch:5,acc_train_avg= 0.293991, acc_train_max= 0.361435*****
+*****optimizer=rmsprop,kernel size:5,epoch:7,acc_train_avg= 0.377220, acc_train_max= 0.495067*****
+*****optimizer=rmsprop,kernel size:5,epoch:9,acc_train_avg= 0.418475, acc_train_max= 0.464574*****
+*****optimizer=adagrad,kernel size:1,epoch:1,iteration:1 = 0.130045*****
+*****optimizer=adagrad,kernel size:1,epoch:1,iteration:2 = 0.123767*****
+*****optimizer=adagrad,kernel size:1,epoch:1,iteration:3 = 0.127354*****
+*****optimizer=adagrad,kernel size:1,epoch:1,iteration:4 = 0.114798*****
+*****optimizer=adagrad,kernel size:1,epoch:1,iteration:5 = 0.159641*****
+*****optimizer=adagrad,kernel size:1,epoch:3,iteration:1 = 0.362332*****
+*****optimizer=adagrad,kernel size:1,epoch:3,iteration:2 = 0.274439*****
+*****optimizer=adagrad,kernel size:1,epoch:3,iteration:3 = 0.276233*****
+*****optimizer=adagrad,kernel size:1,epoch:3,iteration:4 = 0.360538*****
+*****optimizer=adagrad,kernel size:1,epoch:3,iteration:5 = 0.304036*****
+*****optimizer=adagrad,kernel size:1,epoch:5,iteration:1 = 0.478027*****
+*****optimizer=adagrad,kernel size:1,epoch:5,iteration:2 = 0.518386*****
+*****optimizer=adagrad,kernel size:1,epoch:5,iteration:3 = 0.441256*****
+*****optimizer=adagrad,kernel size:1,epoch:5,iteration:4 = 0.441256*****
+*****optimizer=adagrad,kernel size:1,epoch:5,iteration:5 = 0.415247*****
+*****optimizer=adagrad,kernel size:1,epoch:7,iteration:1 = 0.627803*****
+*****optimizer=adagrad,kernel size:1,epoch:7,iteration:2 = 0.616143*****
+*****optimizer=adagrad,kernel size:1,epoch:7,iteration:3 = 0.473543*****
+*****optimizer=adagrad,kernel size:1,epoch:7,iteration:4 = 0.663677*****
+*****optimizer=adagrad,kernel size:1,epoch:7,iteration:5 = 0.593722*****
+*****optimizer=adagrad,kernel size:1,epoch:9,iteration:1 = 0.618834*****
+*****optimizer=adagrad,kernel size:1,epoch:9,iteration:2 = 0.672646*****
+*****optimizer=adagrad,kernel size:1,epoch:9,iteration:3 = 0.701345*****
+*****optimizer=adagrad,kernel size:1,epoch:9,iteration:4 = 0.705830*****
+*****optimizer=adagrad,kernel size:1,epoch:9,iteration:5 = 0.659193*****
+*****optimizer=adagrad,kernel size:3,epoch:1,iteration:1 = 0.167713*****
+*****optimizer=adagrad,kernel size:3,epoch:1,iteration:2 = 0.132735*****
+*****optimizer=adagrad,kernel size:3,epoch:1,iteration:3 = 0.143498*****
+*****optimizer=adagrad,kernel size:3,epoch:1,iteration:4 = 0.151570*****
+*****optimizer=adagrad,kernel size:3,epoch:1,iteration:5 = 0.126457*****
+*****optimizer=adagrad,kernel size:3,epoch:3,iteration:1 = 0.381166*****
+*****optimizer=adagrad,kernel size:3,epoch:3,iteration:2 = 0.386547*****
+*****optimizer=adagrad,kernel size:3,epoch:3,iteration:3 = 0.370404*****
+*****optimizer=adagrad,kernel size:3,epoch:3,iteration:4 = 0.339910*****
+*****optimizer=adagrad,kernel size:3,epoch:3,iteration:5 = 0.438565*****
+*****optimizer=adagrad,kernel size:3,epoch:5,iteration:1 = 0.513004*****
+*****optimizer=adagrad,kernel size:3,epoch:5,iteration:2 = 0.557848*****
+*****optimizer=adagrad,kernel size:3,epoch:5,iteration:3 = 0.434978*****
+*****optimizer=adagrad,kernel size:3,epoch:5,iteration:4 = 0.478027*****
+*****optimizer=adagrad,kernel size:3,epoch:5,iteration:5 = 0.436771*****
+*****optimizer=adagrad,kernel size:3,epoch:7,iteration:1 = 0.637668*****
+*****optimizer=adagrad,kernel size:3,epoch:7,iteration:2 = 0.579372*****
+*****optimizer=adagrad,kernel size:3,epoch:7,iteration:3 = 0.549776*****
+*****optimizer=adagrad,kernel size:3,epoch:7,iteration:4 = 0.633184*****
+*****optimizer=adagrad,kernel size:3,epoch:7,iteration:5 = 0.643946*****
+*****optimizer=adagrad,kernel size:3,epoch:9,iteration:1 = 0.682511*****
+*****optimizer=adagrad,kernel size:3,epoch:9,iteration:2 = 0.731839*****
+*****optimizer=adagrad,kernel size:3,epoch:9,iteration:3 = 0.614350*****
+*****optimizer=adagrad,kernel size:3,epoch:9,iteration:4 = 0.741704*****
+*****optimizer=adagrad,kernel size:3,epoch:9,iteration:5 = 0.714798*****
+*****optimizer=adagrad,kernel size:1,epoch:1,acc_train_avg= 0.131121, acc_train_max= 0.159641*****
+*****optimizer=adagrad,kernel size:1,epoch:3,acc_train_avg= 0.315516, acc_train_max= 0.362332*****
+*****optimizer=adagrad,kernel size:1,epoch:5,acc_train_avg= 0.458834, acc_train_max= 0.518386*****
+*****optimizer=adagrad,kernel size:1,epoch:7,acc_train_avg= 0.594978, acc_train_max= 0.663677*****
+*****optimizer=adagrad,kernel size:1,epoch:9,acc_train_avg= 0.671570, acc_train_max= 0.705830*****
+*****optimizer=adagrad,kernel size:3,epoch:1,acc_train_avg= 0.144395, acc_train_max= 0.167713*****
+*****optimizer=adagrad,kernel size:3,epoch:3,acc_train_avg= 0.383318, acc_train_max= 0.438565*****
+*****optimizer=adagrad,kernel size:3,epoch:5,acc_train_avg= 0.484126, acc_train_max= 0.557848*****
+*****optimizer=adagrad,kernel size:3,epoch:7,acc_train_avg= 0.608789, acc_train_max= 0.643946*****
+*****optimizer=adagrad,kernel size:3,epoch:9,acc_train_avg= 0.697040, acc_train_max= 0.741704*****

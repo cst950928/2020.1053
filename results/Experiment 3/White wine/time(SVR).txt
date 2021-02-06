@@ -1,0 +1,94 @@
+*****iteration:1*****
+*****kernal=linear,tolerance:0.100000,penalty=1*****
+time=0.122698
+prediction time: 0.009953
+*****kernal=linear,tolerance:0.100000,penalty=10*****
+time=0.936521
+prediction time: 0.009973
+*****kernal=linear,tolerance:0.100000,penalty=20*****
+time=1.167876
+prediction time: 0.010945
+*****kernal=linear,tolerance:0.100000,penalty=30*****
+time=1.757300
+prediction time: 0.010967
+*****kernal=linear,tolerance:0.100000,penalty=40*****
+time=2.212112
+prediction time: 0.009978
+*****kernal=linear,tolerance:0.001000,penalty=1*****
+time=0.136385
+prediction time: 0.009974
+*****kernal=linear,tolerance:0.001000,penalty=10*****
+time=0.853717
+prediction time: 0.010967
+*****kernal=linear,tolerance:0.001000,penalty=20*****
+time=1.694470
+prediction time: 0.010968
+*****kernal=linear,tolerance:0.001000,penalty=30*****
+time=1.933829
+prediction time: 0.010971
+*****kernal=linear,tolerance:0.001000,penalty=40*****
+time=2.686817
+prediction time: 0.009973
+*****kernal=linear,tolerance:0.000010,penalty=1*****
+time=0.178506
+prediction time: 0.009999
+*****kernal=linear,tolerance:0.000010,penalty=10*****
+time=1.462086
+prediction time: 0.009969
+*****kernal=linear,tolerance:0.000010,penalty=20*****
+time=2.405593
+prediction time: 0.010947
+*****kernal=linear,tolerance:0.000010,penalty=30*****
+time=3.025909
+prediction time: 0.010971
+*****kernal=linear,tolerance:0.000010,penalty=40*****
+time=4.251633
+prediction time: 0.010967
+totaltime when kernal=linear in iteration 1 is 25.043737
+*****iteration:1*****
+*****kernal=poly,tolerance:0.100000,penalty=1*****
+time=0.117643
+prediction time: 0.017955
+*****kernal=poly,tolerance:0.100000,penalty=10*****
+time=0.394969
+prediction time: 0.011940
+*****kernal=poly,tolerance:0.100000,penalty=20*****
+time=0.593440
+prediction time: 0.012964
+*****kernal=poly,tolerance:0.100000,penalty=30*****
+time=0.860696
+prediction time: 0.011969
+*****kernal=poly,tolerance:0.100000,penalty=40*****
+time=1.440151
+prediction time: 0.013961
+*****kernal=poly,tolerance:0.001000,penalty=1*****
+time=0.094745
+prediction time: 0.018950
+*****kernal=poly,tolerance:0.001000,penalty=10*****
+time=0.770911
+prediction time: 0.015967
+*****kernal=poly,tolerance:0.001000,penalty=20*****
+time=1.483032
+prediction time: 0.013962
+*****kernal=poly,tolerance:0.001000,penalty=30*****
+time=2.837414
+prediction time: 0.021940
+*****kernal=poly,tolerance:0.001000,penalty=40*****
+time=4.671539
+prediction time: 0.013913
+*****kernal=poly,tolerance:0.000010,penalty=1*****
+time=0.248334
+prediction time: 0.043949
+*****kernal=poly,tolerance:0.000010,penalty=10*****
+time=1.378245
+prediction time: 0.011992
+*****kernal=poly,tolerance:0.000010,penalty=20*****
+time=2.977014
+prediction time: 0.012969
+*****kernal=poly,tolerance:0.000010,penalty=30*****
+time=6.493660
+prediction time: 0.011941
+*****kernal=poly,tolerance:0.000010,penalty=40*****
+time=8.882279
+prediction time: 0.012970
+totaltime when kernal=poly in iteration 1 is 33.530320

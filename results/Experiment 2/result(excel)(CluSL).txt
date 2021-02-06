@@ -1,0 +1,52 @@
+iteration:1
+AP2: K=4,weight=0.000000,total error=16.439926211757964
+AP2: K=4,weight=0.000000,regression error=16.439926211757964
+iteration:2
+AP2: K=4,weight=0.000000,total error=13.848733104387515
+AP2: K=4,weight=0.000000,regression error=13.848733104387513
+iteration:3
+AP2: K=4,weight=0.000000,total error=14.077926854725515
+AP2: K=4,weight=0.000000,regression error=14.077926854725513
+iteration:4
+AP2: K=4,weight=0.000000,total error=14.439926211757964
+AP2: K=4,weight=0.000000,regression error=14.439926211757964
+iteration:5
+AP2: K=4,weight=0.000000,total error=13.959926211757964
+AP2: K=4,weight=0.000000,regression error=13.959926211757964
+K=4,weight=0.000000,minimum error=13.848733104387515
+K=4,weight=0.000000,minimum regression error=0.027697466208775025
+iteration:1
+AP2: K=4,weight=0.0500000,total error=625.226420899597
+AP2: K=4,weight=0.500000,regression error=34.38012686745031
+iteration:2
+AP2: K=4,weight=0.0500000,total error=490.26713381951754
+AP2: K=4,weight=0.0500000,regression error=18.31540027436245
+iteration:3
+AP2: K=4,weight=0.0500000,total error=490.2671338195176
+AP2: K=4,weight=0.0500000,regression error=18.31540027436245
+iteration:4
+AP2: K=4,weight=0.0500000,total error=490.2671338195176
+AP2: K=4,weight=0.0500000,regression error=18.31540027436245
+iteration:5
+AP2: K=4,weight=0.0500000,total error=800.2485760879608
+AP2: K=4,weight=0.0500000,regression error=69.54549846370116
+K=4,weight=0.0500000,minimum error=490.26713381951754
+K=4,weight=0.0500000,minimum regression error=0.0366308005487249
+iteration:1
+AP2: K=4,weight=0.100000,total error=472.95500015551755
+AP2: K=4,weight=0.100000,regression error=18.31540027436245
+iteration:2
+AP2: K=4,weight=0.100000,total error=486.6140335852754
+AP2: K=4,weight=0.100000,regression error=19.640351718138454
+iteration:3
+AP2: K=4,weight=0.100000,total error=472.95500015551755
+AP2: K=4,weight=0.100000,regression error=18.31540027436245
+iteration:4
+AP2: K=4,weight=0.100000,total error=532.6892895408661
+AP2: K=4,weight=0.100000,regression error=29.66467192981806
+iteration:5
+AP2: K=4,weight=0.100000,total error=472.95500015551755
+AP2: K=4,weight=0.100000,regression error=18.31540027436245
+K=4,weight=0.100000,minimum error=472.95500015551755
+K=4,weight=0.100000,minimum regression error=0.0360308005487249
+

@@ -1,0 +1,60 @@
+*****squared_hinge: tolerance:0.100000, penalty=1*****
+squared_hinge: tolerance:0.100000, penalty=1, train_accuracy = 0.972143
+*****squared_hinge: tolerance:0.100000, penalty=10*****
+squared_hinge: tolerance:0.100000, penalty=10, train_accuracy = 0.974286
+*****squared_hinge: tolerance:0.100000, penalty=20*****
+squared_hinge: tolerance:0.100000, penalty=20, train_accuracy = 0.973571
+*****squared_hinge: tolerance:0.100000, penalty=30*****
+squared_hinge: tolerance:0.100000, penalty=30, train_accuracy = 0.975714
+*****squared_hinge: tolerance:0.100000, penalty=40*****
+squared_hinge: tolerance:0.100000, penalty=40, train_accuracy = 0.977143
+*****squared_hinge: tolerance:0.001000, penalty=1*****
+squared_hinge: tolerance:0.001000, penalty=1, train_accuracy = 0.972143
+*****squared_hinge: tolerance:0.001000, penalty=10*****
+squared_hinge: tolerance:0.001000, penalty=10, train_accuracy = 0.974286
+*****squared_hinge: tolerance:0.001000, penalty=20*****
+squared_hinge: tolerance:0.001000, penalty=20, train_accuracy = 0.975714
+*****squared_hinge: tolerance:0.001000, penalty=30*****
+squared_hinge: tolerance:0.001000, penalty=30, train_accuracy = 0.978571
+*****squared_hinge: tolerance:0.001000, penalty=40*****
+squared_hinge: tolerance:0.001000, penalty=40, train_accuracy = 0.972857
+*****squared_hinge: tolerance:0.000010, penalty=1*****
+squared_hinge: tolerance:0.000010, penalty=1, train_accuracy = 0.972143
+*****squared_hinge: tolerance:0.000010, penalty=10*****
+squared_hinge: tolerance:0.000010, penalty=10, train_accuracy = 0.974286
+*****squared_hinge: tolerance:0.000010, penalty=20*****
+squared_hinge: tolerance:0.000010, penalty=20, train_accuracy = 0.973571
+*****squared_hinge: tolerance:0.000010, penalty=30*****
+squared_hinge: tolerance:0.000010, penalty=30, train_accuracy = 0.974286
+*****squared_hinge: tolerance:0.000010, penalty=40*****
+squared_hinge: tolerance:0.000010, penalty=40, train_accuracy = 0.974286
+*****hinge: tolerance:0.100000, penalty=1*****
+hinge: tolerance:0.100000, penalty=1, train_accuracy = 0.960000 
+*****hinge: tolerance:0.100000, penalty=10*****
+hinge: tolerance:0.100000, penalty=10, train_accuracy = 0.967143 
+*****hinge: tolerance:0.100000, penalty=20*****
+hinge: tolerance:0.100000, penalty=20, train_accuracy = 0.970000 
+*****hinge: tolerance:0.100000, penalty=30*****
+hinge: tolerance:0.100000, penalty=30, train_accuracy = 0.968571 
+*****hinge: tolerance:0.100000, penalty=40*****
+hinge: tolerance:0.100000, penalty=40, train_accuracy = 0.970000 
+*****hinge: tolerance:0.001000, penalty=1*****
+hinge: tolerance:0.001000, penalty=1, train_accuracy = 0.961429 
+*****hinge: tolerance:0.001000, penalty=10*****
+hinge: tolerance:0.001000, penalty=10, train_accuracy = 0.968571 
+*****hinge: tolerance:0.001000, penalty=20*****
+hinge: tolerance:0.001000, penalty=20, train_accuracy = 0.969286 
+*****hinge: tolerance:0.001000, penalty=30*****
+hinge: tolerance:0.001000, penalty=30, train_accuracy = 0.967143 
+*****hinge: tolerance:0.001000, penalty=40*****
+hinge: tolerance:0.001000, penalty=40, train_accuracy = 0.967857 
+*****hinge: tolerance:0.000010, penalty=1*****
+hinge: tolerance:0.000010, penalty=1, train_accuracy = 0.961429 
+*****hinge: tolerance:0.000010, penalty=10*****
+hinge: tolerance:0.000010, penalty=10, train_accuracy = 0.969286 
+*****hinge: tolerance:0.000010, penalty=20*****
+hinge: tolerance:0.000010, penalty=20, train_accuracy = 0.967857 
+*****hinge: tolerance:0.000010, penalty=30*****
+hinge: tolerance:0.000010, penalty=30, train_accuracy = 0.969286 
+*****hinge: tolerance:0.000010, penalty=40*****
+hinge: tolerance:0.000010, penalty=40, train_accuracy = 0.970000 

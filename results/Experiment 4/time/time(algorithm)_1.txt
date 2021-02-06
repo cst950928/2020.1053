@@ -1,0 +1,2 @@
+iteration=1, prediction time when K=5,weight=0.100000: 2.773584
+iteration=1, prediction time when K=5,weight=0.000000: 2.180182

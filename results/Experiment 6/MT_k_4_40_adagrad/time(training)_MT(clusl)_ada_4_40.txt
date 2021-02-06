@@ -1,0 +1,225 @@
+iteration = 1, training time when k = 2, rho = 0.100000: 105.141086
+iteration = 1, training time when k = 2, rho = 0.300000: 108.848787
+iteration = 1, training time when k = 2, rho = 0.500000: 115.133926
+iteration = 1, training time when k = 2, rho = 0.700000: 119.313800
+iteration = 1, training time when k = 2, rho = 0.900000: 123.214382
+iteration = 1, training time when k = 3, rho = 0.100000: 146.488762
+iteration = 1, training time when k = 3, rho = 0.300000: 153.249391
+iteration = 1, training time when k = 3, rho = 0.500000: 170.150686
+iteration = 1, training time when k = 3, rho = 0.700000: 183.286154
+iteration = 1, training time when k = 3, rho = 0.900000: 196.068889
+iteration = 1, training time when k = 4, rho = 0.100000: 250.119261
+iteration = 1, training time when k = 4, rho = 0.300000: 268.175487
+iteration = 1, training time when k = 4, rho = 0.500000: 296.445164
+iteration = 1, training time when k = 4, rho = 0.700000: 320.367610
+iteration = 1, training time when k = 4, rho = 0.900000: 343.158382
+k = 2, rho = 0.100000, avg_training_time : 123.214382 
+k = 2, rho = 0.300000, avg_training_time : 123.214382 
+k = 2, rho = 0.500000, avg_training_time : 123.214382 
+k = 2, rho = 0.700000, avg_training_time : 123.214382 
+k = 2, rho = 0.900000, avg_training_time : 123.214382 
+k = 3, rho = 0.100000, avg_training_time : 196.068889 
+k = 3, rho = 0.300000, avg_training_time : 196.068889 
+k = 3, rho = 0.500000, avg_training_time : 196.068889 
+k = 3, rho = 0.700000, avg_training_time : 196.068889 
+k = 3, rho = 0.900000, avg_training_time : 196.068889 
+k = 4, rho = 0.100000, avg_training_time : 343.158382 
+k = 4, rho = 0.300000, avg_training_time : 343.158382 
+k = 4, rho = 0.500000, avg_training_time : 343.158382 
+k = 4, rho = 0.700000, avg_training_time : 343.158382 
+k = 4, rho = 0.900000, avg_training_time : 343.158382 
+k = 2, rho = 0.100000, training_time(maxacc): 123.214382 
+k = 2, rho = 0.300000, training_time(maxacc): 123.214382 
+k = 2, rho = 0.500000, training_time(maxacc): 123.214382 
+k = 2, rho = 0.700000, training_time(maxacc): 123.214382 
+k = 2, rho = 0.900000, training_time(maxacc): 123.214382 
+k = 3, rho = 0.100000, training_time(maxacc): 196.068889 
+k = 3, rho = 0.300000, training_time(maxacc): 196.068889 
+k = 3, rho = 0.500000, training_time(maxacc): 196.068889 
+k = 3, rho = 0.700000, training_time(maxacc): 196.068889 
+k = 3, rho = 0.900000, training_time(maxacc): 196.068889 
+k = 4, rho = 0.100000, training_time(maxacc): 343.158382 
+k = 4, rho = 0.300000, training_time(maxacc): 343.158382 
+k = 4, rho = 0.500000, training_time(maxacc): 343.158382 
+k = 4, rho = 0.700000, training_time(maxacc): 343.158382 
+k = 4, rho = 0.900000, training_time(maxacc): 343.158382 
+iteration = 1, training time when k = 2, rho = 0.100000: 105.393100
+iteration = 1, training time when k = 2, rho = 0.300000: 107.302095
+iteration = 1, training time when k = 2, rho = 0.500000: 111.201904
+iteration = 1, training time when k = 2, rho = 0.700000: 113.778472
+iteration = 1, training time when k = 2, rho = 0.900000: 119.561749
+iteration = 1, training time when k = 3, rho = 0.100000: 143.507941
+iteration = 1, training time when k = 3, rho = 0.300000: 154.485484
+iteration = 1, training time when k = 3, rho = 0.500000: 164.935007
+iteration = 1, training time when k = 3, rho = 0.700000: 179.017582
+iteration = 1, training time when k = 3, rho = 0.900000: 191.242136
+iteration = 1, training time when k = 4, rho = 0.100000: 226.936817
+iteration = 1, training time when k = 4, rho = 0.300000: 255.073477
+iteration = 1, training time when k = 4, rho = 0.500000: 281.197548
+iteration = 1, training time when k = 4, rho = 0.700000: 303.068618
+iteration = 1, training time when k = 4, rho = 0.900000: 327.142734
+k = 2, rho = 0.100000, avg_training_time : 119.561749 
+k = 2, rho = 0.300000, avg_training_time : 119.561749 
+k = 2, rho = 0.500000, avg_training_time : 119.561749 
+k = 2, rho = 0.700000, avg_training_time : 119.561749 
+k = 2, rho = 0.900000, avg_training_time : 119.561749 
+k = 3, rho = 0.100000, avg_training_time : 191.242136 
+k = 3, rho = 0.300000, avg_training_time : 191.242136 
+k = 3, rho = 0.500000, avg_training_time : 191.242136 
+k = 3, rho = 0.700000, avg_training_time : 191.242136 
+k = 3, rho = 0.900000, avg_training_time : 191.242136 
+k = 4, rho = 0.100000, avg_training_time : 327.142734 
+k = 4, rho = 0.300000, avg_training_time : 327.142734 
+k = 4, rho = 0.500000, avg_training_time : 327.142734 
+k = 4, rho = 0.700000, avg_training_time : 327.142734 
+k = 4, rho = 0.900000, avg_training_time : 327.142734 
+k = 2, rho = 0.100000, training_time(maxacc): 119.561749 
+k = 2, rho = 0.300000, training_time(maxacc): 119.561749 
+k = 2, rho = 0.500000, training_time(maxacc): 119.561749 
+k = 2, rho = 0.700000, training_time(maxacc): 119.561749 
+k = 2, rho = 0.900000, training_time(maxacc): 119.561749 
+k = 3, rho = 0.100000, training_time(maxacc): 191.242136 
+k = 3, rho = 0.300000, training_time(maxacc): 191.242136 
+k = 3, rho = 0.500000, training_time(maxacc): 191.242136 
+k = 3, rho = 0.700000, training_time(maxacc): 191.242136 
+k = 3, rho = 0.900000, training_time(maxacc): 191.242136 
+k = 4, rho = 0.100000, training_time(maxacc): 327.142734 
+k = 4, rho = 0.300000, training_time(maxacc): 327.142734 
+k = 4, rho = 0.500000, training_time(maxacc): 327.142734 
+k = 4, rho = 0.700000, training_time(maxacc): 327.142734 
+k = 4, rho = 0.900000, training_time(maxacc): 327.142734 
+iteration = 1, training time when k = 2, rho = 0.100000: 108.010724
+iteration = 1, training time when k = 2, rho = 0.300000: 112.275520
+iteration = 1, training time when k = 2, rho = 0.500000: 114.192483
+iteration = 1, training time when k = 2, rho = 0.700000: 120.740879
+iteration = 1, training time when k = 2, rho = 0.900000: 124.577065
+iteration = 1, training time when k = 3, rho = 0.100000: 148.127951
+iteration = 1, training time when k = 3, rho = 0.300000: 158.688393
+iteration = 1, training time when k = 3, rho = 0.500000: 167.134611
+iteration = 1, training time when k = 3, rho = 0.700000: 185.256034
+iteration = 1, training time when k = 3, rho = 0.900000: 197.587231
+iteration = 1, training time when k = 4, rho = 0.100000: 247.446187
+iteration = 1, training time when k = 4, rho = 0.300000: 266.480622
+iteration = 1, training time when k = 4, rho = 0.500000: 289.972071
+iteration = 1, training time when k = 4, rho = 0.700000: 318.854244
+iteration = 1, training time when k = 4, rho = 0.900000: 341.778584
+k = 2, rho = 0.100000, avg_training_time : 124.577065 
+k = 2, rho = 0.300000, avg_training_time : 124.577065 
+k = 2, rho = 0.500000, avg_training_time : 124.577065 
+k = 2, rho = 0.700000, avg_training_time : 124.577065 
+k = 2, rho = 0.900000, avg_training_time : 124.577065 
+k = 3, rho = 0.100000, avg_training_time : 197.587231 
+k = 3, rho = 0.300000, avg_training_time : 197.587231 
+k = 3, rho = 0.500000, avg_training_time : 197.587231 
+k = 3, rho = 0.700000, avg_training_time : 197.587231 
+k = 3, rho = 0.900000, avg_training_time : 197.587231 
+k = 4, rho = 0.100000, avg_training_time : 341.778584 
+k = 4, rho = 0.300000, avg_training_time : 341.778584 
+k = 4, rho = 0.500000, avg_training_time : 341.778584 
+k = 4, rho = 0.700000, avg_training_time : 341.778584 
+k = 4, rho = 0.900000, avg_training_time : 341.778584 
+k = 2, rho = 0.100000, training_time(maxacc): 124.577065 
+k = 2, rho = 0.300000, training_time(maxacc): 124.577065 
+k = 2, rho = 0.500000, training_time(maxacc): 124.577065 
+k = 2, rho = 0.700000, training_time(maxacc): 124.577065 
+k = 2, rho = 0.900000, training_time(maxacc): 124.577065 
+k = 3, rho = 0.100000, training_time(maxacc): 197.587231 
+k = 3, rho = 0.300000, training_time(maxacc): 197.587231 
+k = 3, rho = 0.500000, training_time(maxacc): 197.587231 
+k = 3, rho = 0.700000, training_time(maxacc): 197.587231 
+k = 3, rho = 0.900000, training_time(maxacc): 197.587231 
+k = 4, rho = 0.100000, training_time(maxacc): 341.778584 
+k = 4, rho = 0.300000, training_time(maxacc): 341.778584 
+k = 4, rho = 0.500000, training_time(maxacc): 341.778584 
+k = 4, rho = 0.700000, training_time(maxacc): 341.778584 
+k = 4, rho = 0.900000, training_time(maxacc): 341.778584 
+iteration = 1, training time when k = 2, rho = 0.100000: 106.382158
+iteration = 1, training time when k = 2, rho = 0.300000: 110.731939
+iteration = 1, training time when k = 2, rho = 0.500000: 114.707014
+iteration = 1, training time when k = 2, rho = 0.700000: 120.533829
+iteration = 1, training time when k = 2, rho = 0.900000: 124.936742
+iteration = 1, training time when k = 3, rho = 0.100000: 149.387655
+iteration = 1, training time when k = 3, rho = 0.300000: 159.382261
+iteration = 1, training time when k = 3, rho = 0.500000: 173.227083
+iteration = 1, training time when k = 3, rho = 0.700000: 188.032656
+iteration = 1, training time when k = 3, rho = 0.900000: 193.645116
+iteration = 1, training time when k = 4, rho = 0.100000: 249.795946
+iteration = 1, training time when k = 4, rho = 0.300000: 272.784351
+iteration = 1, training time when k = 4, rho = 0.500000: 294.517371
+iteration = 1, training time when k = 4, rho = 0.700000: 315.148980
+iteration = 1, training time when k = 4, rho = 0.900000: 342.331525
+k = 2, rho = 0.100000, avg_training_time : 124.936742 
+k = 2, rho = 0.300000, avg_training_time : 124.936742 
+k = 2, rho = 0.500000, avg_training_time : 124.936742 
+k = 2, rho = 0.700000, avg_training_time : 124.936742 
+k = 2, rho = 0.900000, avg_training_time : 124.936742 
+k = 3, rho = 0.100000, avg_training_time : 193.645116 
+k = 3, rho = 0.300000, avg_training_time : 193.645116 
+k = 3, rho = 0.500000, avg_training_time : 193.645116 
+k = 3, rho = 0.700000, avg_training_time : 193.645116 
+k = 3, rho = 0.900000, avg_training_time : 193.645116 
+k = 4, rho = 0.100000, avg_training_time : 342.331525 
+k = 4, rho = 0.300000, avg_training_time : 342.331525 
+k = 4, rho = 0.500000, avg_training_time : 342.331525 
+k = 4, rho = 0.700000, avg_training_time : 342.331525 
+k = 4, rho = 0.900000, avg_training_time : 342.331525 
+k = 2, rho = 0.100000, training_time(maxacc): 124.936742 
+k = 2, rho = 0.300000, training_time(maxacc): 124.936742 
+k = 2, rho = 0.500000, training_time(maxacc): 124.936742 
+k = 2, rho = 0.700000, training_time(maxacc): 124.936742 
+k = 2, rho = 0.900000, training_time(maxacc): 124.936742 
+k = 3, rho = 0.100000, training_time(maxacc): 193.645116 
+k = 3, rho = 0.300000, training_time(maxacc): 193.645116 
+k = 3, rho = 0.500000, training_time(maxacc): 193.645116 
+k = 3, rho = 0.700000, training_time(maxacc): 193.645116 
+k = 3, rho = 0.900000, training_time(maxacc): 193.645116 
+k = 4, rho = 0.100000, training_time(maxacc): 342.331525 
+k = 4, rho = 0.300000, training_time(maxacc): 342.331525 
+k = 4, rho = 0.500000, training_time(maxacc): 342.331525 
+k = 4, rho = 0.700000, training_time(maxacc): 342.331525 
+k = 4, rho = 0.900000, training_time(maxacc): 342.331525 
+iteration = 1, training time when k = 2, rho = 0.100000: 107.537475
+iteration = 1, training time when k = 2, rho = 0.300000: 111.665233
+iteration = 1, training time when k = 2, rho = 0.500000: 115.575005
+iteration = 1, training time when k = 2, rho = 0.700000: 120.075256
+iteration = 1, training time when k = 2, rho = 0.900000: 124.471441
+iteration = 1, training time when k = 3, rho = 0.100000: 147.316312
+iteration = 1, training time when k = 3, rho = 0.300000: 156.296300
+iteration = 1, training time when k = 3, rho = 0.500000: 162.105872
+iteration = 1, training time when k = 3, rho = 0.700000: 186.225432
+iteration = 1, training time when k = 3, rho = 0.900000: 198.491892
+iteration = 1, training time when k = 4, rho = 0.100000: 250.359936
+iteration = 1, training time when k = 4, rho = 0.300000: 269.782459
+iteration = 1, training time when k = 4, rho = 0.500000: 293.433688
+iteration = 1, training time when k = 4, rho = 0.700000: 310.559444
+iteration = 1, training time when k = 4, rho = 0.900000: 341.176952
+k = 2, rho = 0.100000, avg_training_time : 124.471441 
+k = 2, rho = 0.300000, avg_training_time : 124.471441 
+k = 2, rho = 0.500000, avg_training_time : 124.471441 
+k = 2, rho = 0.700000, avg_training_time : 124.471441 
+k = 2, rho = 0.900000, avg_training_time : 124.471441 
+k = 3, rho = 0.100000, avg_training_time : 198.491892 
+k = 3, rho = 0.300000, avg_training_time : 198.491892 
+k = 3, rho = 0.500000, avg_training_time : 198.491892 
+k = 3, rho = 0.700000, avg_training_time : 198.491892 
+k = 3, rho = 0.900000, avg_training_time : 198.491892 
+k = 4, rho = 0.100000, avg_training_time : 341.176952 
+k = 4, rho = 0.300000, avg_training_time : 341.176952 
+k = 4, rho = 0.500000, avg_training_time : 341.176952 
+k = 4, rho = 0.700000, avg_training_time : 341.176952 
+k = 4, rho = 0.900000, avg_training_time : 341.176952 
+k = 2, rho = 0.100000, training_time(maxacc): 124.471441 
+k = 2, rho = 0.300000, training_time(maxacc): 124.471441 
+k = 2, rho = 0.500000, training_time(maxacc): 124.471441 
+k = 2, rho = 0.700000, training_time(maxacc): 124.471441 
+k = 2, rho = 0.900000, training_time(maxacc): 124.471441 
+k = 3, rho = 0.100000, training_time(maxacc): 198.491892 
+k = 3, rho = 0.300000, training_time(maxacc): 198.491892 
+k = 3, rho = 0.500000, training_time(maxacc): 198.491892 
+k = 3, rho = 0.700000, training_time(maxacc): 198.491892 
+k = 3, rho = 0.900000, training_time(maxacc): 198.491892 
+k = 4, rho = 0.100000, training_time(maxacc): 341.176952 
+k = 4, rho = 0.300000, training_time(maxacc): 341.176952 
+k = 4, rho = 0.500000, training_time(maxacc): 341.176952 
+k = 4, rho = 0.700000, training_time(maxacc): 341.176952 
+k = 4, rho = 0.900000, training_time(maxacc): 341.176952 

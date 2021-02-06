@@ -1,0 +1,1275 @@
+iteration = 1, k = 2, rho = 0.100000, testing accuracy = 0.945578
+iteration = 1, k = 2, rho = 0.100000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 23 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 6 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 30 
+
+iteration = 1, k = 2, rho = 0.300000, testing accuracy = 0.829932
+iteration = 1, k = 2, rho = 0.300000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 20 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 6 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 16 
+
+iteration = 1, k = 2, rho = 0.500000, testing accuracy = 0.952381
+iteration = 1, k = 2, rho = 0.500000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 23 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 6 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 2, rho = 0.700000, testing accuracy = 0.952381
+iteration = 1, k = 2, rho = 0.700000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 23 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 6 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 2, rho = 0.900000, testing accuracy = 0.952381
+iteration = 1, k = 2, rho = 0.900000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 23 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 6 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 3, rho = 0.100000, testing accuracy = 0.931973
+iteration = 1, k = 3, rho = 0.100000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 20 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 6 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 3, rho = 0.300000, testing accuracy = 0.945578
+iteration = 1, k = 3, rho = 0.300000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 21 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 7 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 3, rho = 0.500000, testing accuracy = 0.959184
+iteration = 1, k = 3, rho = 0.500000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 23 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 7 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 3, rho = 0.700000, testing accuracy = 0.965986
+iteration = 1, k = 3, rho = 0.700000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 23 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 8 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 3, rho = 0.900000, testing accuracy = 0.952381
+iteration = 1, k = 3, rho = 0.900000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 22 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 7 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 4, rho = 0.100000, testing accuracy = 0.911565
+iteration = 1, k = 4, rho = 0.100000
+j = 1, correct testing_num = 28 
+j = 2, correct testing_num = 23 
+j = 3, correct testing_num = 14 
+j = 4, correct testing_num = 8 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 4, rho = 0.300000, testing accuracy = 0.870748
+iteration = 1, k = 4, rho = 0.300000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 21 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 7 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 20 
+
+iteration = 1, k = 4, rho = 0.500000, testing accuracy = 0.959184
+iteration = 1, k = 4, rho = 0.500000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 23 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 7 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 4, rho = 0.700000, testing accuracy = 0.959184
+iteration = 1, k = 4, rho = 0.700000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 23 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 7 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 4, rho = 0.900000, testing accuracy = 0.965986
+iteration = 1, k = 4, rho = 0.900000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 24 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 7 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+k = 2, rho = 0.100000, maximum_testing_acc: 0.952381
+k = 2, rho = 0.300000, maximum_testing_acc: 0.952381
+k = 2, rho = 0.500000, maximum_testing_acc: 0.952381
+k = 2, rho = 0.700000, maximum_testing_acc: 0.952381
+k = 2, rho = 0.900000, maximum_testing_acc: 0.952381
+k = 3, rho = 0.100000, maximum_testing_acc: 0.952381
+k = 3, rho = 0.300000, maximum_testing_acc: 0.952381
+k = 3, rho = 0.500000, maximum_testing_acc: 0.952381
+k = 3, rho = 0.700000, maximum_testing_acc: 0.952381
+k = 3, rho = 0.900000, maximum_testing_acc: 0.952381
+k = 4, rho = 0.100000, maximum_testing_acc: 0.965986
+k = 4, rho = 0.300000, maximum_testing_acc: 0.965986
+k = 4, rho = 0.500000, maximum_testing_acc: 0.965986
+k = 4, rho = 0.700000, maximum_testing_acc: 0.965986
+k = 4, rho = 0.900000, maximum_testing_acc: 0.965986
+k = 2, rho = 0.100000, avg_testing_acc: 0.952381
+k = 2, rho = 0.300000, avg_testing_acc: 0.952381
+k = 2, rho = 0.500000, avg_testing_acc: 0.952381
+k = 2, rho = 0.700000, avg_testing_acc: 0.952381
+k = 2, rho = 0.900000, avg_testing_acc: 0.952381
+k = 3, rho = 0.100000, avg_testing_acc: 0.952381
+k = 3, rho = 0.300000, avg_testing_acc: 0.952381
+k = 3, rho = 0.500000, avg_testing_acc: 0.952381
+k = 3, rho = 0.700000, avg_testing_acc: 0.952381
+k = 3, rho = 0.900000, avg_testing_acc: 0.952381
+k = 4, rho = 0.100000, avg_testing_acc: 0.965986
+k = 4, rho = 0.300000, avg_testing_acc: 0.965986
+k = 4, rho = 0.500000, avg_testing_acc: 0.965986
+k = 4, rho = 0.700000, avg_testing_acc: 0.965986
+k = 4, rho = 0.900000, avg_testing_acc: 0.965986
+k = 2, rho = 0.100000,class=1, maximum correct number: 34.000000
+k = 2, rho = 0.100000,class=2, maximum correct number: 23.000000
+k = 2, rho = 0.100000,class=3, maximum correct number: 16.000000
+k = 2, rho = 0.100000,class=4, maximum correct number: 6.000000
+k = 2, rho = 0.100000,class=5, maximum correct number: 30.000000
+k = 2, rho = 0.100000,class=6, maximum correct number: 31.000000
+k = 2, rho = 0.300000,class=1, maximum correct number: 34.000000
+k = 2, rho = 0.300000,class=2, maximum correct number: 23.000000
+k = 2, rho = 0.300000,class=3, maximum correct number: 16.000000
+k = 2, rho = 0.300000,class=4, maximum correct number: 6.000000
+k = 2, rho = 0.300000,class=5, maximum correct number: 30.000000
+k = 2, rho = 0.300000,class=6, maximum correct number: 31.000000
+k = 2, rho = 0.500000,class=1, maximum correct number: 34.000000
+k = 2, rho = 0.500000,class=2, maximum correct number: 23.000000
+k = 2, rho = 0.500000,class=3, maximum correct number: 16.000000
+k = 2, rho = 0.500000,class=4, maximum correct number: 6.000000
+k = 2, rho = 0.500000,class=5, maximum correct number: 30.000000
+k = 2, rho = 0.500000,class=6, maximum correct number: 31.000000
+k = 2, rho = 0.700000,class=1, maximum correct number: 34.000000
+k = 2, rho = 0.700000,class=2, maximum correct number: 23.000000
+k = 2, rho = 0.700000,class=3, maximum correct number: 16.000000
+k = 2, rho = 0.700000,class=4, maximum correct number: 6.000000
+k = 2, rho = 0.700000,class=5, maximum correct number: 30.000000
+k = 2, rho = 0.700000,class=6, maximum correct number: 31.000000
+k = 2, rho = 0.900000,class=1, maximum correct number: 34.000000
+k = 2, rho = 0.900000,class=2, maximum correct number: 23.000000
+k = 2, rho = 0.900000,class=3, maximum correct number: 16.000000
+k = 2, rho = 0.900000,class=4, maximum correct number: 6.000000
+k = 2, rho = 0.900000,class=5, maximum correct number: 30.000000
+k = 2, rho = 0.900000,class=6, maximum correct number: 31.000000
+k = 3, rho = 0.100000,class=1, maximum correct number: 34.000000
+k = 3, rho = 0.100000,class=2, maximum correct number: 22.000000
+k = 3, rho = 0.100000,class=3, maximum correct number: 16.000000
+k = 3, rho = 0.100000,class=4, maximum correct number: 7.000000
+k = 3, rho = 0.100000,class=5, maximum correct number: 30.000000
+k = 3, rho = 0.100000,class=6, maximum correct number: 31.000000
+k = 3, rho = 0.300000,class=1, maximum correct number: 34.000000
+k = 3, rho = 0.300000,class=2, maximum correct number: 22.000000
+k = 3, rho = 0.300000,class=3, maximum correct number: 16.000000
+k = 3, rho = 0.300000,class=4, maximum correct number: 7.000000
+k = 3, rho = 0.300000,class=5, maximum correct number: 30.000000
+k = 3, rho = 0.300000,class=6, maximum correct number: 31.000000
+k = 3, rho = 0.500000,class=1, maximum correct number: 34.000000
+k = 3, rho = 0.500000,class=2, maximum correct number: 22.000000
+k = 3, rho = 0.500000,class=3, maximum correct number: 16.000000
+k = 3, rho = 0.500000,class=4, maximum correct number: 7.000000
+k = 3, rho = 0.500000,class=5, maximum correct number: 30.000000
+k = 3, rho = 0.500000,class=6, maximum correct number: 31.000000
+k = 3, rho = 0.700000,class=1, maximum correct number: 34.000000
+k = 3, rho = 0.700000,class=2, maximum correct number: 22.000000
+k = 3, rho = 0.700000,class=3, maximum correct number: 16.000000
+k = 3, rho = 0.700000,class=4, maximum correct number: 7.000000
+k = 3, rho = 0.700000,class=5, maximum correct number: 30.000000
+k = 3, rho = 0.700000,class=6, maximum correct number: 31.000000
+k = 3, rho = 0.900000,class=1, maximum correct number: 34.000000
+k = 3, rho = 0.900000,class=2, maximum correct number: 22.000000
+k = 3, rho = 0.900000,class=3, maximum correct number: 16.000000
+k = 3, rho = 0.900000,class=4, maximum correct number: 7.000000
+k = 3, rho = 0.900000,class=5, maximum correct number: 30.000000
+k = 3, rho = 0.900000,class=6, maximum correct number: 31.000000
+k = 4, rho = 0.100000,class=1, maximum correct number: 34.000000
+k = 4, rho = 0.100000,class=2, maximum correct number: 24.000000
+k = 4, rho = 0.100000,class=3, maximum correct number: 16.000000
+k = 4, rho = 0.100000,class=4, maximum correct number: 7.000000
+k = 4, rho = 0.100000,class=5, maximum correct number: 30.000000
+k = 4, rho = 0.100000,class=6, maximum correct number: 31.000000
+k = 4, rho = 0.300000,class=1, maximum correct number: 34.000000
+k = 4, rho = 0.300000,class=2, maximum correct number: 24.000000
+k = 4, rho = 0.300000,class=3, maximum correct number: 16.000000
+k = 4, rho = 0.300000,class=4, maximum correct number: 7.000000
+k = 4, rho = 0.300000,class=5, maximum correct number: 30.000000
+k = 4, rho = 0.300000,class=6, maximum correct number: 31.000000
+k = 4, rho = 0.500000,class=1, maximum correct number: 34.000000
+k = 4, rho = 0.500000,class=2, maximum correct number: 24.000000
+k = 4, rho = 0.500000,class=3, maximum correct number: 16.000000
+k = 4, rho = 0.500000,class=4, maximum correct number: 7.000000
+k = 4, rho = 0.500000,class=5, maximum correct number: 30.000000
+k = 4, rho = 0.500000,class=6, maximum correct number: 31.000000
+k = 4, rho = 0.700000,class=1, maximum correct number: 34.000000
+k = 4, rho = 0.700000,class=2, maximum correct number: 24.000000
+k = 4, rho = 0.700000,class=3, maximum correct number: 16.000000
+k = 4, rho = 0.700000,class=4, maximum correct number: 7.000000
+k = 4, rho = 0.700000,class=5, maximum correct number: 30.000000
+k = 4, rho = 0.700000,class=6, maximum correct number: 31.000000
+k = 4, rho = 0.900000,class=1, maximum correct number: 34.000000
+k = 4, rho = 0.900000,class=2, maximum correct number: 24.000000
+k = 4, rho = 0.900000,class=3, maximum correct number: 16.000000
+k = 4, rho = 0.900000,class=4, maximum correct number: 7.000000
+k = 4, rho = 0.900000,class=5, maximum correct number: 30.000000
+k = 4, rho = 0.900000,class=6, maximum correct number: 31.000000
+iteration = 1, k = 2, rho = 0.100000, testing accuracy = 0.945578
+iteration = 1, k = 2, rho = 0.100000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 22 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 8 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 29 
+
+iteration = 1, k = 2, rho = 0.300000, testing accuracy = 0.952381
+iteration = 1, k = 2, rho = 0.300000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 22 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 7 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 2, rho = 0.500000, testing accuracy = 0.965986
+iteration = 1, k = 2, rho = 0.500000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 23 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 8 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 2, rho = 0.700000, testing accuracy = 0.952381
+iteration = 1, k = 2, rho = 0.700000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 23 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 7 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 30 
+
+iteration = 1, k = 2, rho = 0.900000, testing accuracy = 0.952381
+iteration = 1, k = 2, rho = 0.900000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 22 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 8 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 30 
+
+iteration = 1, k = 3, rho = 0.100000, testing accuracy = 0.959184
+iteration = 1, k = 3, rho = 0.100000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 23 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 7 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 3, rho = 0.300000, testing accuracy = 0.952381
+iteration = 1, k = 3, rho = 0.300000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 22 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 7 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 3, rho = 0.500000, testing accuracy = 0.918367
+iteration = 1, k = 3, rho = 0.500000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 21 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 3 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 3, rho = 0.700000, testing accuracy = 0.918367
+iteration = 1, k = 3, rho = 0.700000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 21 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 3 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 3, rho = 0.900000, testing accuracy = 0.925170
+iteration = 1, k = 3, rho = 0.900000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 21 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 4 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 4, rho = 0.100000, testing accuracy = 0.850340
+iteration = 1, k = 4, rho = 0.100000
+j = 1, correct testing_num = 29 
+j = 2, correct testing_num = 20 
+j = 3, correct testing_num = 9 
+j = 4, correct testing_num = 6 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 4, rho = 0.300000, testing accuracy = 0.965986
+iteration = 1, k = 4, rho = 0.300000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 23 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 8 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 4, rho = 0.500000, testing accuracy = 0.911565
+iteration = 1, k = 4, rho = 0.500000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 20 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 3 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 4, rho = 0.700000, testing accuracy = 0.959184
+iteration = 1, k = 4, rho = 0.700000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 23 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 7 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 4, rho = 0.900000, testing accuracy = 0.959184
+iteration = 1, k = 4, rho = 0.900000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 23 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 7 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+k = 2, rho = 0.100000, maximum_testing_acc: 0.952381
+k = 2, rho = 0.300000, maximum_testing_acc: 0.952381
+k = 2, rho = 0.500000, maximum_testing_acc: 0.952381
+k = 2, rho = 0.700000, maximum_testing_acc: 0.952381
+k = 2, rho = 0.900000, maximum_testing_acc: 0.952381
+k = 3, rho = 0.100000, maximum_testing_acc: 0.925170
+k = 3, rho = 0.300000, maximum_testing_acc: 0.925170
+k = 3, rho = 0.500000, maximum_testing_acc: 0.925170
+k = 3, rho = 0.700000, maximum_testing_acc: 0.925170
+k = 3, rho = 0.900000, maximum_testing_acc: 0.925170
+k = 4, rho = 0.100000, maximum_testing_acc: 0.959184
+k = 4, rho = 0.300000, maximum_testing_acc: 0.959184
+k = 4, rho = 0.500000, maximum_testing_acc: 0.959184
+k = 4, rho = 0.700000, maximum_testing_acc: 0.959184
+k = 4, rho = 0.900000, maximum_testing_acc: 0.959184
+k = 2, rho = 0.100000, avg_testing_acc: 0.952381
+k = 2, rho = 0.300000, avg_testing_acc: 0.952381
+k = 2, rho = 0.500000, avg_testing_acc: 0.952381
+k = 2, rho = 0.700000, avg_testing_acc: 0.952381
+k = 2, rho = 0.900000, avg_testing_acc: 0.952381
+k = 3, rho = 0.100000, avg_testing_acc: 0.925170
+k = 3, rho = 0.300000, avg_testing_acc: 0.925170
+k = 3, rho = 0.500000, avg_testing_acc: 0.925170
+k = 3, rho = 0.700000, avg_testing_acc: 0.925170
+k = 3, rho = 0.900000, avg_testing_acc: 0.925170
+k = 4, rho = 0.100000, avg_testing_acc: 0.959184
+k = 4, rho = 0.300000, avg_testing_acc: 0.959184
+k = 4, rho = 0.500000, avg_testing_acc: 0.959184
+k = 4, rho = 0.700000, avg_testing_acc: 0.959184
+k = 4, rho = 0.900000, avg_testing_acc: 0.959184
+k = 2, rho = 0.100000,class=1, maximum correct number: 34.000000
+k = 2, rho = 0.100000,class=2, maximum correct number: 22.000000
+k = 2, rho = 0.100000,class=3, maximum correct number: 16.000000
+k = 2, rho = 0.100000,class=4, maximum correct number: 8.000000
+k = 2, rho = 0.100000,class=5, maximum correct number: 30.000000
+k = 2, rho = 0.100000,class=6, maximum correct number: 30.000000
+k = 2, rho = 0.300000,class=1, maximum correct number: 34.000000
+k = 2, rho = 0.300000,class=2, maximum correct number: 22.000000
+k = 2, rho = 0.300000,class=3, maximum correct number: 16.000000
+k = 2, rho = 0.300000,class=4, maximum correct number: 8.000000
+k = 2, rho = 0.300000,class=5, maximum correct number: 30.000000
+k = 2, rho = 0.300000,class=6, maximum correct number: 30.000000
+k = 2, rho = 0.500000,class=1, maximum correct number: 34.000000
+k = 2, rho = 0.500000,class=2, maximum correct number: 22.000000
+k = 2, rho = 0.500000,class=3, maximum correct number: 16.000000
+k = 2, rho = 0.500000,class=4, maximum correct number: 8.000000
+k = 2, rho = 0.500000,class=5, maximum correct number: 30.000000
+k = 2, rho = 0.500000,class=6, maximum correct number: 30.000000
+k = 2, rho = 0.700000,class=1, maximum correct number: 34.000000
+k = 2, rho = 0.700000,class=2, maximum correct number: 22.000000
+k = 2, rho = 0.700000,class=3, maximum correct number: 16.000000
+k = 2, rho = 0.700000,class=4, maximum correct number: 8.000000
+k = 2, rho = 0.700000,class=5, maximum correct number: 30.000000
+k = 2, rho = 0.700000,class=6, maximum correct number: 30.000000
+k = 2, rho = 0.900000,class=1, maximum correct number: 34.000000
+k = 2, rho = 0.900000,class=2, maximum correct number: 22.000000
+k = 2, rho = 0.900000,class=3, maximum correct number: 16.000000
+k = 2, rho = 0.900000,class=4, maximum correct number: 8.000000
+k = 2, rho = 0.900000,class=5, maximum correct number: 30.000000
+k = 2, rho = 0.900000,class=6, maximum correct number: 30.000000
+k = 3, rho = 0.100000,class=1, maximum correct number: 34.000000
+k = 3, rho = 0.100000,class=2, maximum correct number: 21.000000
+k = 3, rho = 0.100000,class=3, maximum correct number: 16.000000
+k = 3, rho = 0.100000,class=4, maximum correct number: 4.000000
+k = 3, rho = 0.100000,class=5, maximum correct number: 30.000000
+k = 3, rho = 0.100000,class=6, maximum correct number: 31.000000
+k = 3, rho = 0.300000,class=1, maximum correct number: 34.000000
+k = 3, rho = 0.300000,class=2, maximum correct number: 21.000000
+k = 3, rho = 0.300000,class=3, maximum correct number: 16.000000
+k = 3, rho = 0.300000,class=4, maximum correct number: 4.000000
+k = 3, rho = 0.300000,class=5, maximum correct number: 30.000000
+k = 3, rho = 0.300000,class=6, maximum correct number: 31.000000
+k = 3, rho = 0.500000,class=1, maximum correct number: 34.000000
+k = 3, rho = 0.500000,class=2, maximum correct number: 21.000000
+k = 3, rho = 0.500000,class=3, maximum correct number: 16.000000
+k = 3, rho = 0.500000,class=4, maximum correct number: 4.000000
+k = 3, rho = 0.500000,class=5, maximum correct number: 30.000000
+k = 3, rho = 0.500000,class=6, maximum correct number: 31.000000
+k = 3, rho = 0.700000,class=1, maximum correct number: 34.000000
+k = 3, rho = 0.700000,class=2, maximum correct number: 21.000000
+k = 3, rho = 0.700000,class=3, maximum correct number: 16.000000
+k = 3, rho = 0.700000,class=4, maximum correct number: 4.000000
+k = 3, rho = 0.700000,class=5, maximum correct number: 30.000000
+k = 3, rho = 0.700000,class=6, maximum correct number: 31.000000
+k = 3, rho = 0.900000,class=1, maximum correct number: 34.000000
+k = 3, rho = 0.900000,class=2, maximum correct number: 21.000000
+k = 3, rho = 0.900000,class=3, maximum correct number: 16.000000
+k = 3, rho = 0.900000,class=4, maximum correct number: 4.000000
+k = 3, rho = 0.900000,class=5, maximum correct number: 30.000000
+k = 3, rho = 0.900000,class=6, maximum correct number: 31.000000
+k = 4, rho = 0.100000,class=1, maximum correct number: 34.000000
+k = 4, rho = 0.100000,class=2, maximum correct number: 23.000000
+k = 4, rho = 0.100000,class=3, maximum correct number: 16.000000
+k = 4, rho = 0.100000,class=4, maximum correct number: 7.000000
+k = 4, rho = 0.100000,class=5, maximum correct number: 30.000000
+k = 4, rho = 0.100000,class=6, maximum correct number: 31.000000
+k = 4, rho = 0.300000,class=1, maximum correct number: 34.000000
+k = 4, rho = 0.300000,class=2, maximum correct number: 23.000000
+k = 4, rho = 0.300000,class=3, maximum correct number: 16.000000
+k = 4, rho = 0.300000,class=4, maximum correct number: 7.000000
+k = 4, rho = 0.300000,class=5, maximum correct number: 30.000000
+k = 4, rho = 0.300000,class=6, maximum correct number: 31.000000
+k = 4, rho = 0.500000,class=1, maximum correct number: 34.000000
+k = 4, rho = 0.500000,class=2, maximum correct number: 23.000000
+k = 4, rho = 0.500000,class=3, maximum correct number: 16.000000
+k = 4, rho = 0.500000,class=4, maximum correct number: 7.000000
+k = 4, rho = 0.500000,class=5, maximum correct number: 30.000000
+k = 4, rho = 0.500000,class=6, maximum correct number: 31.000000
+k = 4, rho = 0.700000,class=1, maximum correct number: 34.000000
+k = 4, rho = 0.700000,class=2, maximum correct number: 23.000000
+k = 4, rho = 0.700000,class=3, maximum correct number: 16.000000
+k = 4, rho = 0.700000,class=4, maximum correct number: 7.000000
+k = 4, rho = 0.700000,class=5, maximum correct number: 30.000000
+k = 4, rho = 0.700000,class=6, maximum correct number: 31.000000
+k = 4, rho = 0.900000,class=1, maximum correct number: 34.000000
+k = 4, rho = 0.900000,class=2, maximum correct number: 23.000000
+k = 4, rho = 0.900000,class=3, maximum correct number: 16.000000
+k = 4, rho = 0.900000,class=4, maximum correct number: 7.000000
+k = 4, rho = 0.900000,class=5, maximum correct number: 30.000000
+k = 4, rho = 0.900000,class=6, maximum correct number: 31.000000
+iteration = 1, k = 2, rho = 0.100000, testing accuracy = 0.945578
+iteration = 1, k = 2, rho = 0.100000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 20 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 8 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 2, rho = 0.300000, testing accuracy = 0.952381
+iteration = 1, k = 2, rho = 0.300000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 23 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 7 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 30 
+
+iteration = 1, k = 2, rho = 0.500000, testing accuracy = 0.952381
+iteration = 1, k = 2, rho = 0.500000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 23 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 7 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 30 
+
+iteration = 1, k = 2, rho = 0.700000, testing accuracy = 0.959184
+iteration = 1, k = 2, rho = 0.700000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 22 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 8 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 2, rho = 0.900000, testing accuracy = 0.959184
+iteration = 1, k = 2, rho = 0.900000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 23 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 7 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 3, rho = 0.100000, testing accuracy = 0.911565
+iteration = 1, k = 3, rho = 0.100000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 22 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 2 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 30 
+
+iteration = 1, k = 3, rho = 0.300000, testing accuracy = 0.904762
+iteration = 1, k = 3, rho = 0.300000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 21 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 2 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 30 
+
+iteration = 1, k = 3, rho = 0.500000, testing accuracy = 0.918367
+iteration = 1, k = 3, rho = 0.500000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 22 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 2 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 3, rho = 0.700000, testing accuracy = 0.911565
+iteration = 1, k = 3, rho = 0.700000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 21 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 2 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 3, rho = 0.900000, testing accuracy = 0.918367
+iteration = 1, k = 3, rho = 0.900000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 21 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 3 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 4, rho = 0.100000, testing accuracy = 0.897959
+iteration = 1, k = 4, rho = 0.100000
+j = 1, correct testing_num = 27 
+j = 2, correct testing_num = 23 
+j = 3, correct testing_num = 14 
+j = 4, correct testing_num = 8 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 30 
+
+iteration = 1, k = 4, rho = 0.300000, testing accuracy = 0.952381
+iteration = 1, k = 4, rho = 0.300000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 23 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 6 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 4, rho = 0.500000, testing accuracy = 0.959184
+iteration = 1, k = 4, rho = 0.500000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 22 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 8 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 4, rho = 0.700000, testing accuracy = 0.918367
+iteration = 1, k = 4, rho = 0.700000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 20 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 4 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 4, rho = 0.900000, testing accuracy = 0.925170
+iteration = 1, k = 4, rho = 0.900000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 21 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 4 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+k = 2, rho = 0.100000, maximum_testing_acc: 0.959184
+k = 2, rho = 0.300000, maximum_testing_acc: 0.959184
+k = 2, rho = 0.500000, maximum_testing_acc: 0.959184
+k = 2, rho = 0.700000, maximum_testing_acc: 0.959184
+k = 2, rho = 0.900000, maximum_testing_acc: 0.959184
+k = 3, rho = 0.100000, maximum_testing_acc: 0.918367
+k = 3, rho = 0.300000, maximum_testing_acc: 0.918367
+k = 3, rho = 0.500000, maximum_testing_acc: 0.918367
+k = 3, rho = 0.700000, maximum_testing_acc: 0.918367
+k = 3, rho = 0.900000, maximum_testing_acc: 0.918367
+k = 4, rho = 0.100000, maximum_testing_acc: 0.925170
+k = 4, rho = 0.300000, maximum_testing_acc: 0.925170
+k = 4, rho = 0.500000, maximum_testing_acc: 0.925170
+k = 4, rho = 0.700000, maximum_testing_acc: 0.925170
+k = 4, rho = 0.900000, maximum_testing_acc: 0.925170
+k = 2, rho = 0.100000, avg_testing_acc: 0.959184
+k = 2, rho = 0.300000, avg_testing_acc: 0.959184
+k = 2, rho = 0.500000, avg_testing_acc: 0.959184
+k = 2, rho = 0.700000, avg_testing_acc: 0.959184
+k = 2, rho = 0.900000, avg_testing_acc: 0.959184
+k = 3, rho = 0.100000, avg_testing_acc: 0.918367
+k = 3, rho = 0.300000, avg_testing_acc: 0.918367
+k = 3, rho = 0.500000, avg_testing_acc: 0.918367
+k = 3, rho = 0.700000, avg_testing_acc: 0.918367
+k = 3, rho = 0.900000, avg_testing_acc: 0.918367
+k = 4, rho = 0.100000, avg_testing_acc: 0.925170
+k = 4, rho = 0.300000, avg_testing_acc: 0.925170
+k = 4, rho = 0.500000, avg_testing_acc: 0.925170
+k = 4, rho = 0.700000, avg_testing_acc: 0.925170
+k = 4, rho = 0.900000, avg_testing_acc: 0.925170
+k = 2, rho = 0.100000,class=1, maximum correct number: 34.000000
+k = 2, rho = 0.100000,class=2, maximum correct number: 23.000000
+k = 2, rho = 0.100000,class=3, maximum correct number: 16.000000
+k = 2, rho = 0.100000,class=4, maximum correct number: 7.000000
+k = 2, rho = 0.100000,class=5, maximum correct number: 30.000000
+k = 2, rho = 0.100000,class=6, maximum correct number: 31.000000
+k = 2, rho = 0.300000,class=1, maximum correct number: 34.000000
+k = 2, rho = 0.300000,class=2, maximum correct number: 23.000000
+k = 2, rho = 0.300000,class=3, maximum correct number: 16.000000
+k = 2, rho = 0.300000,class=4, maximum correct number: 7.000000
+k = 2, rho = 0.300000,class=5, maximum correct number: 30.000000
+k = 2, rho = 0.300000,class=6, maximum correct number: 31.000000
+k = 2, rho = 0.500000,class=1, maximum correct number: 34.000000
+k = 2, rho = 0.500000,class=2, maximum correct number: 23.000000
+k = 2, rho = 0.500000,class=3, maximum correct number: 16.000000
+k = 2, rho = 0.500000,class=4, maximum correct number: 7.000000
+k = 2, rho = 0.500000,class=5, maximum correct number: 30.000000
+k = 2, rho = 0.500000,class=6, maximum correct number: 31.000000
+k = 2, rho = 0.700000,class=1, maximum correct number: 34.000000
+k = 2, rho = 0.700000,class=2, maximum correct number: 23.000000
+k = 2, rho = 0.700000,class=3, maximum correct number: 16.000000
+k = 2, rho = 0.700000,class=4, maximum correct number: 7.000000
+k = 2, rho = 0.700000,class=5, maximum correct number: 30.000000
+k = 2, rho = 0.700000,class=6, maximum correct number: 31.000000
+k = 2, rho = 0.900000,class=1, maximum correct number: 34.000000
+k = 2, rho = 0.900000,class=2, maximum correct number: 23.000000
+k = 2, rho = 0.900000,class=3, maximum correct number: 16.000000
+k = 2, rho = 0.900000,class=4, maximum correct number: 7.000000
+k = 2, rho = 0.900000,class=5, maximum correct number: 30.000000
+k = 2, rho = 0.900000,class=6, maximum correct number: 31.000000
+k = 3, rho = 0.100000,class=1, maximum correct number: 34.000000
+k = 3, rho = 0.100000,class=2, maximum correct number: 21.000000
+k = 3, rho = 0.100000,class=3, maximum correct number: 16.000000
+k = 3, rho = 0.100000,class=4, maximum correct number: 3.000000
+k = 3, rho = 0.100000,class=5, maximum correct number: 30.000000
+k = 3, rho = 0.100000,class=6, maximum correct number: 31.000000
+k = 3, rho = 0.300000,class=1, maximum correct number: 34.000000
+k = 3, rho = 0.300000,class=2, maximum correct number: 21.000000
+k = 3, rho = 0.300000,class=3, maximum correct number: 16.000000
+k = 3, rho = 0.300000,class=4, maximum correct number: 3.000000
+k = 3, rho = 0.300000,class=5, maximum correct number: 30.000000
+k = 3, rho = 0.300000,class=6, maximum correct number: 31.000000
+k = 3, rho = 0.500000,class=1, maximum correct number: 34.000000
+k = 3, rho = 0.500000,class=2, maximum correct number: 21.000000
+k = 3, rho = 0.500000,class=3, maximum correct number: 16.000000
+k = 3, rho = 0.500000,class=4, maximum correct number: 3.000000
+k = 3, rho = 0.500000,class=5, maximum correct number: 30.000000
+k = 3, rho = 0.500000,class=6, maximum correct number: 31.000000
+k = 3, rho = 0.700000,class=1, maximum correct number: 34.000000
+k = 3, rho = 0.700000,class=2, maximum correct number: 21.000000
+k = 3, rho = 0.700000,class=3, maximum correct number: 16.000000
+k = 3, rho = 0.700000,class=4, maximum correct number: 3.000000
+k = 3, rho = 0.700000,class=5, maximum correct number: 30.000000
+k = 3, rho = 0.700000,class=6, maximum correct number: 31.000000
+k = 3, rho = 0.900000,class=1, maximum correct number: 34.000000
+k = 3, rho = 0.900000,class=2, maximum correct number: 21.000000
+k = 3, rho = 0.900000,class=3, maximum correct number: 16.000000
+k = 3, rho = 0.900000,class=4, maximum correct number: 3.000000
+k = 3, rho = 0.900000,class=5, maximum correct number: 30.000000
+k = 3, rho = 0.900000,class=6, maximum correct number: 31.000000
+k = 4, rho = 0.100000,class=1, maximum correct number: 34.000000
+k = 4, rho = 0.100000,class=2, maximum correct number: 21.000000
+k = 4, rho = 0.100000,class=3, maximum correct number: 16.000000
+k = 4, rho = 0.100000,class=4, maximum correct number: 4.000000
+k = 4, rho = 0.100000,class=5, maximum correct number: 30.000000
+k = 4, rho = 0.100000,class=6, maximum correct number: 31.000000
+k = 4, rho = 0.300000,class=1, maximum correct number: 34.000000
+k = 4, rho = 0.300000,class=2, maximum correct number: 21.000000
+k = 4, rho = 0.300000,class=3, maximum correct number: 16.000000
+k = 4, rho = 0.300000,class=4, maximum correct number: 4.000000
+k = 4, rho = 0.300000,class=5, maximum correct number: 30.000000
+k = 4, rho = 0.300000,class=6, maximum correct number: 31.000000
+k = 4, rho = 0.500000,class=1, maximum correct number: 34.000000
+k = 4, rho = 0.500000,class=2, maximum correct number: 21.000000
+k = 4, rho = 0.500000,class=3, maximum correct number: 16.000000
+k = 4, rho = 0.500000,class=4, maximum correct number: 4.000000
+k = 4, rho = 0.500000,class=5, maximum correct number: 30.000000
+k = 4, rho = 0.500000,class=6, maximum correct number: 31.000000
+k = 4, rho = 0.700000,class=1, maximum correct number: 34.000000
+k = 4, rho = 0.700000,class=2, maximum correct number: 21.000000
+k = 4, rho = 0.700000,class=3, maximum correct number: 16.000000
+k = 4, rho = 0.700000,class=4, maximum correct number: 4.000000
+k = 4, rho = 0.700000,class=5, maximum correct number: 30.000000
+k = 4, rho = 0.700000,class=6, maximum correct number: 31.000000
+k = 4, rho = 0.900000,class=1, maximum correct number: 34.000000
+k = 4, rho = 0.900000,class=2, maximum correct number: 21.000000
+k = 4, rho = 0.900000,class=3, maximum correct number: 16.000000
+k = 4, rho = 0.900000,class=4, maximum correct number: 4.000000
+k = 4, rho = 0.900000,class=5, maximum correct number: 30.000000
+k = 4, rho = 0.900000,class=6, maximum correct number: 31.000000
+iteration = 1, k = 2, rho = 0.100000, testing accuracy = 0.897959
+iteration = 1, k = 2, rho = 0.100000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 19 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 3 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 30 
+
+iteration = 1, k = 2, rho = 0.300000, testing accuracy = 0.897959
+iteration = 1, k = 2, rho = 0.300000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 20 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 2 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 30 
+
+iteration = 1, k = 2, rho = 0.500000, testing accuracy = 0.891156
+iteration = 1, k = 2, rho = 0.500000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 20 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 1 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 30 
+
+iteration = 1, k = 2, rho = 0.700000, testing accuracy = 0.952381
+iteration = 1, k = 2, rho = 0.700000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 23 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 7 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 30 
+
+iteration = 1, k = 2, rho = 0.900000, testing accuracy = 0.904762
+iteration = 1, k = 2, rho = 0.900000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 21 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 2 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 30 
+
+iteration = 1, k = 3, rho = 0.100000, testing accuracy = 0.816327
+iteration = 1, k = 3, rho = 0.100000
+j = 1, correct testing_num = 30 
+j = 2, correct testing_num = 19 
+j = 3, correct testing_num = 9 
+j = 4, correct testing_num = 3 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 29 
+
+iteration = 1, k = 3, rho = 0.300000, testing accuracy = 0.911565
+iteration = 1, k = 3, rho = 0.300000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 20 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 3 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 3, rho = 0.500000, testing accuracy = 0.952381
+iteration = 1, k = 3, rho = 0.500000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 23 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 7 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 30 
+
+iteration = 1, k = 3, rho = 0.700000, testing accuracy = 0.938776
+iteration = 1, k = 3, rho = 0.700000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 23 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 6 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 29 
+
+iteration = 1, k = 3, rho = 0.900000, testing accuracy = 0.945578
+iteration = 1, k = 3, rho = 0.900000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 23 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 6 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 30 
+
+iteration = 1, k = 4, rho = 0.100000, testing accuracy = 0.965986
+iteration = 1, k = 4, rho = 0.100000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 24 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 8 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 30 
+
+iteration = 1, k = 4, rho = 0.300000, testing accuracy = 0.952381
+iteration = 1, k = 4, rho = 0.300000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 23 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 6 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 4, rho = 0.500000, testing accuracy = 0.952381
+iteration = 1, k = 4, rho = 0.500000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 23 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 7 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 30 
+
+iteration = 1, k = 4, rho = 0.700000, testing accuracy = 0.945578
+iteration = 1, k = 4, rho = 0.700000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 23 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 6 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 30 
+
+iteration = 1, k = 4, rho = 0.900000, testing accuracy = 0.938776
+iteration = 1, k = 4, rho = 0.900000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 21 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 7 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 30 
+
+k = 2, rho = 0.100000, maximum_testing_acc: 0.904762
+k = 2, rho = 0.300000, maximum_testing_acc: 0.904762
+k = 2, rho = 0.500000, maximum_testing_acc: 0.904762
+k = 2, rho = 0.700000, maximum_testing_acc: 0.904762
+k = 2, rho = 0.900000, maximum_testing_acc: 0.904762
+k = 3, rho = 0.100000, maximum_testing_acc: 0.945578
+k = 3, rho = 0.300000, maximum_testing_acc: 0.945578
+k = 3, rho = 0.500000, maximum_testing_acc: 0.945578
+k = 3, rho = 0.700000, maximum_testing_acc: 0.945578
+k = 3, rho = 0.900000, maximum_testing_acc: 0.945578
+k = 4, rho = 0.100000, maximum_testing_acc: 0.938776
+k = 4, rho = 0.300000, maximum_testing_acc: 0.938776
+k = 4, rho = 0.500000, maximum_testing_acc: 0.938776
+k = 4, rho = 0.700000, maximum_testing_acc: 0.938776
+k = 4, rho = 0.900000, maximum_testing_acc: 0.938776
+k = 2, rho = 0.100000, avg_testing_acc: 0.904762
+k = 2, rho = 0.300000, avg_testing_acc: 0.904762
+k = 2, rho = 0.500000, avg_testing_acc: 0.904762
+k = 2, rho = 0.700000, avg_testing_acc: 0.904762
+k = 2, rho = 0.900000, avg_testing_acc: 0.904762
+k = 3, rho = 0.100000, avg_testing_acc: 0.945578
+k = 3, rho = 0.300000, avg_testing_acc: 0.945578
+k = 3, rho = 0.500000, avg_testing_acc: 0.945578
+k = 3, rho = 0.700000, avg_testing_acc: 0.945578
+k = 3, rho = 0.900000, avg_testing_acc: 0.945578
+k = 4, rho = 0.100000, avg_testing_acc: 0.938776
+k = 4, rho = 0.300000, avg_testing_acc: 0.938776
+k = 4, rho = 0.500000, avg_testing_acc: 0.938776
+k = 4, rho = 0.700000, avg_testing_acc: 0.938776
+k = 4, rho = 0.900000, avg_testing_acc: 0.938776
+k = 2, rho = 0.100000,class=1, maximum correct number: 34.000000
+k = 2, rho = 0.100000,class=2, maximum correct number: 21.000000
+k = 2, rho = 0.100000,class=3, maximum correct number: 16.000000
+k = 2, rho = 0.100000,class=4, maximum correct number: 2.000000
+k = 2, rho = 0.100000,class=5, maximum correct number: 30.000000
+k = 2, rho = 0.100000,class=6, maximum correct number: 30.000000
+k = 2, rho = 0.300000,class=1, maximum correct number: 34.000000
+k = 2, rho = 0.300000,class=2, maximum correct number: 21.000000
+k = 2, rho = 0.300000,class=3, maximum correct number: 16.000000
+k = 2, rho = 0.300000,class=4, maximum correct number: 2.000000
+k = 2, rho = 0.300000,class=5, maximum correct number: 30.000000
+k = 2, rho = 0.300000,class=6, maximum correct number: 30.000000
+k = 2, rho = 0.500000,class=1, maximum correct number: 34.000000
+k = 2, rho = 0.500000,class=2, maximum correct number: 21.000000
+k = 2, rho = 0.500000,class=3, maximum correct number: 16.000000
+k = 2, rho = 0.500000,class=4, maximum correct number: 2.000000
+k = 2, rho = 0.500000,class=5, maximum correct number: 30.000000
+k = 2, rho = 0.500000,class=6, maximum correct number: 30.000000
+k = 2, rho = 0.700000,class=1, maximum correct number: 34.000000
+k = 2, rho = 0.700000,class=2, maximum correct number: 21.000000
+k = 2, rho = 0.700000,class=3, maximum correct number: 16.000000
+k = 2, rho = 0.700000,class=4, maximum correct number: 2.000000
+k = 2, rho = 0.700000,class=5, maximum correct number: 30.000000
+k = 2, rho = 0.700000,class=6, maximum correct number: 30.000000
+k = 2, rho = 0.900000,class=1, maximum correct number: 34.000000
+k = 2, rho = 0.900000,class=2, maximum correct number: 21.000000
+k = 2, rho = 0.900000,class=3, maximum correct number: 16.000000
+k = 2, rho = 0.900000,class=4, maximum correct number: 2.000000
+k = 2, rho = 0.900000,class=5, maximum correct number: 30.000000
+k = 2, rho = 0.900000,class=6, maximum correct number: 30.000000
+k = 3, rho = 0.100000,class=1, maximum correct number: 34.000000
+k = 3, rho = 0.100000,class=2, maximum correct number: 23.000000
+k = 3, rho = 0.100000,class=3, maximum correct number: 16.000000
+k = 3, rho = 0.100000,class=4, maximum correct number: 6.000000
+k = 3, rho = 0.100000,class=5, maximum correct number: 30.000000
+k = 3, rho = 0.100000,class=6, maximum correct number: 30.000000
+k = 3, rho = 0.300000,class=1, maximum correct number: 34.000000
+k = 3, rho = 0.300000,class=2, maximum correct number: 23.000000
+k = 3, rho = 0.300000,class=3, maximum correct number: 16.000000
+k = 3, rho = 0.300000,class=4, maximum correct number: 6.000000
+k = 3, rho = 0.300000,class=5, maximum correct number: 30.000000
+k = 3, rho = 0.300000,class=6, maximum correct number: 30.000000
+k = 3, rho = 0.500000,class=1, maximum correct number: 34.000000
+k = 3, rho = 0.500000,class=2, maximum correct number: 23.000000
+k = 3, rho = 0.500000,class=3, maximum correct number: 16.000000
+k = 3, rho = 0.500000,class=4, maximum correct number: 6.000000
+k = 3, rho = 0.500000,class=5, maximum correct number: 30.000000
+k = 3, rho = 0.500000,class=6, maximum correct number: 30.000000
+k = 3, rho = 0.700000,class=1, maximum correct number: 34.000000
+k = 3, rho = 0.700000,class=2, maximum correct number: 23.000000
+k = 3, rho = 0.700000,class=3, maximum correct number: 16.000000
+k = 3, rho = 0.700000,class=4, maximum correct number: 6.000000
+k = 3, rho = 0.700000,class=5, maximum correct number: 30.000000
+k = 3, rho = 0.700000,class=6, maximum correct number: 30.000000
+k = 3, rho = 0.900000,class=1, maximum correct number: 34.000000
+k = 3, rho = 0.900000,class=2, maximum correct number: 23.000000
+k = 3, rho = 0.900000,class=3, maximum correct number: 16.000000
+k = 3, rho = 0.900000,class=4, maximum correct number: 6.000000
+k = 3, rho = 0.900000,class=5, maximum correct number: 30.000000
+k = 3, rho = 0.900000,class=6, maximum correct number: 30.000000
+k = 4, rho = 0.100000,class=1, maximum correct number: 34.000000
+k = 4, rho = 0.100000,class=2, maximum correct number: 21.000000
+k = 4, rho = 0.100000,class=3, maximum correct number: 16.000000
+k = 4, rho = 0.100000,class=4, maximum correct number: 7.000000
+k = 4, rho = 0.100000,class=5, maximum correct number: 30.000000
+k = 4, rho = 0.100000,class=6, maximum correct number: 30.000000
+k = 4, rho = 0.300000,class=1, maximum correct number: 34.000000
+k = 4, rho = 0.300000,class=2, maximum correct number: 21.000000
+k = 4, rho = 0.300000,class=3, maximum correct number: 16.000000
+k = 4, rho = 0.300000,class=4, maximum correct number: 7.000000
+k = 4, rho = 0.300000,class=5, maximum correct number: 30.000000
+k = 4, rho = 0.300000,class=6, maximum correct number: 30.000000
+k = 4, rho = 0.500000,class=1, maximum correct number: 34.000000
+k = 4, rho = 0.500000,class=2, maximum correct number: 21.000000
+k = 4, rho = 0.500000,class=3, maximum correct number: 16.000000
+k = 4, rho = 0.500000,class=4, maximum correct number: 7.000000
+k = 4, rho = 0.500000,class=5, maximum correct number: 30.000000
+k = 4, rho = 0.500000,class=6, maximum correct number: 30.000000
+k = 4, rho = 0.700000,class=1, maximum correct number: 34.000000
+k = 4, rho = 0.700000,class=2, maximum correct number: 21.000000
+k = 4, rho = 0.700000,class=3, maximum correct number: 16.000000
+k = 4, rho = 0.700000,class=4, maximum correct number: 7.000000
+k = 4, rho = 0.700000,class=5, maximum correct number: 30.000000
+k = 4, rho = 0.700000,class=6, maximum correct number: 30.000000
+k = 4, rho = 0.900000,class=1, maximum correct number: 34.000000
+k = 4, rho = 0.900000,class=2, maximum correct number: 21.000000
+k = 4, rho = 0.900000,class=3, maximum correct number: 16.000000
+k = 4, rho = 0.900000,class=4, maximum correct number: 7.000000
+k = 4, rho = 0.900000,class=5, maximum correct number: 30.000000
+k = 4, rho = 0.900000,class=6, maximum correct number: 30.000000
+iteration = 1, k = 2, rho = 0.100000, testing accuracy = 0.945578
+iteration = 1, k = 2, rho = 0.100000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 23 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 6 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 30 
+
+iteration = 1, k = 2, rho = 0.300000, testing accuracy = 0.911565
+iteration = 1, k = 2, rho = 0.300000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 21 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 2 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 2, rho = 0.500000, testing accuracy = 0.904762
+iteration = 1, k = 2, rho = 0.500000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 20 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 2 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 2, rho = 0.700000, testing accuracy = 0.911565
+iteration = 1, k = 2, rho = 0.700000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 21 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 3 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 30 
+
+iteration = 1, k = 2, rho = 0.900000, testing accuracy = 0.897959
+iteration = 1, k = 2, rho = 0.900000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 20 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 2 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 30 
+
+iteration = 1, k = 3, rho = 0.100000, testing accuracy = 0.938776
+iteration = 1, k = 3, rho = 0.100000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 23 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 6 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 29 
+
+iteration = 1, k = 3, rho = 0.300000, testing accuracy = 0.809524
+iteration = 1, k = 3, rho = 0.300000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 19 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 6 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 14 
+
+iteration = 1, k = 3, rho = 0.500000, testing accuracy = 0.925170
+iteration = 1, k = 3, rho = 0.500000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 21 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 6 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 29 
+
+iteration = 1, k = 3, rho = 0.700000, testing accuracy = 0.802721
+iteration = 1, k = 3, rho = 0.700000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 18 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 6 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 14 
+
+iteration = 1, k = 3, rho = 0.900000, testing accuracy = 0.884354
+iteration = 1, k = 3, rho = 0.900000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 19 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 2 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 29 
+
+iteration = 1, k = 4, rho = 0.100000, testing accuracy = 0.904762
+iteration = 1, k = 4, rho = 0.100000
+j = 1, correct testing_num = 28 
+j = 2, correct testing_num = 20 
+j = 3, correct testing_num = 15 
+j = 4, correct testing_num = 9 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 4, rho = 0.300000, testing accuracy = 0.959184
+iteration = 1, k = 4, rho = 0.300000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 23 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 7 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 4, rho = 0.500000, testing accuracy = 0.965986
+iteration = 1, k = 4, rho = 0.500000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 23 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 8 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 4, rho = 0.700000, testing accuracy = 0.945578
+iteration = 1, k = 4, rho = 0.700000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 21 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 7 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+iteration = 1, k = 4, rho = 0.900000, testing accuracy = 0.952381
+iteration = 1, k = 4, rho = 0.900000
+j = 1, correct testing_num = 34 
+j = 2, correct testing_num = 23 
+j = 3, correct testing_num = 16 
+j = 4, correct testing_num = 6 
+j = 5, correct testing_num = 30 
+j = 6, correct testing_num = 31 
+
+k = 2, rho = 0.100000, maximum_testing_acc: 0.897959
+k = 2, rho = 0.300000, maximum_testing_acc: 0.897959
+k = 2, rho = 0.500000, maximum_testing_acc: 0.897959
+k = 2, rho = 0.700000, maximum_testing_acc: 0.897959
+k = 2, rho = 0.900000, maximum_testing_acc: 0.897959
+k = 3, rho = 0.100000, maximum_testing_acc: 0.884354
+k = 3, rho = 0.300000, maximum_testing_acc: 0.884354
+k = 3, rho = 0.500000, maximum_testing_acc: 0.884354
+k = 3, rho = 0.700000, maximum_testing_acc: 0.884354
+k = 3, rho = 0.900000, maximum_testing_acc: 0.884354
+k = 4, rho = 0.100000, maximum_testing_acc: 0.952381
+k = 4, rho = 0.300000, maximum_testing_acc: 0.952381
+k = 4, rho = 0.500000, maximum_testing_acc: 0.952381
+k = 4, rho = 0.700000, maximum_testing_acc: 0.952381
+k = 4, rho = 0.900000, maximum_testing_acc: 0.952381
+k = 2, rho = 0.100000, avg_testing_acc: 0.897959
+k = 2, rho = 0.300000, avg_testing_acc: 0.897959
+k = 2, rho = 0.500000, avg_testing_acc: 0.897959
+k = 2, rho = 0.700000, avg_testing_acc: 0.897959
+k = 2, rho = 0.900000, avg_testing_acc: 0.897959
+k = 3, rho = 0.100000, avg_testing_acc: 0.884354
+k = 3, rho = 0.300000, avg_testing_acc: 0.884354
+k = 3, rho = 0.500000, avg_testing_acc: 0.884354
+k = 3, rho = 0.700000, avg_testing_acc: 0.884354
+k = 3, rho = 0.900000, avg_testing_acc: 0.884354
+k = 4, rho = 0.100000, avg_testing_acc: 0.952381
+k = 4, rho = 0.300000, avg_testing_acc: 0.952381
+k = 4, rho = 0.500000, avg_testing_acc: 0.952381
+k = 4, rho = 0.700000, avg_testing_acc: 0.952381
+k = 4, rho = 0.900000, avg_testing_acc: 0.952381
+k = 2, rho = 0.100000,class=1, maximum correct number: 34.000000
+k = 2, rho = 0.100000,class=2, maximum correct number: 20.000000
+k = 2, rho = 0.100000,class=3, maximum correct number: 16.000000
+k = 2, rho = 0.100000,class=4, maximum correct number: 2.000000
+k = 2, rho = 0.100000,class=5, maximum correct number: 30.000000
+k = 2, rho = 0.100000,class=6, maximum correct number: 30.000000
+k = 2, rho = 0.300000,class=1, maximum correct number: 34.000000
+k = 2, rho = 0.300000,class=2, maximum correct number: 20.000000
+k = 2, rho = 0.300000,class=3, maximum correct number: 16.000000
+k = 2, rho = 0.300000,class=4, maximum correct number: 2.000000
+k = 2, rho = 0.300000,class=5, maximum correct number: 30.000000
+k = 2, rho = 0.300000,class=6, maximum correct number: 30.000000
+k = 2, rho = 0.500000,class=1, maximum correct number: 34.000000
+k = 2, rho = 0.500000,class=2, maximum correct number: 20.000000
+k = 2, rho = 0.500000,class=3, maximum correct number: 16.000000
+k = 2, rho = 0.500000,class=4, maximum correct number: 2.000000
+k = 2, rho = 0.500000,class=5, maximum correct number: 30.000000
+k = 2, rho = 0.500000,class=6, maximum correct number: 30.000000
+k = 2, rho = 0.700000,class=1, maximum correct number: 34.000000
+k = 2, rho = 0.700000,class=2, maximum correct number: 20.000000
+k = 2, rho = 0.700000,class=3, maximum correct number: 16.000000
+k = 2, rho = 0.700000,class=4, maximum correct number: 2.000000
+k = 2, rho = 0.700000,class=5, maximum correct number: 30.000000
+k = 2, rho = 0.700000,class=6, maximum correct number: 30.000000
+k = 2, rho = 0.900000,class=1, maximum correct number: 34.000000
+k = 2, rho = 0.900000,class=2, maximum correct number: 20.000000
+k = 2, rho = 0.900000,class=3, maximum correct number: 16.000000
+k = 2, rho = 0.900000,class=4, maximum correct number: 2.000000
+k = 2, rho = 0.900000,class=5, maximum correct number: 30.000000
+k = 2, rho = 0.900000,class=6, maximum correct number: 30.000000
+k = 3, rho = 0.100000,class=1, maximum correct number: 34.000000
+k = 3, rho = 0.100000,class=2, maximum correct number: 19.000000
+k = 3, rho = 0.100000,class=3, maximum correct number: 16.000000
+k = 3, rho = 0.100000,class=4, maximum correct number: 2.000000
+k = 3, rho = 0.100000,class=5, maximum correct number: 30.000000
+k = 3, rho = 0.100000,class=6, maximum correct number: 29.000000
+k = 3, rho = 0.300000,class=1, maximum correct number: 34.000000
+k = 3, rho = 0.300000,class=2, maximum correct number: 19.000000
+k = 3, rho = 0.300000,class=3, maximum correct number: 16.000000
+k = 3, rho = 0.300000,class=4, maximum correct number: 2.000000
+k = 3, rho = 0.300000,class=5, maximum correct number: 30.000000
+k = 3, rho = 0.300000,class=6, maximum correct number: 29.000000
+k = 3, rho = 0.500000,class=1, maximum correct number: 34.000000
+k = 3, rho = 0.500000,class=2, maximum correct number: 19.000000
+k = 3, rho = 0.500000,class=3, maximum correct number: 16.000000
+k = 3, rho = 0.500000,class=4, maximum correct number: 2.000000
+k = 3, rho = 0.500000,class=5, maximum correct number: 30.000000
+k = 3, rho = 0.500000,class=6, maximum correct number: 29.000000
+k = 3, rho = 0.700000,class=1, maximum correct number: 34.000000
+k = 3, rho = 0.700000,class=2, maximum correct number: 19.000000
+k = 3, rho = 0.700000,class=3, maximum correct number: 16.000000
+k = 3, rho = 0.700000,class=4, maximum correct number: 2.000000
+k = 3, rho = 0.700000,class=5, maximum correct number: 30.000000
+k = 3, rho = 0.700000,class=6, maximum correct number: 29.000000
+k = 3, rho = 0.900000,class=1, maximum correct number: 34.000000
+k = 3, rho = 0.900000,class=2, maximum correct number: 19.000000
+k = 3, rho = 0.900000,class=3, maximum correct number: 16.000000
+k = 3, rho = 0.900000,class=4, maximum correct number: 2.000000
+k = 3, rho = 0.900000,class=5, maximum correct number: 30.000000
+k = 3, rho = 0.900000,class=6, maximum correct number: 29.000000
+k = 4, rho = 0.100000,class=1, maximum correct number: 34.000000
+k = 4, rho = 0.100000,class=2, maximum correct number: 23.000000
+k = 4, rho = 0.100000,class=3, maximum correct number: 16.000000
+k = 4, rho = 0.100000,class=4, maximum correct number: 6.000000
+k = 4, rho = 0.100000,class=5, maximum correct number: 30.000000
+k = 4, rho = 0.100000,class=6, maximum correct number: 31.000000
+k = 4, rho = 0.300000,class=1, maximum correct number: 34.000000
+k = 4, rho = 0.300000,class=2, maximum correct number: 23.000000
+k = 4, rho = 0.300000,class=3, maximum correct number: 16.000000
+k = 4, rho = 0.300000,class=4, maximum correct number: 6.000000
+k = 4, rho = 0.300000,class=5, maximum correct number: 30.000000
+k = 4, rho = 0.300000,class=6, maximum correct number: 31.000000
+k = 4, rho = 0.500000,class=1, maximum correct number: 34.000000
+k = 4, rho = 0.500000,class=2, maximum correct number: 23.000000
+k = 4, rho = 0.500000,class=3, maximum correct number: 16.000000
+k = 4, rho = 0.500000,class=4, maximum correct number: 6.000000
+k = 4, rho = 0.500000,class=5, maximum correct number: 30.000000
+k = 4, rho = 0.500000,class=6, maximum correct number: 31.000000
+k = 4, rho = 0.700000,class=1, maximum correct number: 34.000000
+k = 4, rho = 0.700000,class=2, maximum correct number: 23.000000
+k = 4, rho = 0.700000,class=3, maximum correct number: 16.000000
+k = 4, rho = 0.700000,class=4, maximum correct number: 6.000000
+k = 4, rho = 0.700000,class=5, maximum correct number: 30.000000
+k = 4, rho = 0.700000,class=6, maximum correct number: 31.000000
+k = 4, rho = 0.900000,class=1, maximum correct number: 34.000000
+k = 4, rho = 0.900000,class=2, maximum correct number: 23.000000
+k = 4, rho = 0.900000,class=3, maximum correct number: 16.000000
+k = 4, rho = 0.900000,class=4, maximum correct number: 6.000000
+k = 4, rho = 0.900000,class=5, maximum correct number: 30.000000
+k = 4, rho = 0.900000,class=6, maximum correct number: 31.000000
